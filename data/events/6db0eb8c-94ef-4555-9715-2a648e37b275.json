@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "e5c5faf1-0e06-4be3-8de9-214c24bb74ea": {
+      "label": "AV File 2",
+      "file_url": "https://aviary-p-weareavp.s3.wasabisys.com/collection_resource_files/resource_files/000/116/529/original/1622811855AviaryDemo_0119_ac.mp4?1713855193",
+      "duration": 65.971
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-11-04T15:36:50.400Z",
+  "created_by": "tanyaclement",
+  "item_type": "Video",
+  "label": "Imported Event 2",
+  "updated_at": "2024-11-04T15:36:50.400Z",
+  "updated_by": "tanyaclement"
+}
