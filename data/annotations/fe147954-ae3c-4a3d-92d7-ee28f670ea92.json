@@ -1,0 +1,205 @@
+{
+  "event_id": "cfb23e81-f5d3-44f3-8695-6e22ef960d27",
+  "source_id": "7d723b1b-faac-4e0e-aa22-86f0c9fa21e8",
+  "set": " Poet and Critic: Gérard Tougas Index [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 139,
+      "annotation": [
+        {
+          "text": "Host introduces Gérard Tougas in French and in English"
+        }
+      ],
+      "tags": [],
+      "uuid": "3af1d0a2-9d3a-4f80-a597-6da4c362c4a7"
+    },
+    {
+      "start_time": 140,
+      "end_time": 249,
+      "annotation": [
+        {
+          "text": "Tougas introduces the subject of his speech which is the mechanics of publishing and how to make yourself known abroad (English)"
+        }
+      ],
+      "tags": [],
+      "uuid": "f3c24094-9640-4e3c-acb9-98dfcca3f7be"
+    },
+    {
+      "start_time": 250,
+      "end_time": 293,
+      "annotation": [
+        {
+          "text": "Tougas discusses his questionning in regard to delievering his speech in French or in English (French and English)"
+        }
+      ],
+      "tags": [],
+      "uuid": "52bcfb5c-7932-4ead-b6f4-841a47413a5c"
+    },
+    {
+      "start_time": 294,
+      "end_time": 310,
+      "annotation": [
+        {
+          "text": "Tougas introduces a quote from Earle Birney"
+        }
+      ],
+      "tags": [],
+      "uuid": "c3830fc2-e0d2-478c-b107-47311eb6c18c"
+    },
+    {
+      "start_time": 311,
+      "end_time": 360,
+      "annotation": [
+        {
+          "text": "Tougas performs a quote from Birney"
+        }
+      ],
+      "tags": [],
+      "uuid": "d7bb96a3-6725-4f08-9dfd-5702d850debb"
+    },
+    {
+      "start_time": 361,
+      "end_time": 393,
+      "annotation": [
+        {
+          "text": "Tougas discusses publishing in Canada or abroad"
+        }
+      ],
+      "tags": [],
+      "uuid": "7a98fc93-0837-4823-b16c-a3addad5e5b5"
+    },
+    {
+      "start_time": 394,
+      "end_time": 490,
+      "annotation": [
+        {
+          "text": "Tougas discusses ''La jument des Mongols'' de Jean Basile"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c37102e-59a8-4823-9b0c-e2f2d26953cf"
+    },
+    {
+      "start_time": 491,
+      "end_time": 531,
+      "annotation": [
+        {
+          "text": "Tougas discusses ''Le Grand Khan'' de Basile"
+        }
+      ],
+      "tags": [],
+      "uuid": "258b0bab-a3e9-4792-b7d0-c8c30b17af29"
+    },
+    {
+      "start_time": 532,
+      "end_time": 593,
+      "annotation": [
+        {
+          "text": "Tougas discusses the differences between publishing in Europe and in Canada"
+        }
+      ],
+      "tags": [],
+      "uuid": "2000c5e9-395d-4742-8933-f17ebafa31e5"
+    },
+    {
+      "start_time": 594,
+      "end_time": 607,
+      "annotation": [
+        {
+          "text": "Tougas introduces a quote from Gilbert Sigaux"
+        }
+      ],
+      "tags": [],
+      "uuid": "93865f2d-0282-4cea-ab36-a705888c4049"
+    },
+    {
+      "start_time": 608,
+      "end_time": 620,
+      "annotation": [
+        {
+          "text": "Tougas performs a quote from Sigaux"
+        }
+      ],
+      "tags": [],
+      "uuid": "33759b75-b857-4494-afd4-226b0ec4cef0"
+    },
+    {
+      "start_time": 621,
+      "end_time": 780,
+      "annotation": [
+        {
+          "text": "Tougas discusses the time he published a book in Europe"
+        }
+      ],
+      "tags": [],
+      "uuid": "305ff310-ea66-413b-9080-a6d364280ead"
+    },
+    {
+      "start_time": 781,
+      "end_time": 932,
+      "annotation": [
+        {
+          "text": "Tougas discusses the publishing house Marsh Jeanneret"
+        }
+      ],
+      "tags": [],
+      "uuid": "aff4f632-3c49-4638-b574-e5d4d90180a9"
+    },
+    {
+      "start_time": 933,
+      "end_time": 1033,
+      "annotation": [
+        {
+          "text": "Tougas discusses Maison Grasset, a French-Canadian publishing house, and his book La Francophonie en péril"
+        }
+      ],
+      "tags": [],
+      "uuid": "83a46e31-2b2d-4b2d-8ed1-d0060d402f62"
+    },
+    {
+      "start_time": 1034,
+      "end_time": 1169,
+      "annotation": [
+        {
+          "text": "Tougas discusses the hazards of publishing a book abroad"
+        }
+      ],
+      "tags": [],
+      "uuid": "4527a956-4c8e-46fd-b6be-14bbc8935a4e"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1405,
+      "annotation": [
+        {
+          "text": "Tougas discusses the French-Canadian publishing houses"
+        }
+      ],
+      "tags": [],
+      "uuid": "702f6e66-794e-4834-af41-3980bf528da9"
+    },
+    {
+      "start_time": 1406,
+      "end_time": 1439,
+      "annotation": [
+        {
+          "text": "Tougas gives closing remarks and applause"
+        }
+      ],
+      "tags": [],
+      "uuid": "444bddd8-65e4-4d97-8832-0496f126bc30"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1483,
+      "annotation": [
+        {
+          "text": "Host gives closing remarks and announcements"
+        }
+      ],
+      "tags": [],
+      "uuid": "17670484-3b85-4c4c-ab95-bf391821533f"
+    }
+  ]
+}
