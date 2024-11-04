@@ -1,0 +1,181 @@
+{
+  "event_id": "bbc7e93a-0ce5-4638-a2af-9e2243edd447",
+  "source_id": "197f4973-8c87-4d14-8295-44ad048a0cce",
+  "set": "Co-Education: The Year they Liberated Yale, 1970 11-17-2021 15:04 [Index]",
+  "annotations": [
+    {
+      "start_time": 7,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "\"Mother of Men,\" Yale University Prize Song 1907. Words by Brian Hooker (Yale 1902). Music by Seth Bingham (Yale 1904)"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8895c63-245f-40da-81b7-185a53565ea1"
+    },
+    {
+      "start_time": 7,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "The Yale Glee Club singing \"Mother of Men\""
+        }
+      ],
+      "tags": [],
+      "uuid": "7a5b284d-d42d-4e21-a979-2eaadd37fecb"
+    },
+    {
+      "start_time": 7,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Singing"
+        },
+        {
+          "text": "Yale Glee Club"
+        },
+        {
+          "text": "Brian Hooker"
+        },
+        {
+          "text": "Seth Bingham"
+        }
+      ],
+      "tags": [],
+      "uuid": "5fdb097e-8e23-4b14-820b-1b85d9d89e33"
+    },
+    {
+      "start_time": 44,
+      "end_time": 315,
+      "annotation": [
+        {
+          "text": "Bladderball"
+        }
+      ],
+      "tags": [],
+      "uuid": "aa3d4ffd-b7d0-40a6-bd36-65ba5ca20b7f"
+    },
+    {
+      "start_time": 44,
+      "end_time": 315,
+      "annotation": [
+        {
+          "text": "According to Wikipedia, \"Bladderball was a game traditionally played by students of Yale University, between 1954 and 1982, until being banned by the administration. The game is a variant of pushball, and has its roots in mob football. It was originally a competition between The Yale Banner, the Yale Daily News, campus humor magazine The Yale Record and campus radio station WYBC. Revival games were played in 2009 and 2011, and very briefly, in 2014.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "a911b8f2-1950-4cfa-9ffa-013ff3245227"
+    },
+    {
+      "start_time": 44,
+      "end_time": 315,
+      "annotation": [
+        {
+          "text": "Bladderball"
+        }
+      ],
+      "tags": [],
+      "uuid": "78343572-cad4-4a6c-9241-a315953c2912"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1712.834,
+      "annotation": [
+        {
+          "text": "Quote from President Kingman Brewster"
+        }
+      ],
+      "tags": [],
+      "uuid": "2211dee3-130f-42fb-a380-0e098d9b3830"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1712.834,
+      "annotation": [
+        {
+          "text": "Brewster conversation with students about co-education"
+        }
+      ],
+      "tags": [],
+      "uuid": "24971447-0ca6-4fe8-8be4-9dbd121874b7"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1712.834,
+      "annotation": [
+        {
+          "text": "\"I'm an optimist, and also a rationalizer, and a wishful thinker. I think it has been great!\""
+        }
+      ],
+      "tags": [],
+      "uuid": "72e3745b-e93b-44d3-8c38-2599eacbba1b"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1712.834,
+      "annotation": [
+        {
+          "text": "Co-education"
+        }
+      ],
+      "tags": [],
+      "uuid": "57dd2a38-ffe9-4bfc-9e8a-a3609ca0d461"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1712.834,
+      "annotation": [
+        {
+          "text": "Kingman Brewster Jr."
+        }
+      ],
+      "tags": [],
+      "uuid": "11dffe5c-9217-49ee-a15a-b78c59dda0ea"
+    },
+    {
+      "start_time": 315,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "text": "Issues the SDS is working on"
+        }
+      ],
+      "tags": [],
+      "uuid": "61882dea-11dc-4320-ab98-ae23ae3c28f3"
+    },
+    {
+      "start_time": 315,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "text": "Discussion of the Students for a Democratic Society and co-education; female students' possible role in SDS and how the issues the organization is concerned with fit in with the interests of women. "
+        }
+      ],
+      "tags": [],
+      "uuid": "6e006e89-329f-4e91-9699-03d6bc3e40c9"
+    },
+    {
+      "start_time": 315,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "text": "Students for a Democratic Society"
+        }
+      ],
+      "tags": [],
+      "uuid": "debad319-9a5e-4e3c-8d6f-71bf28c4644e"
+    },
+    {
+      "start_time": 315,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "text": "SDS"
+        }
+      ],
+      "tags": [],
+      "uuid": "06997630-6f40-4eee-bdfe-f638dcb9630a"
+    }
+  ]
+}

@@ -1,0 +1,8214 @@
+{
+  "event_id": "bbc7e93a-0ce5-4638-a2af-9e2243edd447",
+  "source_id": "197f4973-8c87-4d14-8295-44ad048a0cce",
+  "set": "Google Translate Spanish translation of transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 3.71,
+      "end_time": 4.71,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Coeducación en Yale?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9d6c2642-d4d3-4057-8914-f9f09a036f81"
+    },
+    {
+      "start_time": 5.19,
+      "end_time": 6.349,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 1:",
+          "bold": true
+        },
+        {
+          "text": "  Oh, creo que es una gran idea."
+        }
+      ],
+      "tags": [],
+      "uuid": "a26095b4-a611-4185-8444-eabdd7e6f663"
+    },
+    {
+      "start_time": 24.89,
+      "end_time": 25.89,
+      "annotation": [
+        {
+          "text": " CORO:",
+          "bold": true
+        },
+        {
+          "text": "  [cantando]"
+        }
+      ],
+      "tags": [],
+      "uuid": "dd603964-319e-40e3-825d-a31a7e5390de"
+    },
+    {
+      "start_time": 28.31,
+      "end_time": 29,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 2:",
+          "bold": true
+        },
+        {
+          "text": "  I"
+        }
+      ],
+      "tags": [],
+      "uuid": "555d855f-a20c-4384-b9d6-aaa5c185d371"
+    },
+    {
+      "start_time": 29,
+      "end_time": 29,
+      "annotation": [
+        {
+          "text": "Piensa en cualquiera, cada vez que tengas una"
+        }
+      ],
+      "tags": [],
+      "uuid": "bfb68f32-732c-481a-a27a-1c187a4b2e60"
+    },
+    {
+      "start_time": 32.15,
+      "end_time": 33.319,
+      "annotation": [
+        {
+          "text": "bisexual."
+        }
+      ],
+      "tags": [],
+      "uuid": "5c8f9742-f67e-43af-ace4-d76c7726efed"
+    },
+    {
+      "start_time": 33.32,
+      "end_time": 35.02,
+      "annotation": [
+        {
+          "text": "Es mucho mejor que"
+        }
+      ],
+      "tags": [],
+      "uuid": "79fc2b1a-bd96-4930-a852-f9b29af43237"
+    },
+    {
+      "start_time": 36.11,
+      "end_time": 37.159,
+      "annotation": [
+        {
+          "text": "situación monosexual."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ff52843-ab24-4713-9fcb-073ad94a37b5"
+    },
+    {
+      "start_time": 48.32,
+      "end_time": 49.32,
+      "annotation": [
+        {
+          "text": " CORO:",
+          "bold": true
+        },
+        {
+          "text": "  [cantando]"
+        }
+      ],
+      "tags": [],
+      "uuid": "abfbe595-619e-48bc-8b84-5d428244467c"
+    },
+    {
+      "start_time": 55.329,
+      "end_time": 57.284,
+      "annotation": [
+        {
+          "text": "Brindemos por mucho tiempo"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d34cd20-f7f8-465a-90fa-af1cd09e0f16"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "para Yale, cuántos de ustedes recuerdan"
+        }
+      ],
+      "tags": [],
+      "uuid": "6a9c1a4e-0ee2-4de6-86c1-29bd3abf4d2b"
+    },
+    {
+      "start_time": 59.41,
+      "end_time": 60.432,
+      "annotation": [
+        {
+          "text": "su griego, no es brek-addi-ak,"
+        }
+      ],
+      "tags": [],
+      "uuid": "d0955d8a-ba94-4657-8fa7-ea74d6b6758a"
+    },
+    {
+      "start_time": 60.433,
+      "end_time": 61.433,
+      "annotation": [
+        {
+          "text": "es brek-ek -ek-ek"
+        }
+      ],
+      "tags": [],
+      "uuid": "c78ccd1d-1103-4f7e-9b17-bca9321b1064"
+    },
+    {
+      "start_time": 63.19,
+      "end_time": 65.229,
+      "annotation": [
+        {
+          "text": "uno dos"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2ada458-dafa-4c85-8e7e-000d1c37ab13"
+    },
+    {
+      "start_time": 65.23,
+      "end_time": 66.247,
+      "annotation": [
+        {
+          "text": "¡tres! Brek-ek-ek-ek, ko-ax ko-ax,"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe858736-9b74-4eac-a3b1-4bff2f5c1e56"
+    },
+    {
+      "start_time": 66.248,
+      "end_time": 67.248,
+      "annotation": [
+        {
+          "text": "brek-ek-ek-ek ko-ax, koax, Ay,"
+        }
+      ],
+      "tags": [],
+      "uuid": "d5188d8d-7012-4eeb-995a-a65bc70d09fb"
+    },
+    {
+      "start_time": 71.84,
+      "end_time": 74.229,
+      "annotation": [
+        {
+          "text": "ay, ay, ay, ay."
+        }
+      ],
+      "tags": [],
+      "uuid": "26fb3387-3d91-4beb-9824-6ec5c9c7802a"
+    },
+    {
+      "start_time": 74.23,
+      "end_time": 76.609,
+      "annotation": [
+        {
+          "text": "Ra, ra, ra, ra, ra."
+        }
+      ],
+      "tags": [],
+      "uuid": "114a3a6c-7582-4590-8147-5f3db4ed8809"
+    },
+    {
+      "start_time": 76.61,
+      "end_time": 77.61,
+      "annotation": [
+        {
+          "text": "Yale! Yale!"
+        }
+      ],
+      "tags": [],
+      "uuid": "87a37df5-8274-4580-826a-acda1acae978"
+    },
+    {
+      "start_time": 78.25,
+      "end_time": 79.568,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 4:",
+          "bold": true
+        },
+        {
+          "text": "  ¡Lo estamos de nuevo!"
+        }
+      ],
+      "tags": [],
+      "uuid": "4152bc20-d892-424b-8cec-ad35a9131cc1"
+    },
+    {
+      "start_time": 79.569,
+      "end_time": 79.789,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  De nuevo."
+        }
+      ],
+      "tags": [],
+      "uuid": "264b38d0-f1e8-4fd3-a12e-e263415fcf6e"
+    },
+    {
+      "start_time": 79.79,
+      "end_time": 80.79,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Contra qué?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c4ac8b66-e6e0-4a15-a6f2-6826fed1c33d"
+    },
+    {
+      "start_time": 81.88,
+      "end_time": 83.059,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 4:",
+          "bold": true
+        },
+        {
+          "text": "  Coeducación."
+        }
+      ],
+      "tags": [],
+      "uuid": "ab1f6613-a6bd-4b64-8d61-30739dbfa08f"
+    },
+    {
+      "start_time": 84.22,
+      "end_time": 85.522,
+      "annotation": [
+        {
+          "text": "contra."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e4d28f0-7e8f-4486-880f-91f44b861144"
+    },
+    {
+      "start_time": 87.68,
+      "end_time": 88.68,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Por alguna razón, señor? ¿Usted señor?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6fef4df2-72ec-4ad6-bdb5-401bd7ab325d"
+    },
+    {
+      "start_time": 91.85,
+      "end_time": 94.288,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 4:",
+          "bold": true
+        },
+        {
+          "text": "  Bueno, no puedo decirle por qué."
+        }
+      ],
+      "tags": [],
+      "uuid": "69e20c9a-afbf-4d48-85cf-daa3f3a92ab4"
+    },
+    {
+      "start_time": 94.289,
+      "end_time": 95.559,
+      "annotation": [
+        {
+          "text": "¿Por qué no dejan entrar a algunos estudiantes de primer año más,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f53cb1b6-daec-449e-b03a-2281e12f4b8c"
+    },
+    {
+      "start_time": 95.56,
+      "end_time": 96.56,
+      "annotation": [
+        {
+          "text": "muchachos?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a14d37d0-c8a9-4f1a-a117-a9561b09af60"
+    },
+    {
+      "start_time": 101.379,
+      "end_time": 103.239,
+      "annotation": [
+        {
+          "text": "Habrá demasiados niños ilegítimos"
+        }
+      ],
+      "tags": [],
+      "uuid": "5235d069-b250-4aea-95e3-d5495e40a371"
+    },
+    {
+      "start_time": 103.24,
+      "end_time": 104.24,
+      "annotation": [
+        {
+          "text": "00"
+        }
+      ],
+      "tags": [],
+      "uuid": "a488d9ac-e78f-45dc-b52a-968024e6e74a"
+    },
+    {
+      "start_time": 106.2,
+      "end_time": 106.789,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 4 :",
+          "bold": true
+        },
+        {
+          "text": "  en los confines de New Haven."
+        }
+      ],
+      "tags": [],
+      "uuid": "004663c7-8351-4592-8138-e3a44f91dfc4"
+    },
+    {
+      "start_time": 106.79,
+      "end_time": 107.79,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 4:",
+          "bold": true
+        },
+        {
+          "text": "  Eso no saldrá al aire. [RISAS]"
+        }
+      ],
+      "tags": [],
+      "uuid": "914f8151-eb57-4436-a9d6-2f84648a8dd6"
+    },
+    {
+      "start_time": 120.01,
+      "end_time": 121.01,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 7:",
+          "bold": true
+        },
+        {
+          "text": "  Solía ​​haber esta vieja tradición en Yale"
+        }
+      ],
+      "tags": [],
+      "uuid": "a91c373b-ffcd-434a-a8b2-6f2a1be19170"
+    },
+    {
+      "start_time": 122.08,
+      "end_time": 124.059,
+      "annotation": [
+        {
+          "text": "que duró unos doscientos"
+        }
+      ],
+      "tags": [],
+      "uuid": "04f463ea-a2ad-4c48-8264-ff8af106b90c"
+    },
+    {
+      "start_time": 124.06,
+      "end_time": 125.859,
+      "annotation": [
+        {
+          "text": "y setenta años."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba848e7b-5e8c-4f0d-893a-c44532f59812"
+    },
+    {
+      "start_time": 125.86,
+      "end_time": 127.899,
+      "annotation": [
+        {
+          "text": "La tradición era que no se permitieran mujeres"
+        }
+      ],
+      "tags": [],
+      "uuid": "a2f2d215-1c35-4e83-b051-8eadd0b4cfac"
+    },
+    {
+      "start_time": 127.9,
+      "end_time": 130.119,
+      "annotation": [
+        {
+          "text": "estudiantes universitarios."
+        }
+      ],
+      "tags": [],
+      "uuid": "8350c74d-6266-4cca-9d88-acf803c144ef"
+    },
+    {
+      "start_time": 130.12,
+      "end_time": 131.723,
+      "annotation": [
+        {
+          "text": "Eso cambió en el otoño de 1969,"
+        }
+      ],
+      "tags": [],
+      "uuid": "973b93cf-8aad-4490-8a05-8e1866bdbb99"
+    },
+    {
+      "start_time": 133.57,
+      "end_time": 134.57,
+      "annotation": [
+        {
+          "text": "el año en que liberaron Yale."
+        }
+      ],
+      "tags": [],
+      "uuid": "df87de80-dbe0-439d-8a70-e52ae7807f98"
+    },
+    {
+      "start_time": 138.17,
+      "end_time": 139.17,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 8:",
+          "bold": true
+        },
+        {
+          "text": "  Está la idea de"
+        }
+      ],
+      "tags": [],
+      "uuid": "0cd7398b-0e8d-4a06-8e23-83988265cc5d"
+    },
+    {
+      "start_time": 145.06,
+      "end_time": 147.249,
+      "annotation": [
+        {
+          "text": "ir ​​a Yale, oh,"
+        }
+      ],
+      "tags": [],
+      "uuid": "70a7be6c-cf1d-4f65-9763-f377799477d7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "ja ja, sabes que iré a Yale,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c1f1b60d-05c4-472b-ac7d-f5f0c1cb1e10"
+    },
+    {
+      "start_time": 151.48,
+      "end_time": 153.229,
+      "annotation": [
+        {
+          "text": "cuando lleguen las cartas de aceptación"
+        }
+      ],
+      "tags": [],
+      "uuid": "7b165119-3b2a-4932-8337-d1960a3c8650"
+    },
+    {
+      "start_time": 153.23,
+      "end_time": 154.278,
+      "annotation": [
+        {
+          "text": "mayoría de los niños están histéricos y"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ae19098-cdb3-4d55-aa7e-1ab73c52f19d"
+    },
+    {
+      "start_time": 154.279,
+      "end_time": 155.469,
+      "annotation": [
+        {
+          "text": "saben, ya saben, todavía es una especie de"
+        }
+      ],
+      "tags": [],
+      "uuid": "64887be5-b15b-47be-b034-30fe5959efd7"
+    },
+    {
+      "start_time": 155.47,
+      "end_time": 156.47,
+      "annotation": [
+        {
+          "text": "sueño."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba054c41-0fa3-4fec-94d4-e2559573cfa9"
+    },
+    {
+      "start_time": 156.79,
+      "end_time": 158.169,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 9:",
+          "bold": true
+        },
+        {
+          "text": "  Después de tres años, puedes ver"
+        }
+      ],
+      "tags": [],
+      "uuid": "e7d66a41-b264-45a7-a8f1-04dafd8e60f6"
+    },
+    {
+      "start_time": 158.17,
+      "end_time": 159.449,
+      "annotation": [
+        {
+          "text": "todo, de todos modos."
+        }
+      ],
+      "tags": [],
+      "uuid": "ddbfdf03-7edf-48e2-aaf1-33b9cdc2e94e"
+    },
+    {
+      "start_time": 159.45,
+      "end_time": 160.604,
+      "annotation": [
+        {
+          "text": "Debería, debería añadir mucho a"
+        }
+      ],
+      "tags": [],
+      "uuid": "71848c36-715c-4686-aaa0-cccac7eaf71a"
+    },
+    {
+      "start_time": 160.605,
+      "end_time": 161.919,
+      "annotation": [
+        {
+          "text": "la vida social, creo."
+        }
+      ],
+      "tags": [],
+      "uuid": "beba6d8b-d58b-4ef4-ab9f-e6f90ff53007"
+    },
+    {
+      "start_time": 161.92,
+      "end_time": 163.599,
+      "annotation": [
+        {
+          "text": "Creo que probablemente las chicas estén"
+        }
+      ],
+      "tags": [],
+      "uuid": "b6d65cbe-1dc2-4155-bae9-c44c7b0f995d"
+    },
+    {
+      "start_time": 163.6,
+      "end_time": 165.579,
+      "annotation": [
+        {
+          "text": "un poco aprensivas acerca de"
+        }
+      ],
+      "tags": [],
+      "uuid": "ad8ca6ad-7b13-45c5-8fa3-d26042dfde23"
+    },
+    {
+      "start_time": 165.58,
+      "end_time": 167.499,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ir a Yale al principio."
+        }
+      ],
+      "tags": [],
+      "uuid": "c74a0f3d-1a49-4b55-aa7c-334cecf2ed74"
+    },
+    {
+      "start_time": 167.5,
+      "end_time": 168.819,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Qué le"
+        }
+      ],
+      "tags": [],
+      "uuid": "8168d773-4717-4ea2-ae43-2e6470bd553f"
+    },
+    {
+      "start_time": 170.68,
+      "end_time": 172.427,
+      "annotation": [
+        {
+          "text": "diga que"
+        }
+      ],
+      "tags": [],
+      "uuid": "cab198e1-6a80-47f9-8627-53faaf886b0c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "le dan pastillas anticonceptivas"
+        }
+      ],
+      "tags": [],
+      "uuid": "db0fa707-0d0a-4bf3-aecf-69a7688f85d6"
+    },
+    {
+      "start_time": 174.79,
+      "end_time": 175.79,
+      "annotation": [
+        {
+          "text": "a cualquier chica que las pida?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e967646a-80f7-41f8-95c9-4b137ec1bb91"
+    },
+    {
+      "start_time": 177.22,
+      "end_time": 178.479,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 8:",
+          "bold": true
+        },
+        {
+          "text": "  No había oído eso. Creo que es"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e664961-abc0-4e26-9f3d-fe8b3f68647d"
+    },
+    {
+      "start_time": 178.48,
+      "end_time": 179.51,
+      "annotation": [
+        {
+          "text": "una buena idea."
+        }
+      ],
+      "tags": [],
+      "uuid": "3478ff1b-be2d-4b2d-8640-28019d85dfa9"
+    },
+    {
+      "start_time": 183.208,
+      "end_time": 184.299,
+      "annotation": [
+        {
+          "text": "¿Sí? ¿Cómo te sientes, cómo crees"
+        }
+      ],
+      "tags": [],
+      "uuid": "2a2b4ccb-5368-42e2-88cb-ad9b939b66ae"
+    },
+    {
+      "start_time": 184.3,
+      "end_time": 185.68,
+      "annotation": [
+        {
+          "text": "que se sentirían los padres?"
+        }
+      ],
+      "tags": [],
+      "uuid": "60c23f1b-bbaf-4748-bcca-7df30dad148a"
+    },
+    {
+      "start_time": 188.919,
+      "end_time": 189.699,
+      "annotation": [
+        {
+          "text": "[RISAS] No pensarían que sería"
+        }
+      ],
+      "tags": [],
+      "uuid": "8ebe882a-fa61-4d14-8b0e-cb4022c51748"
+    },
+    {
+      "start_time": 189.7,
+      "end_time": 190.7,
+      "annotation": [
+        {
+          "text": "tan buena idea, no lo creo."
+        }
+      ],
+      "tags": [],
+      "uuid": "fb4870f2-5cd1-40cb-a0d2-ea54e37177c4"
+    },
+    {
+      "start_time": 192.49,
+      "end_time": 193.659,
+      "annotation": [
+        {
+          "text": "No creo, no han escuchado"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6b4b2e6-2560-46d8-8b08-24890ae10363"
+    },
+    {
+      "start_time": 193.66,
+      "end_time": 194.66,
+      "annotation": [
+        {
+          "text": "nada sobre esto."
+        }
+      ],
+      "tags": [],
+      "uuid": "afd28cb3-aaeb-49cc-aeba-834922d72ed9"
+    },
+    {
+      "start_time": 195.49,
+      "end_time": 196.49,
+      "annotation": [
+        {
+          "text": "Y no sé, si ellos--"
+        }
+      ],
+      "tags": [],
+      "uuid": "007cb618-856d-4bfd-a3b0-24691578f151"
+    },
+    {
+      "start_time": 197.41,
+      "end_time": 198.41,
+      "annotation": [
+        {
+          "text": "No sé."
+        }
+      ],
+      "tags": [],
+      "uuid": "7b8a15be-c2e4-44dc-a8af-45b65e246373"
+    },
+    {
+      "start_time": 199.2,
+      "end_time": 200.289,
+      "annotation": [
+        {
+          "text": "Uh, bueno, no planeo escribirles"
+        }
+      ],
+      "tags": [],
+      "uuid": "3065d9f7-903a-49e9-bca3-49efad90d763"
+    },
+    {
+      "start_time": 200.29,
+      "end_time": 201.639,
+      "annotation": [
+        {
+          "text": "una carta diciendo, oye mamá, adivina"
+        }
+      ],
+      "tags": [],
+      "uuid": "492d6ef0-bb6e-4f69-86c0-d0c4a1d23d7e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "qué, voy a tener"
+        }
+      ],
+      "tags": [],
+      "uuid": "4cf9d96e-07fe-4bf3-a10e-740f71848774"
+    },
+    {
+      "start_time": 202.9,
+      "end_time": 203.799,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 9:",
+          "bold": true
+        },
+        {
+          "text": "  píldoras anticonceptivas gratis, ya sabes."
+        }
+      ],
+      "tags": [],
+      "uuid": "46e377fb-b781-4b81-9e1f-0eafbcfc09d4"
+    },
+    {
+      "start_time": 203.8,
+      "end_time": 204.8,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 9:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Libre?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0fc70e5d-70dc-40dc-97ac-0b259102f255"
+    },
+    {
+      "start_time": 207.34,
+      "end_time": 208.419,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 8:",
+          "bold": true
+        },
+        {
+          "text": "  Consigue pastillas anticonceptivas, pero,"
+        }
+      ],
+      "tags": [],
+      "uuid": "21a8ad19-a972-4a1d-a8a3-0542bdbf22dd"
+    },
+    {
+      "start_time": 209.71,
+      "end_time": 210.909,
+      "annotation": [
+        {
+          "text": "No lo sé. Aceptarán el"
+        }
+      ],
+      "tags": [],
+      "uuid": "909d45da-1d14-496e-a2bc-232f0a8d5f85"
+    },
+    {
+      "start_time": 210.91,
+      "end_time": 212.109,
+      "annotation": [
+        {
+          "text": "hecho, probablemente pensarán que es"
+        }
+      ],
+      "tags": [],
+      "uuid": "fde79387-444b-4a06-ac21-10cc0122a36b"
+    },
+    {
+      "start_time": 212.11,
+      "end_time": 214.059,
+      "annotation": [
+        {
+          "text": "más seguro que, ya sabes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b7be908f-ad80-413a-823d-8ffaca1cd974"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "no se dará cuenta de que"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ef40199-d2ed-4153-a3b7-5745f951e517"
+    },
+    {
+      "start_time": 215.94,
+      "end_time": 217.029,
+      "annotation": [
+        {
+          "text": "voy a querer. Pero, ya sabes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "38c7df93-3d5d-4205-8090-aee82891ee24"
+    },
+    {
+      "start_time": 217.03,
+      "end_time": 218.03,
+      "annotation": [
+        {
+          "text": "cualquiera lo hará. [RISAS]"
+        }
+      ],
+      "tags": [],
+      "uuid": "bb39a3ba-b3aa-45cd-ae05-f9a1edc9a9a8"
+    },
+    {
+      "start_time": 219.04,
+      "end_time": 220.04,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 10:",
+          "bold": true
+        },
+        {
+          "text": "  Creo que es bastante inteligente."
+        }
+      ],
+      "tags": [],
+      "uuid": "b0323ccb-bc34-4394-bf7a-9d20463548f3"
+    },
+    {
+      "start_time": 221.17,
+      "end_time": 223.149,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  Sí. Ustedes como padres"
+        }
+      ],
+      "tags": [],
+      "uuid": "aca27bce-b572-4178-affb-1cc3f5a6f97d"
+    },
+    {
+      "start_time": 223.15,
+      "end_time": 223.588,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 10:",
+          "bold": true
+        },
+        {
+          "text": "  ¿no tienen ninguna objeción?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d9505812-067a-4446-b0b6-f60d091a4d05"
+    },
+    {
+      "start_time": 223.589,
+      "end_time": 225.319,
+      "annotation": [
+        {
+          "text": "[CONVERSACIÓN] No, porque tengo"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d3bd636-90de-45d2-9666-2c443bf959ec"
+    },
+    {
+      "start_time": 225.32,
+      "end_time": 226.869,
+      "annotation": [
+        {
+          "text": "fe en el intelecto de mi hija y"
+        }
+      ],
+      "tags": [],
+      "uuid": "b95a24f3-3fdc-4960-ae47-d09066b04216"
+    },
+    {
+      "start_time": 226.87,
+      "end_time": 227.87,
+      "annotation": [
+        {
+          "text": "moralidad."
+        }
+      ],
+      "tags": [],
+      "uuid": "f48e3c17-57af-4088-b057-1c91b06080ce"
+    },
+    {
+      "start_time": 228.91,
+      "end_time": 229.91,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Y cómo te sientes como madre?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4ba0ea39-0e23-4b5c-8a2e-a8f62eba90a4"
+    },
+    {
+      "start_time": 231.19,
+      "end_time": 233.139,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 11:",
+          "bold": true
+        },
+        {
+          "text": "  Bueno, cuando leí eso,"
+        }
+      ],
+      "tags": [],
+      "uuid": "676a6af1-0540-4a16-84d5-07ba2dd89fe3"
+    },
+    {
+      "start_time": 233.14,
+      "end_time": 234.279,
+      "annotation": [
+        {
+          "text": "me sorprendió un poco."
+        }
+      ],
+      "tags": [],
+      "uuid": "3111f1d9-2494-483c-ba63-109ca55ecb01"
+    },
+    {
+      "start_time": 234.28,
+      "end_time": 236.379,
+      "annotation": [
+        {
+          "text": "Pero nosotros"
+        }
+      ],
+      "tags": [],
+      "uuid": "ceb52981-2d40-4cb1-a62d-5c5cca087e0c"
+    },
+    {
+      "start_time": 236.38,
+      "end_time": 238.809,
+      "annotation": [
+        {
+          "text": "sentimos que Bárbara"
+        }
+      ],
+      "tags": [],
+      "uuid": "5f414853-fa8e-4ce6-bd9e-ff174ddc4516"
+    },
+    {
+      "start_time": 238.81,
+      "end_time": 239.634,
+      "annotation": [
+        {
+          "text": "es lo suficientemente moral y capaz suficiente"
+        }
+      ],
+      "tags": [],
+      "uuid": "391138bd-b29f-468f-8f4d-457d0adb8d08"
+    },
+    {
+      "start_time": 239.635,
+      "end_time": 241.659,
+      "annotation": [
+        {
+          "text": "para hacer lo que quiere."
+        }
+      ],
+      "tags": [],
+      "uuid": "10fa4f89-f827-4dd3-8900-3fed1102217c"
+    },
+    {
+      "start_time": 241.66,
+      "end_time": 244.599,
+      "annotation": [
+        {
+          "text": "Y si tú,"
+        }
+      ],
+      "tags": [],
+      "uuid": "92577ab9-860f-40d3-b0b8-2b16af5ddb27"
+    },
+    {
+      "start_time": 244.6,
+      "end_time": 245.769,
+      "annotation": [
+        {
+          "text": "no pudieron tenerlo, ellos"
+        }
+      ],
+      "tags": [],
+      "uuid": "55a5be9f-0514-4964-acde-39d7a01124d8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "lo obtendrían si quisieran hacerlo"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c4ba8e1-0251-47a8-ab93-178f96c8e0ec"
+    },
+    {
+      "start_time": 247.12,
+      "end_time": 249.049,
+      "annotation": [
+        {
+          "text": " SPEAKER 12:",
+          "bold": true
+        },
+        {
+          "text": "  así. Esto está a la vista."
+        }
+      ],
+      "tags": [],
+      "uuid": "0237d1d5-28aa-4be1-b3ba-0979ad2e225b"
+    },
+    {
+      "start_time": 249.05,
+      "end_time": 250.21,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 12:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Qué te parece? Justo en la"
+        }
+      ],
+      "tags": [],
+      "uuid": "23cac319-d5ec-44cd-b130-6b3a01a9e140"
+    },
+    {
+      "start_time": 253.24,
+      "end_time": 254.24,
+      "annotation": [
+        {
+          "text": "línea roja, gira la cabeza hacia mí."
+        }
+      ],
+      "tags": [],
+      "uuid": "ccbe3785-7777-496b-ad1e-d890bf5ed892"
+    },
+    {
+      "start_time": 257.01,
+      "end_time": 258.01,
+      "annotation": [
+        {
+          "text": "bien, sonríe para la película."
+        }
+      ],
+      "tags": [],
+      "uuid": "2c46d153-a768-4024-a8da-1d20252a60ad"
+    },
+    {
+      "start_time": 261.67,
+      "end_time": 262.67,
+      "annotation": [
+        {
+          "text": ", parpadeaste una vez más."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd3eb1bd-0d3a-4190-877e-7868636f080e"
+    },
+    {
+      "start_time": 264.45,
+      "end_time": 264.479,
+      "annotation": [
+        {
+          "text": "Bien. Justo en la línea roja. Pies exactamente en esas líneas rojas. Y, justo"
+        }
+      ],
+      "tags": [],
+      "uuid": "1714a18c-a70d-4009-8c40-2570626be6ae"
+    },
+    {
+      "start_time": 264.48,
+      "end_time": 265.48,
+      "annotation": [
+        {
+          "text": "aquí."
+        }
+      ],
+      "tags": [],
+      "uuid": "d67d1fe4-9d17-4c43-806b-4c0ae04e22ee"
+    },
+    {
+      "start_time": 281.88,
+      "end_time": 282.758,
+      "annotation": [
+        {
+          "text": "Ahora deja la parte blanca de"
+        }
+      ],
+      "tags": [],
+      "uuid": "468a64e6-f61e-4442-8e08-3a98db0c528c"
+    },
+    {
+      "start_time": 282.759,
+      "end_time": 283.759,
+      "annotation": [
+        {
+          "text": "[INAUDIBLE]."
+        }
+      ],
+      "tags": [],
+      "uuid": "ddd8acf9-bf9b-4cf7-812d-4c8b193278e8"
+    },
+    {
+      "start_time": 290.72,
+      "end_time": 291.469,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Cómo ha disfrutado su primera semana en Yale?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b5f01ebd-dcf4-4960-b80f-4156e7e324af"
+    },
+    {
+      "start_time": 291.47,
+      "end_time": 292.47,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 13:",
+          "bold": true
+        },
+        {
+          "text": "  Yo, ¡fantástico! Yo"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a3f2015-528d-4241-9868-6df989fe89e9"
+    },
+    {
+      "start_time": 294.02,
+      "end_time": 295.618,
+      "annotation": [
+        {
+          "text": "creo que es genial, me encanta, de"
+        }
+      ],
+      "tags": [],
+      "uuid": "4c57cb7f-ce4c-4881-9c0c-8f566b031586"
+    },
+    {
+      "start_time": 295.619,
+      "end_time": 296.619,
+      "annotation": [
+        {
+          "text": "claro que esto puede cambiar,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5798a2ec-c326-4ece-8944-6e6ce7ea6885"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "pero va"
+        }
+      ],
+      "tags": [],
+      "uuid": "02194360-8a69-4abe-abbf-f42c1d9ae0d8"
+    },
+    {
+      "start_time": 306.48,
+      "end_time": 307.48,
+      "annotation": [
+        {
+          "text": "bien."
+        }
+      ],
+      "tags": [],
+      "uuid": "88cf0c00-ba26-40b1-abac-a15d71f75dce"
+    },
+    {
+      "start_time": 315.039,
+      "end_time": 317.059,
+      "annotation": [
+        {
+          "text": "Bueno, los otros dos problemas en los que"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf7acb7e-8946-4ce0-a196-a784593375ed"
+    },
+    {
+      "start_time": 317.06,
+      "end_time": 318.949,
+      "annotation": [
+        {
+          "text": "SDS va a estar trabajando, uno"
+        }
+      ],
+      "tags": [],
+      "uuid": "93e0ecf4-e87d-45d7-897c-9965f9e0a939"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "este momento, el SDS"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd709505-1fe3-4227-b0b6-20eb3186ee0d"
+    },
+    {
+      "start_time": 320.78,
+      "end_time": 322.609,
+      "annotation": [
+        {
+          "text": "en el que está trabajando es el apoyo a las"
+        }
+      ],
+      "tags": [],
+      "uuid": "65cdf6cd-5ad5-4eed-abd8-2d1ab40680e4"
+    },
+    {
+      "start_time": 322.61,
+      "end_time": 325.639,
+      "annotation": [
+        {
+          "text": "madres de bienestar en New Haven, que"
+        }
+      ],
+      "tags": [],
+      "uuid": "a962cdae-375a-47c7-9dbe-40f3d4cb5852"
+    },
+    {
+      "start_time": 325.64,
+      "end_time": 326.809,
+      "annotation": [
+        {
+          "text": "Creo que las chicas estarían"
+        }
+      ],
+      "tags": [],
+      "uuid": "7185666b-0ec8-4340-bce7-88a53d09e567"
+    },
+    {
+      "start_time": 326.81,
+      "end_time": 327.919,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  interesadas."
+        }
+      ],
+      "tags": [],
+      "uuid": "99971bd7-5fd1-43c2-848e-052eeea270d5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Va a intentar reclutar activamente"
+        }
+      ],
+      "tags": [],
+      "uuid": "b71a34a2-bb5e-4c32-aa0f-165026505d73"
+    },
+    {
+      "start_time": 328.704,
+      "end_time": 329.351,
+      "annotation": [
+        {
+          "text": "niñas en SDS?"
+        }
+      ],
+      "tags": [],
+      "uuid": "126b3627-0105-4895-b7b8-8099f1a36892"
+    },
+    {
+      "start_time": 329.352,
+      "end_time": 330.352,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 14:",
+          "bold": true
+        },
+        {
+          "text": "  Estamos"
+        }
+      ],
+      "tags": [],
+      "uuid": "233b33d7-418c-43f8-ad11-00d3fb434a89"
+    },
+    {
+      "start_time": 331.34,
+      "end_time": 333.086,
+      "annotation": [
+        {
+          "text": "reclutando activamente a todos para"
+        }
+      ],
+      "tags": [],
+      "uuid": "a864761d-84e1-432a-b068-d9cd3d649965"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "FDS."
+        }
+      ],
+      "tags": [],
+      "uuid": "d47a4fae-141b-4e68-85f4-bd7f0b1f0895"
+    },
+    {
+      "start_time": 335.21,
+      "end_time": 337.189,
+      "annotation": [
+        {
+          "text": "Y el otro tema, que"
+        }
+      ],
+      "tags": [],
+      "uuid": "618a4c05-9dde-457f-b358-31881a4c90b7"
+    },
+    {
+      "start_time": 337.19,
+      "end_time": 339.169,
+      "annotation": [
+        {
+          "text": "será igual de importante, es el"
+        }
+      ],
+      "tags": [],
+      "uuid": "13cffeaf-c12e-4273-b034-c75d583c81c0"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Campus Worker Student Alliance,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1cac9c7e-5eaa-4dae-8619-940dc5785412"
+    },
+    {
+      "start_time": 340.58,
+      "end_time": 342.859,
+      "annotation": [
+        {
+          "text": "que son personas"
+        }
+      ],
+      "tags": [],
+      "uuid": "75509fa3-e9b9-4fde-b728-156f4f95559e"
+    },
+    {
+      "start_time": 342.86,
+      "end_time": 344.899,
+      "annotation": [
+        {
+          "text": "en SDS obteniendo tantos trabajos en el campus"
+        }
+      ],
+      "tags": [],
+      "uuid": "b25e0e0e-9d51-4177-9b4a-e6342a14229a"
+    },
+    {
+      "start_time": 346.76,
+      "end_time": 349.099,
+      "annotation": [
+        {
+          "text": "lo son, a menos que"
+        }
+      ],
+      "tags": [],
+      "uuid": "e1a4ab08-f8c5-4d25-a79f-b62bcdf33bb9"
+    },
+    {
+      "start_time": 349.1,
+      "end_time": 350.359,
+      "annotation": [
+        {
+          "text": "la universidad tenga más hombres"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc1d5474-9128-46f3-8ba3-81e5d6a8b2a8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "chovinismo de lo que pensaba, estará"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c68351f-77ca-4935-8aab-f24261f4a985"
+    },
+    {
+      "start_time": 352.88,
+      "end_time": 353.88,
+      "annotation": [
+        {
+          "text": "tan"
+        }
+      ],
+      "tags": [],
+      "uuid": "6d234482-a205-45f7-a761-669bd74d6a47"
+    },
+    {
+      "start_time": 354.71,
+      "end_time": 357.139,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 15:",
+          "bold": true
+        },
+        {
+          "text": "  dispuesto a ser contratado como cualquier otro."
+        }
+      ],
+      "tags": [],
+      "uuid": "75389ca6-9dc2-478b-84c8-44b31bacb538"
+    },
+    {
+      "start_time": 357.14,
+      "end_time": 358.14,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 15:",
+          "bold": true
+        },
+        {
+          "text": "  Estoy interesado en"
+        }
+      ],
+      "tags": [],
+      "uuid": "0bfac3e2-0c41-4619-9871-4582382e8bf5"
+    },
+    {
+      "start_time": 360.44,
+      "end_time": 362.839,
+      "annotation": [
+        {
+          "text": "participar en SDS."
+        }
+      ],
+      "tags": [],
+      "uuid": "68cfc611-72f5-4d6c-8aa4-99bb22ffc207"
+    },
+    {
+      "start_time": 362.84,
+      "end_time": 364.729,
+      "annotation": [
+        {
+          "text": "Y también,"
+        }
+      ],
+      "tags": [],
+      "uuid": "89ddfbbd-3c7f-4d94-bcbb-2f42f574c933"
+    },
+    {
+      "start_time": 364.73,
+      "end_time": 366.283,
+      "annotation": [
+        {
+          "text": "quiero estar en el [?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8b0f00e-eae3-4959-a7a1-1abcda9d63a0"
+    },
+    {
+      "start_time": 366.284,
+      "end_time": 367.284,
+      "annotation": [
+        {
+          "text": "coro ?] Creo."
+        }
+      ],
+      "tags": [],
+      "uuid": "85c4b6db-eb29-4f40-a118-ee371b4ae86b"
+    },
+    {
+      "start_time": 370.42,
+      "end_time": 371.169,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Cómo debería ser un programa que está llevando a cabo SDS?"
+        }
+      ],
+      "tags": [],
+      "uuid": "39b564a2-c930-4de5-b01e-3840f6de9f8c"
+    },
+    {
+      "start_time": 371.17,
+      "end_time": 373.129,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 15:",
+          "bold": true
+        },
+        {
+          "text": "  Bueno, no estoy"
+        }
+      ],
+      "tags": [],
+      "uuid": "3e08a96e-998d-48e6-9ea7-9cd3ba4e364e"
+    },
+    {
+      "start_time": 373.13,
+      "end_time": 375.799,
+      "annotation": [
+        {
+          "text": "claro, estoy, me gustaría ver qué trajeron cosas nuevas."
+        }
+      ],
+      "tags": [],
+      "uuid": "110f8614-7c34-493b-8e33-f77c0e7bc0ec"
+    },
+    {
+      "start_time": 383.04,
+      "end_time": 384.638,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Crees que la mayoría de las chicas"
+        }
+      ],
+      "tags": [],
+      "uuid": "f9a8f89a-d2c0-4451-ba94-6269ab3cb39f"
+    },
+    {
+      "start_time": 384.639,
+      "end_time": 385.129,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 15:",
+          "bold": true
+        },
+        {
+          "text": "  se politiza al final del--"
+        }
+      ],
+      "tags": [],
+      "uuid": "301b1930-2126-4842-8c7c-ce466e1f97b1"
+    },
+    {
+      "start_time": 385.13,
+      "end_time": 386.119,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 15:",
+          "bold": true
+        },
+        {
+          "text": "  Definitivamente."
+        }
+      ],
+      "tags": [],
+      "uuid": "d80f05ab-7cb3-48a7-af29-4e9197fc2c7c"
+    },
+    {
+      "start_time": 386.12,
+      "end_time": 387.541,
+      "annotation": [
+        {
+          "text": "Todo el ambiente de"
+        }
+      ],
+      "tags": [],
+      "uuid": "3dd4bd3a-5ff3-4b1e-9dae-587c83628ae2"
+    },
+    {
+      "start_time": 387.542,
+      "end_time": 389.209,
+      "annotation": [
+        {
+          "text": "Yale tendrá que politizarlos"
+        }
+      ],
+      "tags": [],
+      "uuid": "65041c67-583b-48f2-993b-8831b013e538"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "y lo que está pasando en New Haven."
+        }
+      ],
+      "tags": [],
+      "uuid": "2e2ad424-0f0d-4c88-bf42-bfd667b3c5be"
+    },
+    {
+      "start_time": 393.59,
+      "end_time": 395.427,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 16:",
+          "bold": true
+        },
+        {
+          "text": "  Fue un año en el que, educativamente,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c18111d8-2910-4001-8873-8057db0e7906"
+    },
+    {
+      "start_time": 396.68,
+      "end_time": 397.939,
+      "annotation": [
+        {
+          "text": "público de New Haven a menudo"
+        }
+      ],
+      "tags": [],
+      "uuid": "94fe17b3-eece-419c-bcc5-85bff7355bdc"
+    },
+    {
+      "start_time": 409.58,
+      "end_time": 411.439,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 17:",
+          "bold": true
+        },
+        {
+          "text": "  Y en una democracia, uno no"
+        }
+      ],
+      "tags": [],
+      "uuid": "290a4d00-b46b-42f8-a9d8-4729bda56135"
+    },
+    {
+      "start_time": 411.44,
+      "end_time": 413.29,
+      "annotation": [
+        {
+          "text": "ignora los deseos de la gente."
+        }
+      ],
+      "tags": [],
+      "uuid": "65718d67-b13d-4eb6-a4f3-0514a604ad34"
+    },
+    {
+      "start_time": 416.56,
+      "end_time": 418.569,
+      "annotation": [
+        {
+          "text": "Lo que empezó como una idea"
+        }
+      ],
+      "tags": [],
+      "uuid": "4992e8ad-d8f3-4c4e-80e8-c7f360ccde92"
+    },
+    {
+      "start_time": 418.57,
+      "end_time": 420.699,
+      "annotation": [
+        {
+          "text": "de lo que se llamó una moratoria"
+        }
+      ],
+      "tags": [],
+      "uuid": "31965593-5ea5-496a-a285-fd7a4d7688b4"
+    },
+    {
+      "start_time": 420.7,
+      "end_time": 421.7,
+      "annotation": [
+        {
+          "text": "se ha convertido"
+        }
+      ],
+      "tags": [],
+      "uuid": "6fa9129b-a9d6-4ab1-915c-41531b696ad7"
+    },
+    {
+      "start_time": 422.92,
+      "end_time": 425.019,
+      "annotation": [
+        {
+          "text": "la ciudad nacional más grande"
+        }
+      ],
+      "tags": [],
+      "uuid": "20bd0be0-bb97-40d0-9bbd-077253b66b0a"
+    },
+    {
+      "start_time": 425.02,
+      "end_time": 426.039,
+      "annotation": [
+        {
+          "text": "reunida en la historia de la"
+        }
+      ],
+      "tags": [],
+      "uuid": "85a48b90-4abc-469a-a337-9f3ccd760b8f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "país, y fue llamado por los"
+        }
+      ],
+      "tags": [],
+      "uuid": "325404bc-9448-431b-b5af-c0cfbb1264ca"
+    },
+    {
+      "start_time": 435.37,
+      "end_time": 437.289,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  Obviamente, solo puedo hablar"
+        }
+      ],
+      "tags": [],
+      "uuid": "d0e65979-625b-4f59-bb10-40111757df9b"
+    },
+    {
+      "start_time": 437.29,
+      "end_time": 439.029,
+      "annotation": [
+        {
+          "text": "personalmente,"
+        }
+      ],
+      "tags": [],
+      "uuid": "eca2ee7d-fc7b-4318-8a5e-cb5574059026"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "ni para Yale como institución,"
+        }
+      ],
+      "tags": [],
+      "uuid": "82e6d663-ced8-4660-a7f1-56c7244afd70"
+    },
+    {
+      "start_time": 443.32,
+      "end_time": 444.79,
+      "annotation": [
+        {
+          "text": "ni para Yale como comunidad,"
+        }
+      ],
+      "tags": [],
+      "uuid": "29d9f7df-bd5d-4e32-9378-04d021b59243"
+    },
+    {
+      "start_time": 446.38,
+      "end_time": 448.359,
+      "annotation": [
+        {
+          "text": "pero nunca lo ha sido"
+        }
+      ],
+      "tags": [],
+      "uuid": "ffe500c5-1bbe-4681-8fd7-dffe033da1fe"
+    },
+    {
+      "start_time": 448.36,
+      "end_time": 449.36,
+      "annotation": [
+        {
+          "text": "gran parte de Yale"
+        }
+      ],
+      "tags": [],
+      "uuid": "30fe3e27-813f-4eff-a757-1b8b7b9dfd29"
+    },
+    {
+      "start_time": 451,
+      "end_time": 452.919,
+      "annotation": [
+        {
+          "text": "hablado con una sola voz como"
+        }
+      ],
+      "tags": [],
+      "uuid": "22cb68cd-a276-49ad-8a17-a514363b7827"
+    },
+    {
+      "start_time": 452.92,
+      "end_time": 455.019,
+      "annotation": [
+        {
+          "text": "esta reunión habla hoy ."
+        }
+      ],
+      "tags": [],
+      "uuid": "451da7be-b69a-480e-a96f-383653a26719"
+    },
+    {
+      "start_time": 458.99,
+      "end_time": 459.99,
+      "annotation": [
+        {
+          "text": "Para mí,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ec8da027-b4ac-4117-a787-84636a742e4d"
+    },
+    {
+      "start_time": 461.27,
+      "end_time": 463.399,
+      "annotation": [
+        {
+          "text": "esto es, sobre todo,"
+        }
+      ],
+      "tags": [],
+      "uuid": "494b9d59-3fcc-4a8a-b4c3-b4258dca43c6"
+    },
+    {
+      "start_time": 464.45,
+      "end_time": 466.609,
+      "annotation": [
+        {
+          "text": "un día para reflexión,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5d399ded-ab3b-4362-af17-901a169fa123"
+    },
+    {
+      "start_time": 466.61,
+      "end_time": 467.699,
+      "annotation": [
+        {
+          "text": "no retórica."
+        }
+      ],
+      "tags": [],
+      "uuid": "ee692acf-2a40-4d23-afb8-7b946c83409a"
+    },
+    {
+      "start_time": 468.89,
+      "end_time": 469.89,
+      "annotation": [
+        {
+          "text": "La mayoría de nosotros"
+        }
+      ],
+      "tags": [],
+      "uuid": "34ac1460-506e-4b3f-89ea-00b03dddbbf8"
+    },
+    {
+      "start_time": 470.99,
+      "end_time": 472.909,
+      "annotation": [
+        {
+          "text": "estamos destrozados"
+        }
+      ],
+      "tags": [],
+      "uuid": "ae3b675d-74c2-4b15-b6ab-79f6fa327810"
+    },
+    {
+      "start_time": 472.91,
+      "end_time": 474.14,
+      "annotation": [
+        {
+          "text": "por el dolor de los muertos"
+        }
+      ],
+      "tags": [],
+      "uuid": "81c6b63f-586a-4b00-bb7d-eb438a6512ab"
+    },
+    {
+      "start_time": 475.61,
+      "end_time": 477.41,
+      "annotation": [
+        {
+          "text": "y por angustia por los vivos."
+        }
+      ],
+      "tags": [],
+      "uuid": "1ede405b-1373-42af-8aab-ba84956ec081"
+    },
+    {
+      "start_time": 479.06,
+      "end_time": 481.519,
+      "annotation": [
+        {
+          "text": "Es tentador, por supuesto,"
+        }
+      ],
+      "tags": [],
+      "uuid": "969ba613-3a2c-40bc-9f74-b76120b159a8"
+    },
+    {
+      "start_time": 481.52,
+      "end_time": 483.469,
+      "annotation": [
+        {
+          "text": "buscar alivio en"
+        }
+      ],
+      "tags": [],
+      "uuid": "08b6e7f4-23c9-4547-ba88-89985712e385"
+    },
+    {
+      "start_time": 483.47,
+      "end_time": 486.589,
+      "annotation": [
+        {
+          "text": "culpa y recriminación."
+        }
+      ],
+      "tags": [],
+      "uuid": "5ae5076c-686e-48bb-bf2c-53a0cc6a4c90"
+    },
+    {
+      "start_time": 486.59,
+      "end_time": 488.479,
+      "annotation": [
+        {
+          "text": "Es difícil"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b617f77-4a8c-412f-b54d-310847aebbf0"
+    },
+    {
+      "start_time": 488.48,
+      "end_time": 490.339,
+      "annotation": [
+        {
+          "text": "bajar la voz cuando el"
+        }
+      ],
+      "tags": [],
+      "uuid": "f4b93795-9a8b-4ad6-b33a-3a49499ba80b"
+    },
+    {
+      "start_time": 490.34,
+      "end_time": 492.049,
+      "annotation": [
+        {
+          "text": "presidente dice él no escuchará."
+        }
+      ],
+      "tags": [],
+      "uuid": "587a0330-ce54-4f45-ab36-7bf7967ab4c7"
+    },
+    {
+      "start_time": 509.31,
+      "end_time": 510.31,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 18:",
+          "bold": true
+        },
+        {
+          "text": "  Bueno, creo que ella"
+        }
+      ],
+      "tags": [],
+      "uuid": "3886298c-c013-494e-8ad7-103bc4e8ca92"
+    },
+    {
+      "start_time": 511.5,
+      "end_time": 513.808,
+      "annotation": [
+        {
+          "text": "es como la mayoría de los estudiantes de primer año, se siente sola"
+        }
+      ],
+      "tags": [],
+      "uuid": "c4a6a383-0362-4251-a5f7-44214c791378"
+    },
+    {
+      "start_time": 518.94,
+      "end_time": 519.016,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Ha conocido a mucha gente aquí?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b9bf1174-8410-42e4-85d9-f0b012a39530"
+    },
+    {
+      "start_time": 519.017,
+      "end_time": 520.019,
+      "annotation": [
+        {
+          "text": "No lo creo."
+        }
+      ],
+      "tags": [],
+      "uuid": "76476a8e-7506-485f-84e3-d14ec069d0e1"
+    },
+    {
+      "start_time": 520.02,
+      "end_time": 521.369,
+      "annotation": [
+        {
+          "text": "No creo que haya conocido tantos como"
+        }
+      ],
+      "tags": [],
+      "uuid": "f52978b8-1bf8-49a7-82bf-3481ae1c7842"
+    },
+    {
+      "start_time": 521.37,
+      "end_time": 522.359,
+      "annotation": [
+        {
+          "text": "que le gustaría conocer."
+        }
+      ],
+      "tags": [],
+      "uuid": "4c578411-04c1-41b5-8865-1313f95ea5d0"
+    },
+    {
+      "start_time": 522.36,
+      "end_time": 523.678,
+      "annotation": [
+        {
+          "text": "Creo que realmente anticipó"
+        }
+      ],
+      "tags": [],
+      "uuid": "6fbc9b51-87e4-4ed7-b5ba-8d13165e16d8"
+    },
+    {
+      "start_time": 523.679,
+      "end_time": 525.375,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 19:",
+          "bold": true
+        },
+        {
+          "text": "  reunirse mucho más."
+        }
+      ],
+      "tags": [],
+      "uuid": "571e91f0-81b4-4497-bf85-42b1e015fa22"
+    },
+    {
+      "start_time": 525.376,
+      "end_time": 526.889,
+      "annotation": [
+        {
+          "text": "Los estudiantes que vienen a la universidad son muy"
+        }
+      ],
+      "tags": [],
+      "uuid": "e5330a6c-f06b-4bfb-aaab-e7b9a8631128"
+    },
+    {
+      "start_time": 526.89,
+      "end_time": 528.809,
+      "annotation": [
+        {
+          "text": "mucho más inteligentes que nosotros"
+        }
+      ],
+      "tags": [],
+      "uuid": "becdf06d-a148-4c99-bb0c-acfada8da106"
+    },
+    {
+      "start_time": 528.81,
+      "end_time": 530.82,
+      "annotation": [
+        {
+          "text": "en la universidad hace 25 años."
+        }
+      ],
+      "tags": [],
+      "uuid": "9b54f729-8fa7-4818-b080-27010fc809d9"
+    },
+    {
+      "start_time": 532.56,
+      "end_time": 534.629,
+      "annotation": [
+        {
+          "text": "Probablemente sean más sabios"
+        }
+      ],
+      "tags": [],
+      "uuid": "5015814c-d6ed-414e-b842-ea8b051e56b1"
+    },
+    {
+      "start_time": 536.13,
+      "end_time": 537.689,
+      "annotation": [
+        {
+          "text": "que nosotros cuando nos graduamos"
+        }
+      ],
+      "tags": [],
+      "uuid": "305ee9c0-86da-46f1-ba85-12bb2b779cc2"
+    },
+    {
+      "start_time": 537.69,
+      "end_time": 538.69,
+      "annotation": [
+        {
+          "text": "de la universidad ."
+        }
+      ],
+      "tags": [],
+      "uuid": "03164285-b8b4-492c-a037-bd3df5cb6394"
+    },
+    {
+      "start_time": 539.39,
+      "end_time": 540.702,
+      "annotation": [
+        {
+          "text": "Y ellos, ellos, tienen muchos"
+        }
+      ],
+      "tags": [],
+      "uuid": "2fcd20f6-876b-4d7a-80eb-182dc135339c"
+    },
+    {
+      "start_time": 540.703,
+      "end_time": 541.559,
+      "annotation": [
+        {
+          "text": "adicionales, y deberían"
+        }
+      ],
+      "tags": [],
+      "uuid": "df8ca17c-ab1e-47b2-9d0a-a996cee7e9e6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "alterar las cosas"
+        }
+      ],
+      "tags": [],
+      "uuid": "1768283c-6b13-4b98-b5ec-3bbf6e714f13"
+    },
+    {
+      "start_time": 543.63,
+      "end_time": 544.63,
+      "annotation": [
+        {
+          "text": "que consideran relevantes para ellos mismos."
+        }
+      ],
+      "tags": [],
+      "uuid": "09aacb47-9f8c-40c3-9f0f-09100e04819b"
+    },
+    {
+      "start_time": 545.76,
+      "end_time": 547.469,
+      "annotation": [
+        {
+          "text": "Creo que lo modificarán."
+        }
+      ],
+      "tags": [],
+      "uuid": "df2aab51-96cc-4ff0-a9f0-0333aa7bcc8d"
+    },
+    {
+      "start_time": 547.47,
+      "end_time": 548.069,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 20:",
+          "bold": true
+        },
+        {
+          "text": "  Espero que lo hagan."
+        }
+      ],
+      "tags": [],
+      "uuid": "80c4d95b-747c-403a-b5dc-2a176eb5c2fd"
+    },
+    {
+      "start_time": 548.07,
+      "end_time": 549.222,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 20:",
+          "bold": true
+        },
+        {
+          "text": "  Todas las preocupaciones que tengo sobre Yale son"
+        }
+      ],
+      "tags": [],
+      "uuid": "4000a5e3-0379-4c4b-98c2-8457ea8fee59"
+    },
+    {
+      "start_time": 549.223,
+      "end_time": 551.009,
+      "annotation": [
+        {
+          "text": "muy sutiles. Creo que si"
+        }
+      ],
+      "tags": [],
+      "uuid": "009d2a92-01d0-46c7-b113-3a7ad284a96f"
+    },
+    {
+      "start_time": 551.01,
+      "end_time": 552.599,
+      "annotation": [
+        {
+          "text": "nombro uno, creo que tendría que ser"
+        }
+      ],
+      "tags": [],
+      "uuid": "0611bf9d-1f97-4b4a-98c1-2e3b0daeedca"
+    },
+    {
+      "start_time": 552.6,
+      "end_time": 554.679,
+      "annotation": [
+        {
+          "text": "chovinismo masculino en Yale."
+        }
+      ],
+      "tags": [],
+      "uuid": "3a411c68-319d-4ceb-a010-1fe863742a8c"
+    },
+    {
+      "start_time": 554.68,
+      "end_time": 555.689,
+      "annotation": [
+        {
+          "text": "Y creo que es algo muy"
+        }
+      ],
+      "tags": [],
+      "uuid": "785615b4-cffc-4119-862a-c488c3964582"
+    },
+    {
+      "start_time": 555.69,
+      "end_time": 556.69,
+      "annotation": [
+        {
+          "text": "descarado, muy rampante."
+        }
+      ],
+      "tags": [],
+      "uuid": "52167c98-3c80-4a5e-936f-08e6ac475be2"
+    },
+    {
+      "start_time": 585.749,
+      "end_time": 585.873,
+      "annotation": [
+        {
+          "text": "[cantando]"
+        }
+      ],
+      "tags": [],
+      "uuid": "756f497c-6ff0-4272-a6cc-b691968ba1f4"
+    },
+    {
+      "start_time": 585.874,
+      "end_time": 586.874,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Qué"
+        }
+      ],
+      "tags": [],
+      "uuid": "d16c6542-59aa-4eef-a475-f28eda90f264"
+    },
+    {
+      "start_time": 590.9,
+      "end_time": 591.9,
+      "annotation": [
+        {
+          "text": "entiendespor el término machismo?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c0540bf8-3125-4bb5-ad09-01938b4d4a87"
+    },
+    {
+      "start_time": 593.75,
+      "end_time": 594.679,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 21:",
+          "bold": true
+        },
+        {
+          "text": "  Creo que es la existencia de un doble"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d6b69c1-4e97-42e5-a7d1-500cda759928"
+    },
+    {
+      "start_time": 594.68,
+      "end_time": 595.68,
+      "annotation": [
+        {
+          "text": "estándar,"
+        }
+      ],
+      "tags": [],
+      "uuid": "aa1dbc3c-921c-4242-a343-63657b58b320"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "que las mujeres"
+        }
+      ],
+      "tags": [],
+      "uuid": "5d165f6a-dc0a-4e1e-ab38-e449e7935f99"
+    },
+    {
+      "start_time": 598.88,
+      "end_time": 600.709,
+      "annotation": [
+        {
+          "text": "existen por"
+        }
+      ],
+      "tags": [],
+      "uuid": "489a2e64-e757-47ea-ac46-7f96bd796d3b"
+    },
+    {
+      "start_time": 600.71,
+      "end_time": 602.573,
+      "annotation": [
+        {
+          "text": "razones domésticas, para criar hijos,"
+        }
+      ],
+      "tags": [],
+      "uuid": "700e8a02-93a1-4c38-b675-a3f38cf4391a"
+    },
+    {
+      "start_time": 605.09,
+      "end_time": 606.834,
+      "annotation": [
+        {
+          "text": "para sexo y ser explotado."
+        }
+      ],
+      "tags": [],
+      "uuid": "695c0e59-f602-4ec8-894c-e38d51b46e32"
+    },
+    {
+      "start_time": 608.66,
+      "end_time": 610.789,
+      "annotation": [
+        {
+          "text": "No estoy necesariamente"
+        }
+      ],
+      "tags": [],
+      "uuid": "848de908-3f7e-47cd-83fc-1dd79997a6c9"
+    },
+    {
+      "start_time": 610.79,
+      "end_time": 612.709,
+      "annotation": [
+        {
+          "text": "tratando de decir que las mujeres son groseramente"
+        }
+      ],
+      "tags": [],
+      "uuid": "ccf440e9-8f78-4648-8bac-4243f503f73c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "explotados ni nada."
+        }
+      ],
+      "tags": [],
+      "uuid": "aa2e2414-5e39-4f5e-b312-d1e46e15c8cb"
+    },
+    {
+      "start_time": 613.73,
+      "end_time": 615.199,
+      "annotation": [
+        {
+          "text": "Creo que eso es lo que"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7d259f6-4269-4b78-b1ba-4151d113994c"
+    },
+    {
+      "start_time": 615.2,
+      "end_time": 616.609,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 22:",
+          "bold": true
+        },
+        {
+          "text": "  significa machismo."
+        }
+      ],
+      "tags": [],
+      "uuid": "c7fb7fe9-b4cc-48b3-95f6-75a53e51e537"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 22:",
+          "bold": true
+        },
+        {
+          "text": "  Y tampoco tiene mucho que ver con Yale."
+        }
+      ],
+      "tags": [],
+      "uuid": "35523f79-3416-4c5d-bf82-610f28be07d1"
+    },
+    {
+      "start_time": 620.48,
+      "end_time": 623.089,
+      "annotation": [
+        {
+          "text": "Así que si es parte de nuestra"
+        }
+      ],
+      "tags": [],
+      "uuid": "abafa61c-7a09-4b0a-b7bb-d63ef14bf25d"
+    },
+    {
+      "start_time": 623.09,
+      "end_time": 624.879,
+      "annotation": [
+        {
+          "text": "sociedad decir que un hombre es un"
+        }
+      ],
+      "tags": [],
+      "uuid": "e0394828-1ace-4ca6-bfe8-b8a24587e3c0"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "machista es,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ebece7ea-ad83-4004-97f2-b041e7a3b05a"
+    },
+    {
+      "start_time": 628,
+      "end_time": 629,
+      "annotation": [
+        {
+          "text": "decir que es un hombre."
+        }
+      ],
+      "tags": [],
+      "uuid": "8374adc1-d35b-446a-952c-266a55c06591"
+    },
+    {
+      "start_time": 629.33,
+      "end_time": 630.949,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 23:",
+          "bold": true
+        },
+        {
+          "text": "  Sí, bueno, no estoy de acuerdo."
+        }
+      ],
+      "tags": [],
+      "uuid": "57167c00-0e62-4d28-9dd4-d1a6df186821"
+    },
+    {
+      "start_time": 630.95,
+      "end_time": 632.269,
+      "annotation": [
+        {
+          "text": "Creo que hay algunas manifestaciones"
+        }
+      ],
+      "tags": [],
+      "uuid": "07ece739-7fa7-4171-aa72-55782496ecf4"
+    },
+    {
+      "start_time": 632.27,
+      "end_time": 634.579,
+      "annotation": [
+        {
+          "text": "de eso en Yale, que"
+        }
+      ],
+      "tags": [],
+      "uuid": "8d24baa8-e6d2-45c6-b574-202c02ea477b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "algunas de las chicas han señalado"
+        }
+      ],
+      "tags": [],
+      "uuid": "d06a547f-e4f6-468d-93c8-bd855d7e1e85"
+    },
+    {
+      "start_time": 636.05,
+      "end_time": 637.939,
+      "annotation": [
+        {
+          "text": "cosas como no ser"
+        }
+      ],
+      "tags": [],
+      "uuid": "46c4c9c7-8f16-49df-b8ce-82119c1c20ac"
+    },
+    {
+      "start_time": 637.94,
+      "end_time": 640.159,
+      "annotation": [
+        {
+          "text": "capaces de unirse a Mory's,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e8537fa-5eec-41b8-918b-682a79687ac7"
+    },
+    {
+      "start_time": 640.16,
+      "end_time": 643.039,
+      "annotation": [
+        {
+          "text": "no ser"
+        }
+      ],
+      "tags": [],
+      "uuid": "20f59f12-8d3e-40f1-9858-94a42855300d"
+    },
+    {
+      "start_time": 643.04,
+      "end_time": 644.899,
+      "annotation": [
+        {
+          "text": "considerado para sociedades secretas,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a1fc084c-307f-49b3-a99a-696aaba7cda6"
+    },
+    {
+      "start_time": 644.9,
+      "end_time": 646.849,
+      "annotation": [
+        {
+          "text": "donde, eso puede ser una ventaja"
+        }
+      ],
+      "tags": [],
+      "uuid": "69d59868-9be7-4e40-9ff2-4d85449d0944"
+    },
+    {
+      "start_time": 646.85,
+      "end_time": 648.199,
+      "annotation": [
+        {
+          "text": "estos días."
+        }
+      ],
+      "tags": [],
+      "uuid": "19a8cced-b5b8-4c79-bc31-808368acd6f5"
+    },
+    {
+      "start_time": 648.2,
+      "end_time": 650.389,
+      "annotation": [
+        {
+          "text": "Pero, ya sabes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "396a8d54-f6d0-4d9c-826d-a8a9c6d023e7"
+    },
+    {
+      "start_time": 650.39,
+      "end_time": 652.37,
+      "annotation": [
+        {
+          "text": "Yale está inmerso en la tradición masculina."
+        }
+      ],
+      "tags": [],
+      "uuid": "e8d12f9f-2fe6-470e-b866-b608c8254c47"
+    },
+    {
+      "start_time": 675.869,
+      "end_time": 676.869,
+      "annotation": [
+        {
+          "text": "[CHARRO INDISCUTIBLE]"
+        }
+      ],
+      "tags": [],
+      "uuid": "e3cbfabf-dd1d-4310-9ad5-c838c5fb8b7b"
+    },
+    {
+      "start_time": 685.53,
+      "end_time": 687.439,
+      "annotation": [
+        {
+          "text": "Oh, bienvenido una vez más"
+        }
+      ],
+      "tags": [],
+      "uuid": "c2e3582b-331b-4f24-b7ab-e5689ac3350f"
+    },
+    {
+      "start_time": 687.44,
+      "end_time": 689.539,
+      "annotation": [
+        {
+          "text": "a la 1969 Bladderball"
+        }
+      ],
+      "tags": [],
+      "uuid": "96e7d606-6a7e-49a2-b0cb-8c6ea3209e84"
+    },
+    {
+      "start_time": 689.54,
+      "end_time": 690.861,
+      "annotation": [
+        {
+          "text": "juego, aquí en la Universidad de Yale."
+        }
+      ],
+      "tags": [],
+      "uuid": "c42b86c7-dddf-4eb6-805d-ace4a845c644"
+    },
+    {
+      "start_time": 696.09,
+      "end_time": 698.219,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 25:",
+          "bold": true
+        },
+        {
+          "text": "  Pasé algún tiempo aquí el último"
+        }
+      ],
+      "tags": [],
+      "uuid": "554af777-a31e-4e92-b875-4e02038f7ac0"
+    },
+    {
+      "start_time": 698.22,
+      "end_time": 700.319,
+      "annotation": [
+        {
+          "text": "año, ya sabes, días aquí y allá,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1b144f3e-d0f1-4f05-a6e0-1abc63d179df"
+    },
+    {
+      "start_time": 700.32,
+      "end_time": 702.209,
+      "annotation": [
+        {
+          "text": "y lo que sentía, lo que amaba de"
+        }
+      ],
+      "tags": [],
+      "uuid": "4bc26a57-4ab2-49f2-a762-04500dcdc47d"
+    },
+    {
+      "start_time": 702.21,
+      "end_time": 704.099,
+      "annotation": [
+        {
+          "text": "la escuela era"
+        }
+      ],
+      "tags": [],
+      "uuid": "4fac18e2-8c49-4f7a-b9aa-06b93d85eb35"
+    },
+    {
+      "start_time": 704.1,
+      "end_time": 706.109,
+      "annotation": [
+        {
+          "text": "a tipo de desgastado"
+        }
+      ],
+      "tags": [],
+      "uuid": "7d710daf-f33b-4f27-9de9-f22c21965eb1"
+    },
+    {
+      "start_time": 706.11,
+      "end_time": 708.179,
+      "annotation": [
+        {
+          "text": "jeans azules, camisa de trabajo, descalzo"
+        }
+      ],
+      "tags": [],
+      "uuid": "f3ebce23-c4ed-4a2a-b412-0b7b197796f0"
+    },
+    {
+      "start_time": 708.18,
+      "end_time": 710.009,
+      "annotation": [
+        {
+          "text": "tipo de ambiente, ya sabes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "adb060a4-df84-4712-b373-0c8e2862134a"
+    },
+    {
+      "start_time": 712.32,
+      "end_time": 714.209,
+      "annotation": [
+        {
+          "text": "y un tipo de sentimiento en el que"
+        }
+      ],
+      "tags": [],
+      "uuid": "d86a498a-e68e-4c55-a7cb-14ea4c8cce66"
+    },
+    {
+      "start_time": 714.21,
+      "end_time": 716.099,
+      "annotation": [
+        {
+          "text": "entraría en las habitaciones"
+        }
+      ],
+      "tags": [],
+      "uuid": "44e07fba-3f3d-4112-8de1-e7fc60a034ad"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "al azar y encontrar gente"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4094976-94af-4c10-b3b0-c0eaebe3295c"
+    },
+    {
+      "start_time": 718.65,
+      "end_time": 720.899,
+      "annotation": [
+        {
+          "text": "hablando entre ellos, saber"
+        }
+      ],
+      "tags": [],
+      "uuid": "22b851f7-f385-4b73-9ef8-ceed0cbc9918"
+    },
+    {
+      "start_time": 720.9,
+      "end_time": 722.879,
+      "annotation": [
+        {
+          "text": "sobre cualquier cosa en el mundo."
+        }
+      ],
+      "tags": [],
+      "uuid": "04c15c80-522f-4b67-88e7-f4fb1b066078"
+    },
+    {
+      "start_time": 722.88,
+      "end_time": 724.839,
+      "annotation": [
+        {
+          "text": "Y también sentí la amabilidad"
+        }
+      ],
+      "tags": [],
+      "uuid": "9be0130d-3b7f-4d70-bba5-6579acdef30a"
+    },
+    {
+      "start_time": 726.48,
+      "end_time": 728.639,
+      "annotation": [
+        {
+          "text": "de gentileza,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e83c9f85-7790-4ada-bc91-68cdc50d0af2"
+    },
+    {
+      "start_time": 728.64,
+      "end_time": 731.069,
+      "annotation": [
+        {
+          "text": "una suavidad que"
+        }
+      ],
+      "tags": [],
+      "uuid": "be98755a-f438-4850-9353-1e30d13c4b47"
+    },
+    {
+      "start_time": 731.07,
+      "end_time": 733.019,
+      "annotation": [
+        {
+          "text": "encontré"
+        }
+      ],
+      "tags": [],
+      "uuid": "749754b8-4a29-4272-a8c4-7cfca30931ec"
+    },
+    {
+      "start_time": 733.02,
+      "end_time": 734.969,
+      "annotation": [
+        {
+          "text": "bastante rara entre los de 18 años"
+        }
+      ],
+      "tags": [],
+      "uuid": "45e3b59f-e17e-4297-81da-750a75aef002"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "viejos."
+        }
+      ],
+      "tags": [],
+      "uuid": "7a92ecb4-8d88-4dd8-adc6-930c1bd7ab0f"
+    },
+    {
+      "start_time": 736.38,
+      "end_time": 737.999,
+      "annotation": [
+        {
+          "text": "Y lo sentí aquí,"
+        }
+      ],
+      "tags": [],
+      "uuid": "68518bf2-4760-41ae-8ee2-9658fcab1cef"
+    },
+    {
+      "start_time": 740.07,
+      "end_time": 741.959,
+      "annotation": [
+        {
+          "text": "pero estaba mirando desde el"
+        }
+      ],
+      "tags": [],
+      "uuid": "f1e51f9c-e808-49a3-a1d2-8f68739bea82"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "afuera y no"
+        }
+      ],
+      "tags": [],
+      "uuid": "b7b1cc44-ae4f-494d-94a6-f3956e607d4a"
+    },
+    {
+      "start_time": 743.88,
+      "end_time": 744.88,
+      "annotation": [
+        {
+          "text": "ningún lugar en él."
+        }
+      ],
+      "tags": [],
+      "uuid": "c1c933f9-f268-47a3-8f98-f5577a3f70bc"
+    },
+    {
+      "start_time": 746.4,
+      "end_time": 748.229,
+      "annotation": [
+        {
+          "text": "Y sabía que solo era un"
+        }
+      ],
+      "tags": [],
+      "uuid": "372c55b3-9b71-49da-9b2d-a536d87e61a6"
+    },
+    {
+      "start_time": 748.23,
+      "end_time": 750.359,
+      "annotation": [
+        {
+          "text": "observador. Estuve allí por un día."
+        }
+      ],
+      "tags": [],
+      "uuid": "aa1082e1-b94c-409b-9a57-113776ccb81e"
+    },
+    {
+      "start_time": 750.36,
+      "end_time": 752.189,
+      "annotation": [
+        {
+          "text": "Y supongo que lo que esperaba es"
+        }
+      ],
+      "tags": [],
+      "uuid": "3a4b4bc1-f86e-4c22-9b14-31610a6b6170"
+    },
+    {
+      "start_time": 752.19,
+      "end_time": 753.689,
+      "annotation": [
+        {
+          "text": "que cuando llegara aquí, me convertiría en"
+        }
+      ],
+      "tags": [],
+      "uuid": "dd5c29cd-e87a-4bcc-ad18-cec7f800886d"
+    },
+    {
+      "start_time": 753.69,
+      "end_time": 755.239,
+      "annotation": [
+        {
+          "text": "una parte de eso."
+        }
+      ],
+      "tags": [],
+      "uuid": "ffc81bcc-165f-4fed-8e9a-c3120c2872c1"
+    },
+    {
+      "start_time": 755.24,
+      "end_time": 757.019,
+      "annotation": [
+        {
+          "text": "Que sería remodelado para incluir"
+        }
+      ],
+      "tags": [],
+      "uuid": "5b7c23ee-6a7e-423a-a4ee-b13fdfc58e82"
+    },
+    {
+      "start_time": 757.02,
+      "end_time": 758.489,
+      "annotation": [
+        {
+          "text": "a todos nosotros y el tipo de"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc025291-d925-46c9-b9fb-c92befc7dc25"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "y suavidad"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe0af8fa-4bf0-42fc-8972-c8a76b3cf82e"
+    },
+    {
+      "start_time": 760.92,
+      "end_time": 763.109,
+      "annotation": [
+        {
+          "text": "nos convertiríamos en una"
+        }
+      ],
+      "tags": [],
+      "uuid": "dadb6323-3f1d-4526-87b3-d5ae1131ed45"
+    },
+    {
+      "start_time": 763.11,
+      "end_time": 764.639,
+      "annotation": [
+        {
+          "text": "."
+        }
+      ],
+      "tags": [],
+      "uuid": "2dbdc66a-ba05-41e8-a311-319b0b4c7373"
+    },
+    {
+      "start_time": 764.64,
+      "end_time": 765.64,
+      "annotation": [
+        {
+          "text": "Y no lo ha sido"
+        }
+      ],
+      "tags": [],
+      "uuid": "88879dd6-2aff-468c-a505-69b82c22b791"
+    },
+    {
+      "start_time": 773.49,
+      "end_time": 775.559,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 20:",
+          "bold": true
+        },
+        {
+          "text": "  Y, Yale,"
+        }
+      ],
+      "tags": [],
+      "uuid": "0453be23-69b2-4493-964b-9ef7c582eae4"
+    },
+    {
+      "start_time": 775.56,
+      "end_time": 776.696,
+      "annotation": [
+        {
+          "text": "vas a la escuela cuando"
+        }
+      ],
+      "tags": [],
+      "uuid": "d7afba7a-a3c7-445f-823d-0b9aadfc8b26"
+    },
+    {
+      "start_time": 776.697,
+      "end_time": 777.989,
+      "annotation": [
+        {
+          "text": "vas a Yale y es mucho"
+        }
+      ],
+      "tags": [],
+      "uuid": "94976455-d1dc-4311-8190-a2831be9aa14"
+    },
+    {
+      "start_time": 777.99,
+      "end_time": 779.429,
+      "annotation": [
+        {
+          "text": "de un útero, es un"
+        }
+      ],
+      "tags": [],
+      "uuid": "7099d92a-055d-47a9-84bd-d22c3553d7f4"
+    },
+    {
+      "start_time": 779.43,
+      "end_time": 780.299,
+      "annotation": [
+        {
+          "text": "."
+        }
+      ],
+      "tags": [],
+      "uuid": "83b387f7-2fed-4f31-bb97-344f206defa4"
+    },
+    {
+      "start_time": 780.3,
+      "end_time": 781.829,
+      "annotation": [
+        {
+          "text": "La gente olvida cómo es el mundo real"
+        }
+      ],
+      "tags": [],
+      "uuid": "2aa9993a-1aa7-4849-b05a-0aea710226aa"
+    },
+    {
+      "start_time": 781.83,
+      "end_time": 783.149,
+      "annotation": [
+        {
+          "text": "y no se enfrentan a"
+        }
+      ],
+      "tags": [],
+      "uuid": "0068518c-8e89-480f-8c9f-a60f4841c58c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "problemas cotidianos en el mundo."
+        }
+      ],
+      "tags": [],
+      "uuid": "eb08d63d-7628-40da-83f2-50972e501406"
+    },
+    {
+      "start_time": 784.774,
+      "end_time": 786.449,
+      "annotation": [
+        {
+          "text": "Se enfrentan a sí mismos."
+        }
+      ],
+      "tags": [],
+      "uuid": "0af2308c-3cd8-4dff-8175-c8897b99982b"
+    },
+    {
+      "start_time": 786.45,
+      "end_time": 788.339,
+      "annotation": [
+        {
+          "text": "Y muchos de ellos, hubo"
+        }
+      ],
+      "tags": [],
+      "uuid": "2021acfa-69e9-4a95-9ed9-c7112aeae38b"
+    },
+    {
+      "start_time": 788.34,
+      "end_time": 789.779,
+      "annotation": [
+        {
+          "text": "una tremenda crisis de identidad en"
+        }
+      ],
+      "tags": [],
+      "uuid": "66221453-fbc0-472f-8b0c-ec0475e40700"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 25:",
+          "bold": true
+        },
+        {
+          "text": "  viniendo aquí."
+        }
+      ],
+      "tags": [],
+      "uuid": "7a79aab6-1286-4f2f-a019-5a3ec1e76eda"
+    },
+    {
+      "start_time": 790.41,
+      "end_time": 791.759,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 25:",
+          "bold": true
+        },
+        {
+          "text": "  Me parece que fue, fue"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd90a73b-bb3f-493b-ae5f-c29cefe84cda"
+    },
+    {
+      "start_time": 791.76,
+      "end_time": 793.619,
+      "annotation": [
+        {
+          "text": "principalmente los muchachos que yo"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c324fce-c197-4f57-a8d5-b7721a10bc48"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "conocí que eran simplemente, no"
+        }
+      ],
+      "tags": [],
+      "uuid": "8504a1d7-07ac-4e2c-9f83-f7b77e76a4c1"
+    },
+    {
+      "start_time": 795.48,
+      "end_time": 797.369,
+      "annotation": [
+        {
+          "text": "nunca quise hacer nada excepto sentarse"
+        }
+      ],
+      "tags": [],
+      "uuid": "4052ddc7-4f0b-4e48-8ade-a96ad6c69ae0"
+    },
+    {
+      "start_time": 797.37,
+      "end_time": 798.449,
+      "annotation": [
+        {
+          "text": "alrededor y tener discusiones introspectivas,"
+        }
+      ],
+      "tags": [],
+      "uuid": "73c471fa-7fda-4640-9f2d-f5d49fb900d9"
+    },
+    {
+      "start_time": 798.45,
+      "end_time": 799.71,
+      "annotation": [
+        {
+          "text": "filosóficas"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5bb7f0a-a25d-4f64-a954-c3e1980d776a"
+    },
+    {
+      "start_time": 801,
+      "end_time": 802.769,
+      "annotation": [
+        {
+          "text": "y algo profundas y significativas"
+        }
+      ],
+      "tags": [],
+      "uuid": "20887e2d-5b22-4ae4-9464-21fc965cbf41"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 23:",
+          "bold": true
+        },
+        {
+          "text": "  experiencias."
+        }
+      ],
+      "tags": [],
+      "uuid": "498dbd95-9790-4353-a54d-b7d317404f09"
+    },
+    {
+      "start_time": 804.6,
+      "end_time": 806.279,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 23:",
+          "bold": true
+        },
+        {
+          "text": "  Y creo en cierto modo en un"
+        }
+      ],
+      "tags": [],
+      "uuid": "a054159c-078e-4cbf-a87a-738b4508ce8e"
+    },
+    {
+      "start_time": 808.21,
+      "end_time": 810.099,
+      "annotation": [
+        {
+          "text": "período de convivencia previo al matrimonio."
+        }
+      ],
+      "tags": [],
+      "uuid": "b9bfa0a3-c0e8-4c3f-823e-76e73c236e87"
+    },
+    {
+      "start_time": 811.92,
+      "end_time": 813.219,
+      "annotation": [
+        {
+          "text": "Bueno, he escuchado a algunas personas decir"
+        }
+      ],
+      "tags": [],
+      "uuid": "a4479ac6-b98d-4248-99e2-4ccc8d5a5c00"
+    },
+    {
+      "start_time": 813.22,
+      "end_time": 814.869,
+      "annotation": [
+        {
+          "text": "eso es, eso es, eso es artificial,"
+        }
+      ],
+      "tags": [],
+      "uuid": "0de9ac98-cb11-493c-966c-b675e4d45f66"
+    },
+    {
+      "start_time": 814.87,
+      "end_time": 817.079,
+      "annotation": [
+        {
+          "text": "así no es realmente el matrimonio"
+        }
+      ],
+      "tags": [],
+      "uuid": "1cd604b8-5876-4d6b-b573-9efbadba5bde"
+    },
+    {
+      "start_time": 817.08,
+      "end_time": 818.549,
+      "annotation": [
+        {
+          "text": "porque sabes que no estás"
+        }
+      ],
+      "tags": [],
+      "uuid": "123c5943-7f13-4105-8a60-dd38c3c73920"
+    },
+    {
+      "start_time": 818.55,
+      "end_time": 819.779,
+      "annotation": [
+        {
+          "text": "casado. Sabes, puedes, puedes"
+        }
+      ],
+      "tags": [],
+      "uuid": "c06e4916-949d-44e1-8f60-7f7a1ef72646"
+    },
+    {
+      "start_time": 819.78,
+      "end_time": 820.659,
+      "annotation": [
+        {
+          "text": "en cualquier momento."
+        }
+      ],
+      "tags": [],
+      "uuid": "0f586b34-3fe5-407a-b48b-8c5d44c8fcff"
+    },
+    {
+      "start_time": 820.66,
+      "end_time": 822.539,
+      "annotation": [
+        {
+          "text": "sentido."
+        }
+      ],
+      "tags": [],
+      "uuid": "077f335d-9081-446b-bbae-687213380a0c"
+    },
+    {
+      "start_time": 822.54,
+      "end_time": 824.369,
+      "annotation": [
+        {
+          "text": "Pero creo"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5842a9e-c5f3-4a81-af37-863140ef9189"
+    },
+    {
+      "start_time": 824.37,
+      "end_time": 826.229,
+      "annotation": [
+        {
+          "text": "en general, el matrimonio debería ser"
+        }
+      ],
+      "tags": [],
+      "uuid": "d14ecd40-2a9f-4e14-9fb8-373eca545fbb"
+    },
+    {
+      "start_time": 826.23,
+      "end_time": 827.189,
+      "annotation": [
+        {
+          "text": "bastante flexible ."
+        }
+      ],
+      "tags": [],
+      "uuid": "d10e8598-6820-4494-bc41-e565649e13a2"
+    },
+    {
+      "start_time": 827.19,
+      "end_time": 829.109,
+      "annotation": [
+        {
+          "text": "Aunque todavía creo que"
+        }
+      ],
+      "tags": [],
+      "uuid": "e09539b3-2e2b-41ee-89c3-25d212f74f52"
+    },
+    {
+      "start_time": 829.11,
+      "end_time": 831.569,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  es una institución válida."
+        }
+      ],
+      "tags": [],
+      "uuid": "9cb2a090-1bd9-4ecb-b927-a31e6032744b"
+    },
+    {
+      "start_time": 831.57,
+      "end_time": 832.949,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  Me pregunto, ¿qué tan flexible? ¿Qué pasa con"
+        }
+      ],
+      "tags": [],
+      "uuid": "fbde2abc-fe86-4385-bcaf-057c513fab21"
+    },
+    {
+      "start_time": 832.95,
+      "end_time": 834.239,
+      "annotation": [
+        {
+          "text": "domesticidad?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ec240e90-649f-4a5d-a5a7-2fdaa8b4b49f"
+    },
+    {
+      "start_time": 834.24,
+      "end_time": 836.099,
+      "annotation": [
+        {
+          "text": "¿Esperaría"
+        }
+      ],
+      "tags": [],
+      "uuid": "c9d4adff-38de-4e6d-87d0-12dd281fb079"
+    },
+    {
+      "start_time": 836.1,
+      "end_time": 838.139,
+      "annotation": [
+        {
+          "text": "limpiar la casa, lavar"
+        }
+      ],
+      "tags": [],
+      "uuid": "9de1aa93-5d9d-45f1-8134-8ae8f46e9c7a"
+    },
+    {
+      "start_time": 838.14,
+      "end_time": 838.949,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 26:",
+          "bold": true
+        },
+        {
+          "text": "  platos?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8c2758c2-21e4-4763-ab5a-a56e1df7349a"
+    },
+    {
+      "start_time": 838.95,
+      "end_time": 839.429,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 26:",
+          "bold": true
+        },
+        {
+          "text": "  No."
+        }
+      ],
+      "tags": [],
+      "uuid": "a37cca37-8731-4e96-8c6e-fc1a36925c2e"
+    },
+    {
+      "start_time": 839.43,
+      "end_time": 841.259,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Pisos, cocinero?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b653a57d-0868-4b3a-977e-bdab670ded56"
+    },
+    {
+      "start_time": 841.26,
+      "end_time": 841.829,
+      "annotation": [
+        {
+          "text": " PONENTE 26:",
+          "bold": true
+        },
+        {
+          "text": "  No."
+        }
+      ],
+      "tags": [],
+      "uuid": "c0fad28b-82a5-4454-be3b-ba95d29e205e"
+    },
+    {
+      "start_time": 841.83,
+      "end_time": 842.939,
+      "annotation": [
+        {
+          "text": " ENTREVISTADOR:",
+          "bold": true
+        },
+        {
+          "text": "  ¿Cambiar pañales?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b29ca7da-2a94-43f2-a24d-882d15360997"
+    },
+    {
+      "start_time": 842.94,
+      "end_time": 843.94,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 26:",
+          "bold": true
+        },
+        {
+          "text": "  No."
+        }
+      ],
+      "tags": [],
+      "uuid": "28f23057-f387-488d-8f3b-7408e2846ca9"
+    },
+    {
+      "start_time": 845.97,
+      "end_time": 847.229,
+      "annotation": [
+        {
+          "text": "Bueno, depende de lo que sea la esposa"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a3bdbe0-0cdd-4941-ac6a-5cbbfc78572e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "haciendo."
+        }
+      ],
+      "tags": [],
+      "uuid": "70717d61-bd38-470e-bdf1-14e43b71cacb"
+    },
+    {
+      "start_time": 848.07,
+      "end_time": 850.019,
+      "annotation": [
+        {
+          "text": "Sabes, realmente no estoy"
+        }
+      ],
+      "tags": [],
+      "uuid": "dd563ea8-3e67-48d9-a502-99de19fa5f91"
+    },
+    {
+      "start_time": 850.02,
+      "end_time": 851.529,
+      "annotation": [
+        {
+          "text": "listo para decir que no porque no sé"
+        }
+      ],
+      "tags": [],
+      "uuid": "26c7960b-0009-4c6f-afe1-c93cc5a0b49c"
+    },
+    {
+      "start_time": 851.53,
+      "end_time": 852.53,
+      "annotation": [
+        {
+          "text": "quien me voy a casar y no se"
+        }
+      ],
+      "tags": [],
+      "uuid": "742945bd-c617-48fc-85b2-1aa4a065f54a"
+    },
+    {
+      "start_time": 853.02,
+      "end_time": 854.429,
+      "annotation": [
+        {
+          "text": "que va a estar haciendo, que"
+        }
+      ],
+      "tags": [],
+      "uuid": "80e8da89-e9af-427f-a9da-078813f1d21d"
+    },
+    {
+      "start_time": 854.43,
+      "end_time": 855.659,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 22:",
+          "bold": true
+        },
+        {
+          "text": "  que voy a hacer."
+        }
+      ],
+      "tags": [],
+      "uuid": "6c756ab1-3b71-4214-aab0-c914df1a1212"
+    },
+    {
+      "start_time": 855.66,
+      "end_time": 857.579,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 22:",
+          "bold": true
+        },
+        {
+          "text": "  Si se ve a sí misma como un"
+        }
+      ],
+      "tags": [],
+      "uuid": "7f91d4cf-a3fd-4bf1-975b-e54b53229463"
+    },
+    {
+      "start_time": 857.58,
+      "end_time": 858.58,
+      "annotation": [
+        {
+          "text": "tipo particularmente doméstico"
+        }
+      ],
+      "tags": [],
+      "uuid": "c85b78dd-e72c-45a1-bc74-5f7ffcc22fa6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "que disfruta haciendo estas cosas,"
+        }
+      ],
+      "tags": [],
+      "uuid": "549b39a7-a36d-4ac8-a65f-79b33061ff24"
+    },
+    {
+      "start_time": 861.39,
+      "end_time": 862.799,
+      "annotation": [
+        {
+          "text": "está bien. Si no lo hace,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2262e442-bb8e-4358-9787-bef9ca061090"
+    },
+    {
+      "start_time": 864.97,
+      "end_time": 867.119,
+      "annotation": [
+        {
+          "text": " SPEAKER 21:",
+          "bold": true
+        },
+        {
+          "text": "  entonces la carga debe ser compartida."
+        }
+      ],
+      "tags": [],
+      "uuid": "cfcf55d0-c87a-478a-bbdf-698bc214ab5f"
+    },
+    {
+      "start_time": 867.12,
+      "end_time": 868.559,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 21:",
+          "bold": true
+        },
+        {
+          "text": "  Creo que muchas mujeres preferirían"
+        }
+      ],
+      "tags": [],
+      "uuid": "2426a815-82a2-4b5c-b8a2-c0b441f92f03"
+    },
+    {
+      "start_time": 868.56,
+      "end_time": 870.569,
+      "annotation": [
+        {
+          "text": "a un bebé y"
+        }
+      ],
+      "tags": [],
+      "uuid": "b4b61645-0bb9-4aea-bc5c-ecb517997038"
+    },
+    {
+      "start_time": 870.57,
+      "end_time": 871.779,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 23:",
+          "bold": true
+        },
+        {
+          "text": "  ponlo en la cuna."
+        }
+      ],
+      "tags": [],
+      "uuid": "3957547f-ff46-4afa-8e2f-f512a4436377"
+    },
+    {
+      "start_time": 871.78,
+      "end_time": 872.939,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 23:",
+          "bold": true
+        },
+        {
+          "text": "  Pero mira, eso es muy descarado"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ac93b8d-fcc4-4409-9a14-4059895a7074"
+    },
+    {
+      "start_time": 873.98,
+      "end_time": 874.98,
+      "annotation": [
+        {
+          "text": "machismo [RISAS]."
+        }
+      ],
+      "tags": [],
+      "uuid": "65398348-c3af-443e-967b-6c270ac233cb"
+    },
+    {
+      "start_time": 877.32,
+      "end_time": 879.359,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 27:",
+          "bold": true
+        },
+        {
+          "text": "  Podría quedarme aquí y ver Yale"
+        }
+      ],
+      "tags": [],
+      "uuid": "554a79a0-07bb-4f58-83a8-19d1a26ae773"
+    },
+    {
+      "start_time": 879.36,
+      "end_time": 881.189,
+      "annotation": [
+        {
+          "text": "pasar y"
+        }
+      ],
+      "tags": [],
+      "uuid": "0054c5b6-d688-498b-a4a3-8d5f95bdf052"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "gente, es muy interesante."
+        }
+      ],
+      "tags": [],
+      "uuid": "ce23200d-37fa-442f-8f78-e2c97c44f4e3"
+    },
+    {
+      "start_time": 882.9,
+      "end_time": 883.979,
+      "annotation": [
+        {
+          "text": "Es como una especie de"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5e73c16-a7b1-4d30-9ff2-273d81659310"
+    },
+    {
+      "start_time": 883.98,
+      "end_time": 885.839,
+      "annotation": [
+        {
+          "text": "pecera donde puedes"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce228c17-db2b-42e5-be80-6e9f4ea6d135"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "mira"
+        }
+      ],
+      "tags": [],
+      "uuid": "54781d8e-ad7e-4d88-bca8-0ea52733279d"
+    },
+    {
+      "start_time": 889.05,
+      "end_time": 890.05,
+      "annotation": [
+        {
+          "text": "gente actúa"
+        }
+      ],
+      "tags": [],
+      "uuid": "baf126a5-8002-4961-81c9-b8ccc76914b8"
+    },
+    {
+      "start_time": 891.65,
+      "end_time": 893.422,
+      "annotation": [
+        {
+          "text": "diferente, quiero decir que es realmente"
+        }
+      ],
+      "tags": [],
+      "uuid": "6c3adea8-1efa-4256-ba31-b26bd1c50af6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "interesante para mi. Lo estoy usando para un"
+        }
+      ],
+      "tags": [],
+      "uuid": "c7c60ed6-d059-4f8d-9bd7-e0d72ea00cc1"
+    },
+    {
+      "start_time": 894.526,
+      "end_time": 895.86,
+      "annotation": [
+        {
+          "text": "estudio social durante el segundo"
+        }
+      ],
+      "tags": [],
+      "uuid": "c8af8fd6-01a4-4111-9854-73391627668d"
+    },
+    {
+      "start_time": 895.861,
+      "end_time": 896.909,
+      "annotation": [
+        {
+          "text": "semestre."
+        }
+      ],
+      "tags": [],
+      "uuid": "b3ddb880-1a96-45ae-95d0-fb859cf94d19"
+    },
+    {
+      "start_time": 896.91,
+      "end_time": 898.679,
+      "annotation": [
+        {
+          "text": "Pero aparte de eso, es un ambiente muy"
+        }
+      ],
+      "tags": [],
+      "uuid": "6ec57297-0bbd-4068-a482-0e4365ae700b"
+    },
+    {
+      "start_time": 898.68,
+      "end_time": 899.68,
+      "annotation": [
+        {
+          "text": "cómodo."
+        }
+      ],
+      "tags": [],
+      "uuid": "e39ce528-6dfe-4367-898c-8681a1af148a"
+    },
+    {
+      "start_time": 901.05,
+      "end_time": 902.33,
+      "annotation": [
+        {
+          "text": "Puedo atender mesas."
+        }
+      ],
+      "tags": [],
+      "uuid": "2b13cb06-c54b-4b80-aa95-76da126c8880"
+    },
+    {
+      "start_time": 904.17,
+      "end_time": 906.329,
+      "annotation": [
+        {
+          "text": "Entonces, cuando me gradúe de Yale,"
+        }
+      ],
+      "tags": [],
+      "uuid": "16828e1a-fca3-4ebc-b2b6-260ab1cac194"
+    },
+    {
+      "start_time": 906.33,
+      "end_time": 907.789,
+      "annotation": [
+        {
+          "text": "podré conseguir un buen trabajo"
+        }
+      ],
+      "tags": [],
+      "uuid": "b887b984-dbd6-441a-9104-8f2c02eacbb9"
+    },
+    {
+      "start_time": 909.69,
+      "end_time": 911.669,
+      "annotation": [
+        {
+          "text": "un trabajo, incluso si soy un"
+        }
+      ],
+      "tags": [],
+      "uuid": "5be4837e-a8b6-413e-95ad-ab8582b9dbf3"
+    },
+    {
+      "start_time": 911.67,
+      "end_time": 912.67,
+      "annotation": [
+        {
+          "text": "."
+        }
+      ],
+      "tags": [],
+      "uuid": "eccb0034-5610-4180-9b56-ab4db3e38960"
+    },
+    {
+      "start_time": 918.36,
+      "end_time": 920.129,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 20:",
+          "bold": true
+        },
+        {
+          "text": "  Sentí que muchos de los hombres aquí"
+        }
+      ],
+      "tags": [],
+      "uuid": "b3d2d752-e5ff-4ec3-a10b-785c7841ce43"
+    },
+    {
+      "start_time": 920.13,
+      "end_time": 921.809,
+      "annotation": [
+        {
+          "text": "sintieron que una chica era algo que era"
+        }
+      ],
+      "tags": [],
+      "uuid": "0fa33f4b-c160-448e-802e-da4a86faa8d2"
+    },
+    {
+      "start_time": 921.81,
+      "end_time": 923.449,
+      "annotation": [
+        {
+          "text": "colocado aquí para escucharlos, para"
+        }
+      ],
+      "tags": [],
+      "uuid": "b61cd70e-3e1a-439b-8215-869494de7d71"
+    },
+    {
+      "start_time": 923.45,
+      "end_time": 924.989,
+      "annotation": [
+        {
+          "text": "ayudarlos a resolver sus problemas."
+        }
+      ],
+      "tags": [],
+      "uuid": "f414a9c8-a782-4607-af32-10448f50e523"
+    },
+    {
+      "start_time": 924.99,
+      "end_time": 926.339,
+      "annotation": [
+        {
+          "text": "Quiero decir, he sido un hombro en el que apoyarse"
+        }
+      ],
+      "tags": [],
+      "uuid": "55065877-6fb0-4f74-a418-f5f59aa34c14"
+    },
+    {
+      "start_time": 926.34,
+      "end_time": 927.99,
+      "annotation": [
+        {
+          "text": "para demasiada gente ya,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c078c605-6e32-42a8-80e4-d2617a561840"
+    },
+    {
+      "start_time": 930.81,
+      "end_time": 932.389,
+      "annotation": [
+        {
+          "text": "aunque la mayoría de ellos son chicos."
+        }
+      ],
+      "tags": [],
+      "uuid": "784c23cf-1576-494b-a3ec-13da3a86b586"
+    },
+    {
+      "start_time": 932.39,
+      "end_time": 933.599,
+      "annotation": [
+        {
+          "text": "Es algo que"
+        }
+      ],
+      "tags": [],
+      "uuid": "9b19c216-8018-4b2a-bd3a-df2758e59235"
+    },
+    {
+      "start_time": 936.48,
+      "end_time": 938.309,
+      "annotation": [
+        {
+          "text": "desearía que fuera diferente, pero el"
+        }
+      ],
+      "tags": [],
+      "uuid": "7f694f16-cfa9-4005-9ec5-60db113bb284"
+    },
+    {
+      "start_time": 938.31,
+      "end_time": 940.319,
+      "annotation": [
+        {
+          "text": "las chicas están ocupadas yendo cada"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7ee28a0-c6ca-4b25-911c-8676e25b55eb"
+    },
+    {
+      "start_time": 940.32,
+      "end_time": 941.32,
+      "annotation": [
+        {
+          "text": "qué dirección."
+        }
+      ],
+      "tags": [],
+      "uuid": "cf05cf55-c356-4bda-88ab-7f0283059ab3"
+    },
+    {
+      "start_time": 942.14,
+      "end_time": 944.159,
+      "annotation": [
+        {
+          "text": "Una, una cosa sobre Yale,"
+        }
+      ],
+      "tags": [],
+      "uuid": "d8422a1d-1177-46a8-9e41-a37431b6ce1a"
+    },
+    {
+      "start_time": 944.16,
+      "end_time": 945.16,
+      "annotation": [
+        {
+          "text": "que realmente"
+        }
+      ],
+      "tags": [],
+      "uuid": "b41c2527-b55c-4924-b072-58d9c8022a67"
+    },
+    {
+      "start_time": 946.89,
+      "end_time": 948.959,
+      "annotation": [
+        {
+          "text": "fue sorprendido y"
+        }
+      ],
+      "tags": [],
+      "uuid": "ece43d1a-78a8-4636-a6f8-829dcdcee401"
+    },
+    {
+      "start_time": 948.96,
+      "end_time": 951.069,
+      "annotation": [
+        {
+          "text": "realmente ha cambiado"
+        }
+      ],
+      "tags": [],
+      "uuid": "994a84d9-9a9d-472b-a203-c1f69eb039f1"
+    },
+    {
+      "start_time": 951.07,
+      "end_time": 952.109,
+      "annotation": [
+        {
+          "text": "Yale para mí, es que puedes ser realmente"
+        }
+      ],
+      "tags": [],
+      "uuid": "2fcaa534-64cd-4192-b6fc-e1ea35328930"
+    },
+    {
+      "start_time": 955.14,
+      "end_time": 956.14,
+      "annotation": [
+        {
+          "text": "aceptado como persona y"
+        }
+      ],
+      "tags": [],
+      "uuid": "3e219756-4590-46b6-a3a9-d1b5175a71c2"
+    },
+    {
+      "start_time": 957.72,
+      "end_time": 959.481,
+      "annotation": [
+        {
+          "text": "no como objeto sexual o, tú saber,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a06c55c6-8150-444a-8182-3d61b717f1c0"
+    },
+    {
+      "start_time": 959.482,
+      "end_time": 962.219,
+      "annotation": [
+        {
+          "text": " SPEAKER 28:",
+          "bold": true
+        },
+        {
+          "text": "  lo que era antes."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd6d2c46-9485-4dd4-87dc-162ca9eb3685"
+    },
+    {
+      "start_time": 962.22,
+      "end_time": 964.529,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 28:",
+          "bold": true
+        },
+        {
+          "text": "  Pero la diferencia es como,"
+        }
+      ],
+      "tags": [],
+      "uuid": "3723ed10-a827-4e4e-89a4-958a8b702d9a"
+    },
+    {
+      "start_time": 964.53,
+      "end_time": 966.989,
+      "annotation": [
+        {
+          "text": "en lo que respecta a los blancos,"
+        }
+      ],
+      "tags": [],
+      "uuid": "61b4bf83-99d9-47f3-aeb2-70272cce18cc"
+    },
+    {
+      "start_time": 969.03,
+      "end_time": 970.559,
+      "annotation": [
+        {
+          "text": "lugar donde los negros están"
+        }
+      ],
+      "tags": [],
+      "uuid": "57a9a0eb-aeed-427d-8cf4-c95fc1098ccd"
+    },
+    {
+      "start_time": 970.56,
+      "end_time": 972.299,
+      "annotation": [
+        {
+          "text": "preocupados y el entorno del que vengo"
+        }
+      ],
+      "tags": [],
+      "uuid": "0cc6d2b4-a616-475b-baf6-ade7bc43eb3a"
+    },
+    {
+      "start_time": 972.3,
+      "end_time": 974.939,
+      "annotation": [
+        {
+          "text": ", una mujer está cansada"
+        }
+      ],
+      "tags": [],
+      "uuid": "7b6e8a53-b23d-48c6-8b86-0b6f81764830"
+    },
+    {
+      "start_time": 974.94,
+      "end_time": 977.249,
+      "annotation": [
+        {
+          "text": "de liderar todo, y"
+        }
+      ],
+      "tags": [],
+      "uuid": "055f25c4-be05-4f25-9367-c17482aebe08"
+    },
+    {
+      "start_time": 977.25,
+      "end_time": 978.419,
+      "annotation": [
+        {
+          "text": "por lo que en sí mismo hace una"
+        }
+      ],
+      "tags": [],
+      "uuid": "9c8637d5-94ea-4c8c-afda-a2128c6e448d"
+    },
+    {
+      "start_time": 978.42,
+      "end_time": 978.929,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 20:",
+          "bold": true
+        },
+        {
+          "text": "  diferencia."
+        }
+      ],
+      "tags": [],
+      "uuid": "bb5413b4-db6c-437b-9976-c9f561a25354"
+    },
+    {
+      "start_time": 978.93,
+      "end_time": 980.639,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 20:",
+          "bold": true
+        },
+        {
+          "text": "  Creo que es injusto que una chica"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4fbe0e2-ad0d-4e0c-8fe3-7d0aad9f73ca"
+    },
+    {
+      "start_time": 980.64,
+      "end_time": 982.259,
+      "annotation": [
+        {
+          "text": "que solicita ingreso a Yale tenga mucho más"
+        }
+      ],
+      "tags": [],
+      "uuid": "7b53f5b2-68ae-4ebc-8d15-b35457c097ec"
+    },
+    {
+      "start_time": 982.26,
+      "end_time": 983.879,
+      "annotation": [
+        {
+          "text": "competencia que un hombre que solicita"
+        }
+      ],
+      "tags": [],
+      "uuid": "a15a52ea-2a9f-4b7d-ba4d-013e41d14588"
+    },
+    {
+      "start_time": 983.88,
+      "end_time": 985.829,
+      "annotation": [
+        {
+          "text": "Yale. Es solo, ¿por qué debería"
+        }
+      ],
+      "tags": [],
+      "uuid": "32a7fdb5-80f0-4c8e-ab37-0bf18cfd0ba8"
+    },
+    {
+      "start_time": 985.83,
+      "end_time": 987.013,
+      "annotation": [
+        {
+          "text": "pasar por la molestia adicional?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8e3bb646-1039-4713-914a-c51cce691dc7"
+    },
+    {
+      "start_time": 987.014,
+      "end_time": 988.649,
+      "annotation": [
+        {
+          "text": "¿Por qué no debería poder tener una"
+        }
+      ],
+      "tags": [],
+      "uuid": "751f90ed-0562-4c20-802c-2162146c2cf6"
+    },
+    {
+      "start_time": 988.65,
+      "end_time": 990.209,
+      "annotation": [
+        {
+          "text": "educación equivalente?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6d3da8ab-c84a-4964-9f79-5532fb678b2d"
+    },
+    {
+      "start_time": 990.21,
+      "end_time": 991.589,
+      "annotation": [
+        {
+          "text": "Además del hecho de que cuando ella"
+        }
+      ],
+      "tags": [],
+      "uuid": "558ce046-9eb2-4f57-808a-9d84abe8feab"
+    },
+    {
+      "start_time": 991.59,
+      "end_time": 992.909,
+      "annotation": [
+        {
+          "text": "se gradúe de Yale, no tendrá"
+        }
+      ],
+      "tags": [],
+      "uuid": "f8f8de88-876e-415b-9cb2-f2dd5f112198"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "oportunidad otra vez."
+        }
+      ],
+      "tags": [],
+      "uuid": "aea76e59-63b2-492c-a1ce-626035977bfe"
+    },
+    {
+      "start_time": 995.13,
+      "end_time": 996.449,
+      "annotation": [
+        {
+          "text": "Y ella sabe esto, y estas son"
+        }
+      ],
+      "tags": [],
+      "uuid": "967f6743-7bd1-4324-887b-340303249361"
+    },
+    {
+      "start_time": 996.45,
+      "end_time": 997.759,
+      "annotation": [
+        {
+          "text": "las cosas que tiene que afrontar y"
+        }
+      ],
+      "tags": [],
+      "uuid": "5dc7e4c7-b9b4-4796-847b-01fdb5e498eb"
+    },
+    {
+      "start_time": 997.76,
+      "end_time": 999.929,
+      "annotation": [
+        {
+          "text": "Yale no está haciendo ningún esfuerzo por cambiar"
+        }
+      ],
+      "tags": [],
+      "uuid": "e8dbdfe7-3a2a-40ec-8304-759e70b35ee8"
+    },
+    {
+      "start_time": 999.93,
+      "end_time": 1002.029,
+      "annotation": [
+        {
+          "text": "eso. A través de sus exalumnos,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e963d440-63a4-4391-a8e4-733239407a91"
+    },
+    {
+      "start_time": 1002.03,
+      "end_time": 1003.709,
+      "annotation": [
+        {
+          "text": "que tienen una tremenda base de"
+        }
+      ],
+      "tags": [],
+      "uuid": "91bcba53-39e2-4d7e-b244-20432e9ee705"
+    },
+    {
+      "start_time": 1003.71,
+      "end_time": 1005.509,
+      "annotation": [
+        {
+          "text": "poder en términos de los estadounidenses"
+        }
+      ],
+      "tags": [],
+      "uuid": "00144865-bf74-4db1-b39c-ee4ab39a5d4f"
+    },
+    {
+      "start_time": 1005.51,
+      "end_time": 1007.279,
+      "annotation": [
+        {
+          "text": "economía y en términos de apertura"
+        }
+      ],
+      "tags": [],
+      "uuid": "45611624-70d5-4a7e-9512-40bf88c3f12b"
+    },
+    {
+      "start_time": 1007.28,
+      "end_time": 1009.199,
+      "annotation": [
+        {
+          "text": " Ruth Day:",
+          "bold": true
+        },
+        {
+          "text": "  oportunidades para las mujeres."
+        }
+      ],
+      "tags": [],
+      "uuid": "227d6a84-bd02-4d52-8266-9eb06bb7f988"
+    },
+    {
+      "start_time": 1009.2,
+      "end_time": 1010.339,
+      "annotation": [
+        {
+          "text": " Ruth Day:",
+          "bold": true
+        },
+        {
+          "text": "  Una cosa que creo que es muy"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c51a4e2-90e5-4334-a73f-43214f25babb"
+    },
+    {
+      "start_time": 1010.34,
+      "end_time": 1012.289,
+      "annotation": [
+        {
+          "text": "interesante de todo esto es"
+        }
+      ],
+      "tags": [],
+      "uuid": "b79ae142-294b-4977-8a27-6e47cdab9587"
+    },
+    {
+      "start_time": 1014.18,
+      "end_time": 1016.069,
+      "annotation": [
+        {
+          "text": "una parte de la educación"
+        }
+      ],
+      "tags": [],
+      "uuid": "a09a2305-92b1-4a18-9fa4-4425d5407c85"
+    },
+    {
+      "start_time": 1016.07,
+      "end_time": 1018.739,
+      "annotation": [
+        {
+          "text": "a través de la experiencia de coeducación."
+        }
+      ],
+      "tags": [],
+      "uuid": "44ffaee5-be16-46a1-9f43-cdd570901d46"
+    },
+    {
+      "start_time": 1018.74,
+      "end_time": 1020.179,
+      "annotation": [
+        {
+          "text": "Mi impresión es que muchos de mis"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce9cea03-0f37-48da-9564-eade3ecb3bb0"
+    },
+    {
+      "start_time": 1020.18,
+      "end_time": 1022.009,
+      "annotation": [
+        {
+          "text": "colegas se divirtieron"
+        }
+      ],
+      "tags": [],
+      "uuid": "7a23b16c-3028-4668-8cf4-7934a8f00384"
+    },
+    {
+      "start_time": 1022.01,
+      "end_time": 1023.599,
+      "annotation": [
+        {
+          "text": "tener mujeres en el salón de clases para comenzar"
+        }
+      ],
+      "tags": [],
+      "uuid": "4e1c7c07-8ac3-4969-98ee-ba5739309b65"
+    },
+    {
+      "start_time": 1023.6,
+      "end_time": 1025.699,
+      "annotation": [
+        {
+          "text": "con. Pensaron"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2686e7a-223e-408a-b69f-5e20235e182a"
+    },
+    {
+      "start_time": 1025.7,
+      "end_time": 1027.709,
+      "annotation": [
+        {
+          "text": "teoría interesante en el horizonte y así sucesivamente."
+        }
+      ],
+      "tags": [],
+      "uuid": "c81399a7-5746-4356-8949-07ecf4ce5360"
+    },
+    {
+      "start_time": 1027.71,
+      "end_time": 1028.759,
+      "annotation": [
+        {
+          "text": "Pero, por supuesto, las mujeres no iban"
+        }
+      ],
+      "tags": [],
+      "uuid": "f764ae96-b341-4e5f-bc0a-a027867aa7d1"
+    },
+    {
+      "start_time": 1028.76,
+      "end_time": 1030.049,
+      "annotation": [
+        {
+          "text": "a continuar y ser miembros productivos"
+        }
+      ],
+      "tags": [],
+      "uuid": "aeaffdc7-7ffb-42b6-bfba-eb68195145bb"
+    },
+    {
+      "start_time": 1030.05,
+      "end_time": 1031.068,
+      "annotation": [
+        {
+          "text": "de la sociedad."
+        }
+      ],
+      "tags": [],
+      "uuid": "72a3d440-b472-4a45-9f28-4871965f5328"
+    },
+    {
+      "start_time": 1031.069,
+      "end_time": 1033.229,
+      "annotation": [
+        {
+          "text": "Y he visto cambios en esta vista"
+        }
+      ],
+      "tags": [],
+      "uuid": "a793941b-b0a0-472b-9bf5-9d466d36431e"
+    },
+    {
+      "start_time": 1033.23,
+      "end_time": 1036.108,
+      "annotation": [
+        {
+          "text": "en el transcurso de un año y"
+        }
+      ],
+      "tags": [],
+      "uuid": "7f872f8d-68f1-4c29-ae37-74ae38364a36"
+    },
+    {
+      "start_time": 1036.109,
+      "end_time": 1037.939,
+      "annotation": [
+        {
+          "text": "profesores varones que"
+        }
+      ],
+      "tags": [],
+      "uuid": "99ddef59-ab01-42c5-8a2b-95a6e00ac849"
+    },
+    {
+      "start_time": 1037.94,
+      "end_time": 1039.689,
+      "annotation": [
+        {
+          "text": "han estado en una institución solo para hombres"
+        }
+      ],
+      "tags": [],
+      "uuid": "34e281c1-d70a-4f65-a946-baf13734a7b5"
+    },
+    {
+      "start_time": 1039.69,
+      "end_time": 1041.209,
+      "annotation": [
+        {
+          "text": "de su carrera académica, ahora viendo"
+        }
+      ],
+      "tags": [],
+      "uuid": "6ad8d6c1-4b1d-4b24-8882-8e94ae34121b"
+    },
+    {
+      "start_time": 1041.21,
+      "end_time": 1043.249,
+      "annotation": [
+        {
+          "text": "mujeres como buenas colaboradoras"
+        }
+      ],
+      "tags": [],
+      "uuid": "a21dd947-72b6-4cee-81af-7ae34de0b7d0"
+    },
+    {
+      "start_time": 1043.25,
+      "end_time": 1044.838,
+      "annotation": [
+        {
+          "text": "en el aula, buenas pensadoras y"
+        }
+      ],
+      "tags": [],
+      "uuid": "3fa1a91e-3009-4414-a54e-f8507fb4a3fe"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 23:",
+          "bold": true
+        },
+        {
+          "text": "  de hecho, gente."
+        }
+      ],
+      "tags": [],
+      "uuid": "99710757-9ea5-4236-bc28-b2fdf0be79c8"
+    },
+    {
+      "start_time": 1046.309,
+      "end_time": 1047.749,
+      "annotation": [
+        {
+          "text": "Creo que el punto de vista de la mujer"
+        }
+      ],
+      "tags": [],
+      "uuid": "ab9d98ca-e285-4201-852d-37f20eeb1e10"
+    },
+    {
+      "start_time": 1047.75,
+      "end_time": 1049.729,
+      "annotation": [
+        {
+          "text": "es, en cierto"
+        }
+      ],
+      "tags": [],
+      "uuid": "f11f924e-4584-4528-b7b3-fd858f58f896"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "instancias, lo suficientemente diferentes"
+        }
+      ],
+      "tags": [],
+      "uuid": "33deaf4e-52dd-475d-9505-f8d1a4bec103"
+    },
+    {
+      "start_time": 1051.68,
+      "end_time": 1053.179,
+      "annotation": [
+        {
+          "text": "desde el punto de vista del hombre para que"
+        }
+      ],
+      "tags": [],
+      "uuid": "3297b17f-cbaf-45d3-9eec-32dc9fafe081"
+    },
+    {
+      "start_time": 1053.18,
+      "end_time": 1054.769,
+      "annotation": [
+        {
+          "text": "tengan algo educativo"
+        }
+      ],
+      "tags": [],
+      "uuid": "a51ca14a-f819-4df9-9eae-eefdb3828870"
+    },
+    {
+      "start_time": 1056.6,
+      "end_time": 1058.459,
+      "annotation": [
+        {
+          "text": "salón de clases, sino mucho más afuera"
+        }
+      ],
+      "tags": [],
+      "uuid": "c8dff3fa-e072-457f-94bf-b9892950008a"
+    },
+    {
+      "start_time": 1058.46,
+      "end_time": 1059.389,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  el salón de clases."
+        }
+      ],
+      "tags": [],
+      "uuid": "52a2464e-84d6-4b5b-88ec-bb43e4ea1b0b"
+    },
+    {
+      "start_time": 1059.39,
+      "end_time": 1060.599,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  Para excluir a la mitad de la raza humana y su"
+        }
+      ],
+      "tags": [],
+      "uuid": "f4c345fd-3d2b-40b8-bd1b-43133de0b8be"
+    },
+    {
+      "start_time": 1060.6,
+      "end_time": 1061.6,
+      "annotation": [
+        {
+          "text": "punto de vista,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4d8f8fc2-7299-43c3-b3b2-ea3a52491c0b"
+    },
+    {
+      "start_time": 1065.63,
+      "end_time": 1067.569,
+      "annotation": [
+        {
+          "text": "privar a la clase"
+        }
+      ],
+      "tags": [],
+      "uuid": "9cbe7552-fab8-4f13-8d9f-8d7347d4fbd0"
+    },
+    {
+      "start_time": 1067.57,
+      "end_time": 1068.57,
+      "annotation": [
+        {
+          "text": "de los valores que obtiene"
+        }
+      ],
+      "tags": [],
+      "uuid": "d2385f9e-146e-4217-87b8-1e73a297bcfd"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "de la diversidad de insumos, si quieres llamarlo así,"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4e8c231-fe29-4054-a265-75cdc43663cc"
+    },
+    {
+      "start_time": 1072.11,
+      "end_time": 1073.12,
+      "annotation": [
+        {
+          "text": "o diversidad de participantes."
+        }
+      ],
+      "tags": [],
+      "uuid": "6d066cdb-ef34-4bff-9dde-9ed15fe3ff2a"
+    },
+    {
+      "start_time": 1074.72,
+      "end_time": 1075.85,
+      "annotation": [
+        {
+          "text": "Y creo que, eh, esto"
+        }
+      ],
+      "tags": [],
+      "uuid": "014c6b1f-9bfc-4045-9f02-868c2317675b"
+    },
+    {
+      "start_time": 1078.2,
+      "end_time": 1079.2,
+      "annotation": [
+        {
+          "text": "en sí mismo"
+        }
+      ],
+      "tags": [],
+      "uuid": "f71d857c-d9f9-4392-a4aa-72cd24cbb1e5"
+    },
+    {
+      "start_time": 1080.18,
+      "end_time": 1082.459,
+      "annotation": [
+        {
+          "text": "es educativo"
+        }
+      ],
+      "tags": [],
+      "uuid": "a478e052-53d7-4000-a559-3703f95a2416"
+    },
+    {
+      "start_time": 1082.46,
+      "end_time": 1083.46,
+      "annotation": [
+        {
+          "text": "empobreciendo, y creo que"
+        }
+      ],
+      "tags": [],
+      "uuid": "82650560-7279-4710-9d8b-a515503b109b"
+    },
+    {
+      "start_time": 1085.73,
+      "end_time": 1086.73,
+      "annotation": [
+        {
+          "text": "la facultad sintió eso, creo que muchos"
+        }
+      ],
+      "tags": [],
+      "uuid": "380d9345-9276-46b7-98c9-df30ceb139e8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "estudiantes sintieron eso."
+        }
+      ],
+      "tags": [],
+      "uuid": "0593e43d-c083-4ba4-89d7-eb80fa8eccca"
+    },
+    {
+      "start_time": 1090.08,
+      "end_time": 1091.659,
+      "annotation": [
+        {
+          "text": " Ruth Day:",
+          "bold": true
+        },
+        {
+          "text": "  Creo que los hombres se han beneficiado de la"
+        }
+      ],
+      "tags": [],
+      "uuid": "a03df4dd-e31f-46f4-a030-0b089589aebc"
+    },
+    {
+      "start_time": 1091.66,
+      "end_time": 1093.2,
+      "annotation": [
+        {
+          "text": "educación mixta más que las mujeres."
+        }
+      ],
+      "tags": [],
+      "uuid": "c8088864-0d24-4e8e-b196-4e704209b1eb"
+    },
+    {
+      "start_time": 1095.06,
+      "end_time": 1096.949,
+      "annotation": [
+        {
+          "text": "Anteriormente, las mujeres"
+        }
+      ],
+      "tags": [],
+      "uuid": "9aa60ef6-d092-4c52-9656-96cf7f6b410d"
+    },
+    {
+      "start_time": 1096.95,
+      "end_time": 1098.459,
+      "annotation": [
+        {
+          "text": "venían el fin de semana."
+        }
+      ],
+      "tags": [],
+      "uuid": "6b80eb1b-3af5-4a7c-84ec-e7ebb95ae45e"
+    },
+    {
+      "start_time": 1098.46,
+      "end_time": 1100.669,
+      "annotation": [
+        {
+          "text": "Y mi entendimiento"
+        }
+      ],
+      "tags": [],
+      "uuid": "193e87da-681c-4e0f-9fb6-fe88fdacd232"
+    },
+    {
+      "start_time": 1100.67,
+      "end_time": 1102.499,
+      "annotation": [
+        {
+          "text": "es que se sentían mucho como"
+        }
+      ],
+      "tags": [],
+      "uuid": "0e729b32-f150-4f69-b1f5-fa2e9b95a5b8"
+    },
+    {
+      "start_time": 1102.5,
+      "end_time": 1104.629,
+      "annotation": [
+        {
+          "text": "objetos que subió para ser exhibido"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc20d5fe-2b80-49b3-903a-319d5df50ece"
+    },
+    {
+      "start_time": 1104.63,
+      "end_time": 1106.519,
+      "annotation": [
+        {
+          "text": "y para ser conducido y así sucesivamente"
+        }
+      ],
+      "tags": [],
+      "uuid": "419207f5-2091-4271-965e-342cd26f648f"
+    },
+    {
+      "start_time": 1106.52,
+      "end_time": 1107.569,
+      "annotation": [
+        {
+          "text": ". Y luego se fueron y"
+        }
+      ],
+      "tags": [],
+      "uuid": "74a6a20a-96c1-4215-8e4a-bc17a427c6d6"
+    },
+    {
+      "start_time": 1107.57,
+      "end_time": 1109.399,
+      "annotation": [
+        {
+          "text": "no hubo una buena"
+        }
+      ],
+      "tags": [],
+      "uuid": "af4ceaec-0408-4a86-af86-4ca8f4f13200"
+    },
+    {
+      "start_time": 1109.4,
+      "end_time": 1110.389,
+      "annotation": [
+        {
+          "text": "interpersonal."
+        }
+      ],
+      "tags": [],
+      "uuid": "d7cf392b-75db-4ae7-a5d8-04463890b9e1"
+    },
+    {
+      "start_time": 1110.39,
+      "end_time": 1112.189,
+      "annotation": [
+        {
+          "text": "Y creo que los hombres vienen a"
+        }
+      ],
+      "tags": [],
+      "uuid": "909d8b73-6a4e-4b2b-9471-1757a8ec9dce"
+    },
+    {
+      "start_time": 1112.19,
+      "end_time": 1114.019,
+      "annotation": [
+        {
+          "text": "ver a las mujeres"
+        }
+      ],
+      "tags": [],
+      "uuid": "2cb60914-15bd-4a8e-9779-900c81431fc7"
+    },
+    {
+      "start_time": 1114.02,
+      "end_time": 1116.119,
+      "annotation": [
+        {
+          "text": "como personas e interactuar"
+        }
+      ],
+      "tags": [],
+      "uuid": "e0436f32-96d1-448a-92bc-b934b903f5c9"
+    },
+    {
+      "start_time": 1116.12,
+      "end_time": 1117.169,
+      "annotation": [
+        {
+          "text": "con ellos sobre esa base."
+        }
+      ],
+      "tags": [],
+      "uuid": "69309d3c-8319-4419-a123-7f6f93de1b66"
+    },
+    {
+      "start_time": 1117.17,
+      "end_time": 1119.089,
+      "annotation": [
+        {
+          "text": "Y creo que las relaciones"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6662cc3-f0ef-40cf-9672-29af12f2ace0"
+    },
+    {
+      "start_time": 1119.09,
+      "end_time": 1120.289,
+      "annotation": [
+        {
+          "text": "que se están formando son mucho"
+        }
+      ],
+      "tags": [],
+      "uuid": "1928be8e-a3f0-43b1-a2df-7d36c9a5c9aa"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "más saludable debido a esto."
+        }
+      ],
+      "tags": [],
+      "uuid": "ea71b850-5f07-4a21-b0b9-762a43a1a753"
+    },
+    {
+      "start_time": 1122.15,
+      "end_time": 1124.459,
+      "annotation": [
+        {
+          "text": "Pero noté cambios"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d526114-de8b-4613-bbe3-f01b3401150e"
+    },
+    {
+      "start_time": 1124.46,
+      "end_time": 1126.619,
+      "annotation": [
+        {
+          "text": "en los estudiantes hombres incluso dentro"
+        }
+      ],
+      "tags": [],
+      "uuid": "86dfe154-bffd-4b8a-ae38-65d5e3eaf854"
+    },
+    {
+      "start_time": 1126.62,
+      "end_time": 1127.849,
+      "annotation": [
+        {
+          "text": "el primer término."
+        }
+      ],
+      "tags": [],
+      "uuid": "e897b719-2b68-4e82-9b3b-e45cb9e3803d"
+    },
+    {
+      "start_time": 1127.85,
+      "end_time": 1129.739,
+      "annotation": [
+        {
+          "text": "En otoño, descubrí que en"
+        }
+      ],
+      "tags": [],
+      "uuid": "4251cae6-67b3-4c25-a594-d59927c01bf2"
+    },
+    {
+      "start_time": 1129.74,
+      "end_time": 1131.449,
+      "annotation": [
+        {
+          "text": "una gran situación de lectura, digamos dos"
+        }
+      ],
+      "tags": [],
+      "uuid": "6e385d4e-3bad-4c9c-972e-f86457f52fee"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "o trescientos estudiantes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "93a9be53-c630-4cfe-ac1d-9c6935d6cf7f"
+    },
+    {
+      "start_time": 1133.31,
+      "end_time": 1135.469,
+      "annotation": [
+        {
+          "text": "si una mujer comentara"
+        }
+      ],
+      "tags": [],
+      "uuid": "84945621-7edc-4629-82d7-39d7b389f971"
+    },
+    {
+      "start_time": 1135.47,
+      "end_time": 1136.909,
+      "annotation": [
+        {
+          "text": "algo en clase o preguntara"
+        }
+      ],
+      "tags": [],
+      "uuid": "e0a8758d-24c3-4780-8162-9e257f75f452"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "pregunta, los hombres estaban muy"
+        }
+      ],
+      "tags": [],
+      "uuid": "6dda1409-3787-45cc-98a2-efece438b4d1"
+    },
+    {
+      "start_time": 1138.38,
+      "end_time": 1140.419,
+      "annotation": [
+        {
+          "text": "sorprendidos y miraban alrededor y"
+        }
+      ],
+      "tags": [],
+      "uuid": "c27a6b93-d525-4159-beea-b30686c5490d"
+    },
+    {
+      "start_time": 1140.42,
+      "end_time": 1141.949,
+      "annotation": [
+        {
+          "text": "mira y piensa"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e51879f-3d69-4605-99e7-38c1f82ccd97"
+    },
+    {
+      "start_time": 1141.95,
+      "end_time": 1143.599,
+      "annotation": [
+        {
+          "text": "encima, hm, escucha todas estas cosas agradables"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e916bc1-6168-4585-893e-c010d8279a8c"
+    },
+    {
+      "start_time": 1143.6,
+      "end_time": 1144.974,
+      "annotation": [
+        {
+          "text": "que salen de esto, esto ,"
+        }
+      ],
+      "tags": [],
+      "uuid": "271f4dd3-6321-459f-a7f6-e11d2cd50258"
+    },
+    {
+      "start_time": 1144.975,
+      "end_time": 1146.489,
+      "annotation": [
+        {
+          "text": "esta mujer."
+        }
+      ],
+      "tags": [],
+      "uuid": "9f60f62c-8eb4-4295-af4f-9329efa3e9b0"
+    },
+    {
+      "start_time": 1146.49,
+      "end_time": 1147.869,
+      "annotation": [
+        {
+          "text": "Parecen estar muy sorprendidos."
+        }
+      ],
+      "tags": [],
+      "uuid": "557d9da3-26e7-4ad4-b510-3b057ff181e4"
+    },
+    {
+      "start_time": 1147.87,
+      "end_time": 1148.939,
+      "annotation": [
+        {
+          "text": "Y encontré que esto era particularmente"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c409581-92a6-4881-ac00-91cfe0308488"
+    },
+    {
+      "start_time": 1148.94,
+      "end_time": 1150.439,
+      "annotation": [
+        {
+          "text": "para los estudiantes de clase alta, la gente"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8a6579f-c39d-4281-8728-89ff0aa1aaf8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "que llevaba aquí dos o tres"
+        }
+      ],
+      "tags": [],
+      "uuid": "3445e4dd-d32a-4029-949f-16eda92531a8"
+    },
+    {
+      "start_time": 1152.48,
+      "end_time": 1154.849,
+      "annotation": [
+        {
+          "text": "años. Y parecían muy impactados."
+        }
+      ],
+      "tags": [],
+      "uuid": "b521ce00-c0c5-481a-b110-c343185f78c8"
+    },
+    {
+      "start_time": 1154.85,
+      "end_time": 1156.679,
+      "annotation": [
+        {
+          "text": "Y simplemente reflexionaba sobre"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e4d88de-3434-48b8-b64d-d9e06323b4ab"
+    },
+    {
+      "start_time": 1156.68,
+      "end_time": 1157.819,
+      "annotation": [
+        {
+          "text": "toda la situación."
+        }
+      ],
+      "tags": [],
+      "uuid": "b0dd0cbd-6f4e-4f88-8d6a-4a8f1b5253aa"
+    },
+    {
+      "start_time": 1157.82,
+      "end_time": 1159.629,
+      "annotation": [
+        {
+          "text": "Y a medida que avanzaba el término, sentí que"
+        }
+      ],
+      "tags": [],
+      "uuid": "05801207-09ec-4cd5-b2f6-f20f22cb51a3"
+    },
+    {
+      "start_time": 1159.63,
+      "end_time": 1161.029,
+      "annotation": [
+        {
+          "text": "gente comenzó a sentirse más cómoda"
+        }
+      ],
+      "tags": [],
+      "uuid": "71d9fc2f-aa68-4e24-976e-18cd8edcd862"
+    },
+    {
+      "start_time": 1161.03,
+      "end_time": 1162.709,
+      "annotation": [
+        {
+          "text": "entre sí y, de hecho, llegan a"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8e01ca1-a974-4969-9269-4e66496d8d74"
+    },
+    {
+      "start_time": 1162.71,
+      "end_time": 1164.059,
+      "annotation": [
+        {
+          "text": "verse como personas."
+        }
+      ],
+      "tags": [],
+      "uuid": "743ae12a-d701-4d5b-a3ce-6e8d4818e27d"
+    },
+    {
+      "start_time": 1164.06,
+      "end_time": 1165.889,
+      "annotation": [
+        {
+          "text": "Y creo que esa es la"
+        }
+      ],
+      "tags": [],
+      "uuid": "b1c95eb0-dc3b-4eea-9930-0a4a8a0ad98d"
+    },
+    {
+      "start_time": 1165.89,
+      "end_time": 1168.739,
+      "annotation": [
+        {
+          "text": "principal ventaja de la coeducación,"
+        }
+      ],
+      "tags": [],
+      "uuid": "59e97112-96e5-4909-b3be-f71740abd488"
+    },
+    {
+      "start_time": 1168.74,
+      "end_time": 1170.599,
+      "annotation": [
+        {
+          "text": "como resultó aquí en"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce8d708c-c647-40da-a76d-d4744a6e242f"
+    },
+    {
+      "start_time": 1170.6,
+      "end_time": 1171.169,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  Yale."
+        }
+      ],
+      "tags": [],
+      "uuid": "ca27dea2-68f9-4dea-a6db-738b6abb1bd5"
+    },
+    {
+      "start_time": 1171.17,
+      "end_time": 1173.059,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  Cada estudiante que conozco que tuvo"
+        }
+      ],
+      "tags": [],
+      "uuid": "6ab26fb5-f7dc-48ef-b081-d3d805b601ac"
+    },
+    {
+      "start_time": 1173.06,
+      "end_time": 1175.189,
+      "annotation": [
+        {
+          "text": "alguna idea interesante"
+        }
+      ],
+      "tags": [],
+      "uuid": "7be874d0-b904-4e67-ba8f-f2f6cc724229"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "sobre sí mismo en"
+        }
+      ],
+      "tags": [],
+      "uuid": "4edffdec-3cd3-44a4-af30-f9953f531fa4"
+    },
+    {
+      "start_time": 1177.14,
+      "end_time": 1178.999,
+      "annotation": [
+        {
+          "text": "cualquier nivel de educación tiene"
+        }
+      ],
+      "tags": [],
+      "uuid": "26c51136-ebfb-4c96-ac48-21cce98175a9"
+    },
+    {
+      "start_time": 1179,
+      "end_time": 1180.271,
+      "annotation": [
+        {
+          "text": "muchas veces,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f506d536-9395-4614-a268-50cc4c057f27"
+    },
+    {
+      "start_time": 1183.34,
+      "end_time": 1184.34,
+      "annotation": [
+        {
+          "text": "semanas, meses"
+        }
+      ],
+      "tags": [],
+      "uuid": "d154c040-bef5-42f3-a629-df71cc37891b"
+    },
+    {
+      "start_time": 1185.42,
+      "end_time": 1186.42,
+      "annotation": [
+        {
+          "text": "cuando preguntan"
+        }
+      ],
+      "tags": [],
+      "uuid": "0975c73a-9a56-420a-98d1-8b4af25f6796"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 25:",
+          "bold": true
+        },
+        {
+          "text": "  por qué están, dónde están."
+        }
+      ],
+      "tags": [],
+      "uuid": "2a9f2537-e628-4591-8ef6-60bf75691606"
+    },
+    {
+      "start_time": 1189.59,
+      "end_time": 1191.059,
+      "annotation": [
+        {
+          "text": " ALTAVOZ 25:",
+          "bold": true
+        },
+        {
+          "text": "  Los momentos en los que he sido más feliz"
+        }
+      ],
+      "tags": [],
+      "uuid": "69745c0f-d1f2-4e9b-992d-d1640c0557e0"
+    },
+    {
+      "start_time": 1191.06,
+      "end_time": 1192.679,
+      "annotation": [
+        {
+          "text": "la mayor parte es cuando estaba solo,"
+        }
+      ],
+      "tags": [],
+      "uuid": "34693cc0-94af-43d6-b1e2-a03338e21535"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "cuando estaba haciendo cosas solo, haciendo"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c8a6325-256e-47bd-b8a1-3b19287e21e7"
+    },
+    {
+      "start_time": 1194.3,
+      "end_time": 1196.249,
+      "annotation": [
+        {
+          "text": "lo que quería hacer solo, y"
+        }
+      ],
+      "tags": [],
+      "uuid": "e14a5ac0-20af-4536-95d4-3b4faadff555"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "está bien."
+        }
+      ],
+      "tags": [],
+      "uuid": "d388d923-47d0-46fc-831a-404c34c7d460"
+    },
+    {
+      "start_time": 1197.06,
+      "end_time": 1198.829,
+      "annotation": [
+        {
+          "text": "Quiero decir, no soy infeliz aquí la mayor parte"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ff5bc5e-296f-4d09-bdd2-d3ca2771e219"
+    },
+    {
+      "start_time": 1198.83,
+      "end_time": 1200.899,
+      "annotation": [
+        {
+          "text": "del tiempo, pero me molesta"
+        }
+      ],
+      "tags": [],
+      "uuid": "0335cbfd-9613-4609-bc59-09afb1402590"
+    },
+    {
+      "start_time": 1203.48,
+      "end_time": 1204.48,
+      "annotation": [
+        {
+          "text": "eso,"
+        }
+      ],
+      "tags": [],
+      "uuid": "7cc579eb-9506-4711-b684-ca1e8204d609"
+    },
+    {
+      "start_time": 1206.13,
+      "end_time": 1207.959,
+      "annotation": [
+        {
+          "text": "que las veces que estoy"
+        }
+      ],
+      "tags": [],
+      "uuid": "7588cf43-6f59-4222-a9d6-9de84c3b8cde"
+    },
+    {
+      "start_time": 1207.96,
+      "end_time": 1209.849,
+      "annotation": [
+        {
+          "text": "happiest are not times when I'm"
+        }
+      ],
+      "tags": [],
+      "uuid": "8c5d4784-297a-418f-81f8-1b70941bf8b8"
+    },
+    {
+      "start_time": 1209.85,
+      "end_time": 1211.769,
+      "annotation": [
+        {
+          "text": "with other human beings, you"
+        }
+      ],
+      "tags": [],
+      "uuid": "40a3d3f4-76cf-47ef-a8c6-d910c28145c3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "know, it upsets me deeply that,"
+        }
+      ],
+      "tags": [],
+      "uuid": "26abd64e-fd0e-4c78-919f-ebc614efd53f"
+    },
+    {
+      "start_time": 1214.5,
+      "end_time": 1215.909,
+      "annotation": [
+        {
+          "text": "that I would rather go to the"
+        }
+      ],
+      "tags": [],
+      "uuid": "dbb08281-877f-44d5-a004-522a886fa100"
+    },
+    {
+      "start_time": 1215.91,
+      "end_time": 1218.019,
+      "annotation": [
+        {
+          "text": "library and work on many occasions"
+        }
+      ],
+      "tags": [],
+      "uuid": "7196767d-9936-4b85-905b-cef956e9d56e"
+    },
+    {
+      "start_time": 1218.02,
+      "end_time": 1220.199,
+      "annotation": [
+        {
+          "text": "than get together a group of people"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b05322b-6d4e-45cb-a608-aded3a59bf1e"
+    },
+    {
+      "start_time": 1220.2,
+      "end_time": 1220.979,
+      "annotation": [
+        {
+          "text": "to be with."
+        }
+      ],
+      "tags": [],
+      "uuid": "a026d867-771f-4171-8799-2d3e7c2737df"
+    },
+    {
+      "start_time": 1220.98,
+      "end_time": 1223.079,
+      "annotation": [
+        {
+          "text": "I mean, it is possible"
+        }
+      ],
+      "tags": [],
+      "uuid": "4eea6544-12ba-46b8-884f-d5760abf28f0"
+    },
+    {
+      "start_time": 1223.08,
+      "end_time": 1225.299,
+      "annotation": [
+        {
+          "text": "to do a lot of creative things"
+        }
+      ],
+      "tags": [],
+      "uuid": "11038bf3-0ae3-4b43-a0e6-253ba69f90bc"
+    },
+    {
+      "start_time": 1225.3,
+      "end_time": 1226.3,
+      "annotation": [
+        {
+          "text": "and"
+        }
+      ],
+      "tags": [],
+      "uuid": "a57c758f-7ed7-4ff2-8383-09187d17c74d"
+    },
+    {
+      "start_time": 1227.75,
+      "end_time": 1229.679,
+      "annotation": [
+        {
+          "text": "be happy, but man, it's"
+        }
+      ],
+      "tags": [],
+      "uuid": "27b47f73-a167-48c1-a233-9d902307d060"
+    },
+    {
+      "start_time": 1229.68,
+      "end_time": 1231.569,
+      "annotation": [
+        {
+          "text": "impossible to be a complete human"
+        }
+      ],
+      "tags": [],
+      "uuid": "55bf866e-c328-4b96-9249-95a771f8471f"
+    },
+    {
+      "start_time": 1231.57,
+      "end_time": 1233.429,
+      "annotation": [
+        {
+          "text": "being. It's impossible to be a woman"
+        }
+      ],
+      "tags": [],
+      "uuid": "4864273d-cc37-42ee-96d0-98c9ff8b7265"
+    },
+    {
+      "start_time": 1233.43,
+      "end_time": 1235.379,
+      "annotation": [
+        {
+          "text": "if there are no men around who can"
+        }
+      ],
+      "tags": [],
+      "uuid": "48801e76-ab78-4ad2-aa84-225302324c69"
+    },
+    {
+      "start_time": 1235.38,
+      "end_time": 1236.999,
+      "annotation": [
+        {
+          "text": "who can make you feel that way in"
+        }
+      ],
+      "tags": [],
+      "uuid": "c704d5cb-fc28-485a-a7ad-884a38ebf1c2"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1238.829,
+      "annotation": [
+        {
+          "text": "the way that you need to be made to"
+        }
+      ],
+      "tags": [],
+      "uuid": "81a805d6-e78b-45fd-b738-4b6eff3e4506"
+    },
+    {
+      "start_time": 1238.83,
+      "end_time": 1240.449,
+      "annotation": [
+        {
+          "text": "feel that way, which is a complete"
+        }
+      ],
+      "tags": [],
+      "uuid": "6f74ef39-3f3e-4055-bb02-cf858f69d11e"
+    },
+    {
+      "start_time": 1240.45,
+      "end_time": 1242.279,
+      "annotation": [
+        {
+          "text": "way, I mean, it's impossible to be"
+        }
+      ],
+      "tags": [],
+      "uuid": "65e32a3c-b0dc-4edd-8b51-5d3742d2ee42"
+    },
+    {
+      "start_time": 1242.28,
+      "end_time": 1243.719,
+      "annotation": [
+        {
+          "text": "a complete human being if you're a"
+        }
+      ],
+      "tags": [],
+      "uuid": "11c1fdc8-dcd8-46ac-9d51-8378eb8bb6c8"
+    },
+    {
+      "start_time": 1243.72,
+      "end_time": 1245.969,
+      "annotation": [
+        {
+          "text": "woman without a man and vice versa."
+        }
+      ],
+      "tags": [],
+      "uuid": "df550513-9568-43e2-a7f2-857969e00a8d"
+    },
+    {
+      "start_time": 1245.97,
+      "end_time": 1247.799,
+      "annotation": [
+        {
+          "text": "And, you know, you can sort"
+        }
+      ],
+      "tags": [],
+      "uuid": "d1e4053d-a97f-4594-90b9-38c1ba96f2ae"
+    },
+    {
+      "start_time": 1247.8,
+      "end_time": 1250.289,
+      "annotation": [
+        {
+          "text": "of push the problem aside"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b59561d-1a98-468b-b838-0db474ec3cc5"
+    },
+    {
+      "start_time": 1250.29,
+      "end_time": 1252.599,
+      "annotation": [
+        {
+          "text": "for a while and for a long while."
+        }
+      ],
+      "tags": [],
+      "uuid": "98a238be-becc-4556-969a-b6a0469ca845"
+    },
+    {
+      "start_time": 1252.6,
+      "end_time": 1254.609,
+      "annotation": [
+        {
+          "text": "But ultimately, it's,"
+        }
+      ],
+      "tags": [],
+      "uuid": "fce66b4b-edc7-45ce-bd7f-0dbc5aa5cdd8"
+    },
+    {
+      "start_time": 1254.61,
+      "end_time": 1256.469,
+      "annotation": [
+        {
+          "text": "it's a source of unhappiness, it's"
+        }
+      ],
+      "tags": [],
+      "uuid": "2666a04a-de3a-406c-9e95-90fd7a47a06e"
+    },
+    {
+      "start_time": 1256.47,
+      "end_time": 1258.839,
+      "annotation": [
+        {
+          "text": "a source of loneliness that"
+        }
+      ],
+      "tags": [],
+      "uuid": "59425137-bfac-43c8-8ed1-f6ca2b11ef79"
+    },
+    {
+      "start_time": 1258.84,
+      "end_time": 1260.789,
+      "annotation": [
+        {
+          "text": "there are not other human beings"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6d2367f-65ab-4af5-aebf-c21b352ceec2"
+    },
+    {
+      "start_time": 1260.79,
+      "end_time": 1262.649,
+      "annotation": [
+        {
+          "text": "around to make you complete"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e68d860-5065-4dfc-ab79-046de00d50ea"
+    },
+    {
+      "start_time": 1262.65,
+      "end_time": 1263.939,
+      "annotation": [
+        {
+          "text": "because you need them."
+        }
+      ],
+      "tags": [],
+      "uuid": "0ed0016c-f002-48fe-be1d-94e99d16dd7f"
+    },
+    {
+      "start_time": 1263.94,
+      "end_time": 1264.989,
+      "annotation": [
+        {
+          "text": "I mean, it's not."
+        }
+      ],
+      "tags": [],
+      "uuid": "9c5ca7c6-1dfb-44c6-bf09-90395365ade1"
+    },
+    {
+      "start_time": 1266.24,
+      "end_time": 1267.709,
+      "annotation": [
+        {
+          "text": "You know, there's no such thing as a"
+        }
+      ],
+      "tags": [],
+      "uuid": "472f715a-1c0a-4a72-a9f0-9ad94ec6369d"
+    },
+    {
+      "start_time": 1267.71,
+      "end_time": 1268.93,
+      "annotation": [
+        {
+          "text": "sovereign human being."
+        }
+      ],
+      "tags": [],
+      "uuid": "e8e3bd27-1e56-4525-a912-8d4d3b0af2b0"
+    },
+    {
+      "start_time": 1275.9,
+      "end_time": 1277.279,
+      "annotation": [
+        {
+          "text": " SPEAKER 23:",
+          "bold": true
+        },
+        {
+          "text": "  End of tirade. [LAUGHTER]"
+        }
+      ],
+      "tags": [],
+      "uuid": "b05d8161-9b52-431e-b4cb-61add2d4825a"
+    },
+    {
+      "start_time": 1277.28,
+      "end_time": 1278.28,
+      "annotation": [
+        {
+          "text": " SPEAKER 23:",
+          "bold": true
+        },
+        {
+          "text": "  A few of them are, a few of them are"
+        }
+      ],
+      "tags": [],
+      "uuid": "84ad85e0-7425-4695-ba3a-f71d83cbb957"
+    },
+    {
+      "start_time": 1279.86,
+      "end_time": 1281.689,
+      "annotation": [
+        {
+          "text": "pretty radical about"
+        }
+      ],
+      "tags": [],
+      "uuid": "971cc208-2012-4e0d-86e4-402083ba792b"
+    },
+    {
+      "start_time": 1281.69,
+      "end_time": 1282.919,
+      "annotation": [
+        {
+          "text": "women's liberation, which is"
+        }
+      ],
+      "tags": [],
+      "uuid": "abbeb3aa-5fa2-4af8-aa48-996be722b540"
+    },
+    {
+      "start_time": 1282.92,
+      "end_time": 1284.749,
+      "annotation": [
+        {
+          "text": "obviously pretty pertinent to"
+        }
+      ],
+      "tags": [],
+      "uuid": "9d7a2d56-013f-47a2-81d2-29a32fe9a221"
+    },
+    {
+      "start_time": 1284.75,
+      "end_time": 1285.75,
+      "annotation": [
+        {
+          "text": "them,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c2dc4ec4-e0e1-4d32-bad9-8560f3f31518"
+    },
+    {
+      "start_time": 1286.64,
+      "end_time": 1287.784,
+      "annotation": [
+        {
+          "text": "and some of them are interested in,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5f974ab4-87b0-4b66-8756-dff68e677b19"
+    },
+    {
+      "start_time": 1287.785,
+      "end_time": 1288.785,
+      "annotation": [
+        {
+          "text": "in"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a79d99a-bb1e-4e7c-b947-f6ea918d3fae"
+    },
+    {
+      "start_time": 1290.18,
+      "end_time": 1292.039,
+      "annotation": [
+        {
+          "text": "expandg coeducation."
+        }
+      ],
+      "tags": [],
+      "uuid": "12bda89f-9404-4f1e-9e96-d9df69af23fa"
+    },
+    {
+      "start_time": 1292.04,
+      "end_time": 1293.959,
+      "annotation": [
+        {
+          "text": "I mean, that as a cause"
+        }
+      ],
+      "tags": [],
+      "uuid": "08f009d1-634d-4e0f-89b9-5aa02339f90d"
+    },
+    {
+      "start_time": 1293.96,
+      "end_time": 1294.989,
+      "annotation": [
+        {
+          "text": "attracts a lot of girls."
+        }
+      ],
+      "tags": [],
+      "uuid": "474eefc2-bfaa-477f-b8e1-a485d7da18f3"
+    },
+    {
+      "start_time": 1296.39,
+      "end_time": 1297.799,
+      "annotation": [
+        {
+          "text": " SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": "  I think the first thing that Yale"
+        }
+      ],
+      "tags": [],
+      "uuid": "dbe1a68f-55e9-4ad9-af19-0ff133ac8070"
+    },
+    {
+      "start_time": 1297.8,
+      "end_time": 1299.129,
+      "annotation": [
+        {
+          "text": "has to do if it's ever going to"
+        }
+      ],
+      "tags": [],
+      "uuid": "b6a6487d-09eb-474a-9fed-701b67545eec"
+    },
+    {
+      "start_time": 1299.13,
+      "end_time": 1300.979,
+      "annotation": [
+        {
+          "text": "improve the situation, is change the"
+        }
+      ],
+      "tags": [],
+      "uuid": "a879a1de-00ab-444c-a49b-3c5cf7413ee6"
+    },
+    {
+      "start_time": 1300.98,
+      "end_time": 1302.869,
+      "annotation": [
+        {
+          "text": "admissions policy and have equal"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd0719a0-53d8-4a7e-835f-a8d2517840d7"
+    },
+    {
+      "start_time": 1302.87,
+      "end_time": 1304.429,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  women and male admission."
+        }
+      ],
+      "tags": [],
+      "uuid": "2988dc40-8e77-421c-b921-1837ebec6ca6"
+    },
+    {
+      "start_time": 1304.43,
+      "end_time": 1305.43,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  Well, just to express"
+        }
+      ],
+      "tags": [],
+      "uuid": "4fc247ff-35d3-4217-86f2-4789983d0f5e"
+    },
+    {
+      "start_time": 1308.84,
+      "end_time": 1309.84,
+      "annotation": [
+        {
+          "text": "a wholly untutored and uninformed hunch,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea199763-64ca-4e52-88a8-d2c56a799b17"
+    },
+    {
+      "start_time": 1311.12,
+      "end_time": 1312.619,
+      "annotation": [
+        {
+          "text": "I'm rather inclined to think that"
+        }
+      ],
+      "tags": [],
+      "uuid": "2c3e8969-fdab-46d4-bd0a-86f4a2bfee27"
+    },
+    {
+      "start_time": 1313.82,
+      "end_time": 1315.519,
+      "annotation": [
+        {
+          "text": "something less than 50/50"
+        }
+      ],
+      "tags": [],
+      "uuid": "68f28b44-23e9-4216-8e2f-eaaa0e49fd62"
+    },
+    {
+      "start_time": 1316.94,
+      "end_time": 1318.619,
+      "annotation": [
+        {
+          "text": "is, may turn out to be better than"
+        }
+      ],
+      "tags": [],
+      "uuid": "b2c9a867-b0a0-4d3b-8970-8106e41b6010"
+    },
+    {
+      "start_time": 1318.62,
+      "end_time": 1320.215,
+      "annotation": [
+        {
+          "text": " SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": "  50/50."
+        }
+      ],
+      "tags": [],
+      "uuid": "b6988e3a-b1e5-41cd-942a-6106de95d19b"
+    },
+    {
+      "start_time": 1320.216,
+      "end_time": 1321.739,
+      "annotation": [
+        {
+          "text": "It's still going to have this ambivalence,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1da80cd8-f472-4a57-8cb2-22ca0e7f8b33"
+    },
+    {
+      "start_time": 1321.74,
+      "end_time": 1323.509,
+      "annotation": [
+        {
+          "text": "as to whether it's a weekend school"
+        }
+      ],
+      "tags": [],
+      "uuid": "406f0e6f-2d05-4915-b2cb-d9ecb3b93855"
+    },
+    {
+      "start_time": 1323.51,
+      "end_time": 1324.649,
+      "annotation": [
+        {
+          "text": "or a coed school."
+        }
+      ],
+      "tags": [],
+      "uuid": "b8a75aa6-7465-4339-b993-d22f570eb1bd"
+    },
+    {
+      "start_time": 1324.65,
+      "end_time": 1326.909,
+      "annotation": [
+        {
+          "text": " INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": "  And right now, it's neither one."
+        }
+      ],
+      "tags": [],
+      "uuid": "335b416e-d3f0-4056-a1ea-a2c9d63b051a"
+    },
+    {
+      "start_time": 1326.91,
+      "end_time": 1328.849,
+      "annotation": [
+        {
+          "text": " INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": "  What exactly should Yale do, do you"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a987221-3439-4eae-9cdc-a3962e2a22e0"
+    },
+    {
+      "start_time": 1328.85,
+      "end_time": 1329.85,
+      "annotation": [
+        {
+          "text": "think?"
+        }
+      ],
+      "tags": [],
+      "uuid": "97f99cf1-243d-4044-8bac-ab427052f963"
+    },
+    {
+      "start_time": 1330.72,
+      "end_time": 1331.089,
+      "annotation": [
+        {
+          "text": " SPEAKER 25:",
+          "bold": true
+        },
+        {
+          "text": "  Make it 50/50. Inmediatamente."
+        }
+      ],
+      "tags": [],
+      "uuid": "6c5dcd9e-b2e8-4299-aa4e-7830b9dd0d97"
+    },
+    {
+      "start_time": 1331.09,
+      "end_time": 1332.151,
+      "annotation": [
+        {
+          "text": " SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": "  First of all change its admission"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7bd038c-a3be-4101-9603-22a910f0ac23"
+    },
+    {
+      "start_time": 1332.152,
+      "end_time": 1333.16,
+      "annotation": [
+        {
+          "text": "policy, second of all open up a student center--"
+        }
+      ],
+      "tags": [],
+      "uuid": "144892ba-d1db-40f7-9d29-a6ac32767089"
+    },
+    {
+      "start_time": 1333.56,
+      "end_time": 1335.879,
+      "annotation": [
+        {
+          "text": " INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": "  Well how, be a little more specific."
+        }
+      ],
+      "tags": [],
+      "uuid": "b6d64ed1-039b-4fee-9628-de84a671ce9e"
+    },
+    {
+      "start_time": 1335.88,
+      "end_time": 1336.709,
+      "annotation": [
+        {
+          "text": " SPEAKER 25:",
+          "bold": true
+        },
+        {
+          "text": "  50/50."
+        }
+      ],
+      "tags": [],
+      "uuid": "2e3d8cf3-9f2a-4455-a011-64e1459cac53"
+    },
+    {
+      "start_time": 1336.71,
+      "end_time": 1338.509,
+      "annotation": [
+        {
+          "text": "Immediately, this year."
+        }
+      ],
+      "tags": [],
+      "uuid": "c6f15d32-4e16-49a1-85b5-ffe547fce7fc"
+    },
+    {
+      "start_time": 1338.51,
+      "end_time": 1339.51,
+      "annotation": [
+        {
+          "text": "Why can't-- 1000 male leaders."
+        }
+      ],
+      "tags": [],
+      "uuid": "b7ed8a41-bbf5-43f9-a298-b4edfec57406"
+    },
+    {
+      "start_time": 1340.73,
+      "end_time": 1341.779,
+      "annotation": [
+        {
+          "text": "I mean, that's what they've got to"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ea498c8-144e-4e5a-86a0-3fd373d203ec"
+    },
+    {
+      "start_time": 1341.78,
+      "end_time": 1344.009,
+      "annotation": [
+        {
+          "text": "turn out. Women are made to be wives"
+        }
+      ],
+      "tags": [],
+      "uuid": "5423e022-1622-4c5e-94e3-040223aed5ae"
+    },
+    {
+      "start_time": 1344.01,
+      "end_time": 1345.769,
+      "annotation": [
+        {
+          "text": "of leaders, not leaders themselves."
+        }
+      ],
+      "tags": [],
+      "uuid": "80261653-e594-4a6e-af1c-3de32544755c"
+    },
+    {
+      "start_time": 1345.77,
+      "end_time": 1346.991,
+      "annotation": [
+        {
+          "text": "And as long as Yale, the president"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e74b46b-8d68-4ee7-b4fc-bfa53366f340"
+    },
+    {
+      "start_time": 1346.992,
+      "end_time": 1348.829,
+      "annotation": [
+        {
+          "text": "of Yale University maintains an"
+        }
+      ],
+      "tags": [],
+      "uuid": "f50280e8-d0a6-4f56-a059-885aeb8905c7"
+    },
+    {
+      "start_time": 1348.83,
+      "end_time": 1350.329,
+      "annotation": [
+        {
+          "text": "attitude like this, how can you"
+        }
+      ],
+      "tags": [],
+      "uuid": "f615c870-3edc-4da5-96d5-a4f36417e8d1"
+    },
+    {
+      "start_time": 1350.33,
+      "end_time": 1352.609,
+      "annotation": [
+        {
+          "text": "expect Yale to be a fully coeducated"
+        }
+      ],
+      "tags": [],
+      "uuid": "c860f9c3-3299-4866-9787-482ae479075b"
+    },
+    {
+      "start_time": 1352.61,
+      "end_time": 1354.019,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  university?"
+        }
+      ],
+      "tags": [],
+      "uuid": "72e8fba7-31b6-4003-aa29-01aef058dad7"
+    },
+    {
+      "start_time": 1354.02,
+      "end_time": 1355.02,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  You know, I'm"
+        }
+      ],
+      "tags": [],
+      "uuid": "23fa2a80-39d4-41cf-9b67-bdae707d2c8b"
+    },
+    {
+      "start_time": 1356.48,
+      "end_time": 1358.369,
+      "annotation": [
+        {
+          "text": "an optimist and also a"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ed4dc20-91c3-4f13-a67d-358db932d2ab"
+    },
+    {
+      "start_time": 1358.37,
+      "end_time": 1360.079,
+      "annotation": [
+        {
+          "text": "rationalizer and a wishful thinker."
+        }
+      ],
+      "tags": [],
+      "uuid": "f8f1b3ee-0235-4587-bf2f-3ced4401c132"
+    },
+    {
+      "start_time": 1360.08,
+      "end_time": 1361.459,
+      "annotation": [
+        {
+          "text": "I think it's been great."
+        }
+      ],
+      "tags": [],
+      "uuid": "1d6006a9-8d08-4b0f-8397-c8e1bf93c5a8"
+    },
+    {
+      "start_time": 1361.46,
+      "end_time": 1362.479,
+      "annotation": [
+        {
+          "text": "I think the place is infinitely"
+        }
+      ],
+      "tags": [],
+      "uuid": "5a7b0f62-074c-49a1-96ff-8a2d9f6d7e20"
+    },
+    {
+      "start_time": 1362.48,
+      "end_time": 1363.649,
+      "annotation": [
+        {
+          "text": "better, even though we couldn't do"
+        }
+      ],
+      "tags": [],
+      "uuid": "fde9eabe-bd59-4b2b-bbce-993172e8b8fd"
+    },
+    {
+      "start_time": 1363.65,
+      "end_time": 1365.659,
+      "annotation": [
+        {
+          "text": "very much about it because"
+        }
+      ],
+      "tags": [],
+      "uuid": "52b8bdd4-6fc9-4805-b2af-e44e70493d49"
+    },
+    {
+      "start_time": 1365.66,
+      "end_time": 1367.01,
+      "annotation": [
+        {
+          "text": "of the small and lopsided"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8a2a3a2-09c6-4208-ae1f-2741bf44d5e1"
+    },
+    {
+      "start_time": 1369.35,
+      "end_time": 1370.35,
+      "annotation": [
+        {
+          "text": "ratio."
+        }
+      ],
+      "tags": [],
+      "uuid": "ce5a7db7-1287-47b6-a909-894a705b78f3"
+    },
+    {
+      "start_time": 1371.18,
+      "end_time": 1372.18,
+      "annotation": [
+        {
+          "text": " SPEAKER 29:",
+          "bold": true
+        },
+        {
+          "text": "  Given"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a21bca8-9592-4ae9-bf6c-ccbe9020d961"
+    },
+    {
+      "start_time": 1373.07,
+      "end_time": 1374.899,
+      "annotation": [
+        {
+          "text": "the feeling that maybe total"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ed12a46-e4ff-4bc3-bca5-99b2579e39f6"
+    },
+    {
+      "start_time": 1374.9,
+      "end_time": 1376.759,
+      "annotation": [
+        {
+          "text": "coeducation is not what Yale"
+        }
+      ],
+      "tags": [],
+      "uuid": "ec19d814-34d0-47d4-9b8a-3dadb979937b"
+    },
+    {
+      "start_time": 1376.76,
+      "end_time": 1377.76,
+      "annotation": [
+        {
+          "text": "needs."
+        }
+      ],
+      "tags": [],
+      "uuid": "c288614c-1b05-4eb6-bd70-82b79c8a6a88"
+    },
+    {
+      "start_time": 1378.71,
+      "end_time": 1380.659,
+      "annotation": [
+        {
+          "text": "How do you equate"
+        }
+      ],
+      "tags": [],
+      "uuid": "8df4648b-fefa-42f0-a4d9-ff6cc0121d7d"
+    },
+    {
+      "start_time": 1380.66,
+      "end_time": 1382.153,
+      "annotation": [
+        {
+          "text": "the problem then that there aren't"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6a35330-58c4-4d6d-af89-a3ef68a9b858"
+    },
+    {
+      "start_time": 1383.33,
+      "end_time": 1385.429,
+      "annotation": [
+        {
+          "text": "women, women in the profession and"
+        }
+      ],
+      "tags": [],
+      "uuid": "d0165c48-f0f9-41a4-92e0-755102696467"
+    },
+    {
+      "start_time": 1385.43,
+      "end_time": 1387.349,
+      "annotation": [
+        {
+          "text": "that you have stated that"
+        }
+      ],
+      "tags": [],
+      "uuid": "467cb289-c0b2-48db-886e-e44961e59688"
+    },
+    {
+      "start_time": 1387.35,
+      "end_time": 1389.299,
+      "annotation": [
+        {
+          "text": "you feel that Yale should"
+        }
+      ],
+      "tags": [],
+      "uuid": "aaa120f7-aa86-4eeb-ad90-49d671ffcc88"
+    },
+    {
+      "start_time": 1389.3,
+      "end_time": 1391.249,
+      "annotation": [
+        {
+          "text": "produce a thousand leaders a year"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7c9d6c1-43ef-431a-903b-98ba1c058244"
+    },
+    {
+      "start_time": 1391.25,
+      "end_time": 1393.409,
+      "annotation": [
+        {
+          "text": "now that somehow excludes"
+        }
+      ],
+      "tags": [],
+      "uuid": "5154dbb4-b90c-44f0-8582-a5aa80d76290"
+    },
+    {
+      "start_time": 1393.41,
+      "end_time": 1395.01,
+      "annotation": [
+        {
+          "text": "women within that one"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea41b2a6-392a-47f1-a3b9-01fe7ec5b6c0"
+    },
+    {
+      "start_time": 1396.31,
+      "end_time": 1396.839,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  thousand, by the way?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f9a09118-5e09-468f-bdaa-fb70767e4a41"
+    },
+    {
+      "start_time": 1396.84,
+      "end_time": 1398.899,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  Well, let me, let"
+        }
+      ],
+      "tags": [],
+      "uuid": "0f0ae2c4-8930-4bbc-837a-3ea149f1f3b0"
+    },
+    {
+      "start_time": 1398.9,
+      "end_time": 1399.829,
+      "annotation": [
+        {
+          "text": "me, let me say two things."
+        }
+      ],
+      "tags": [],
+      "uuid": "51d03dec-3e37-4fb4-bd8b-4edef778c10b"
+    },
+    {
+      "start_time": 1399.83,
+      "end_time": 1401.929,
+      "annotation": [
+        {
+          "text": "First of all, I should be offering"
+        }
+      ],
+      "tags": [],
+      "uuid": "a943595e-93ba-431a-ab8e-fff9c1639a4e"
+    },
+    {
+      "start_time": 1401.93,
+      "end_time": 1403.829,
+      "annotation": [
+        {
+          "text": "a reward to that person,"
+        }
+      ],
+      "tags": [],
+      "uuid": "25e23a19-7f30-4bc5-8a5f-555f516b53a0"
+    },
+    {
+      "start_time": 1403.83,
+      "end_time": 1404.83,
+      "annotation": [
+        {
+          "text": "to show me"
+        }
+      ],
+      "tags": [],
+      "uuid": "86854cee-3b34-485b-a81d-96d22e888094"
+    },
+    {
+      "start_time": 1405.8,
+      "end_time": 1407.629,
+      "annotation": [
+        {
+          "text": "when I said a thousand male leaders,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c39afa4a-a74d-42ad-a95e-4a23f56c1aab"
+    },
+    {
+      "start_time": 1407.63,
+      "end_time": 1408.829,
+      "annotation": [
+        {
+          "text": "because it makes a great debating"
+        }
+      ],
+      "tags": [],
+      "uuid": "7dba2fde-67b0-4485-9d9c-3484fa86d7a5"
+    },
+    {
+      "start_time": 1408.83,
+      "end_time": 1410.809,
+      "annotation": [
+        {
+          "text": "slogan, but I, I don't remember"
+        }
+      ],
+      "tags": [],
+      "uuid": "50b12c6e-5b21-45ee-b064-d995847b88d5"
+    },
+    {
+      "start_time": 1410.81,
+      "end_time": 1411.81,
+      "annotation": [
+        {
+          "text": "having said it."
+        }
+      ],
+      "tags": [],
+      "uuid": "edd70a62-bf12-405d-97ef-f8927bc52088"
+    },
+    {
+      "start_time": 1412.94,
+      "end_time": 1414.07,
+      "annotation": [
+        {
+          "text": "The, the, but my wife says I did, so"
+        }
+      ],
+      "tags": [],
+      "uuid": "b35e30d0-81d1-4041-a85e-7e2cee163f77"
+    },
+    {
+      "start_time": 1414.071,
+      "end_time": 1415.071,
+      "annotation": [
+        {
+          "text": "maybe I did. [LAUGHTER] So"
+        }
+      ],
+      "tags": [],
+      "uuid": "a9a6c1c6-c395-4913-98be-2e9ccbd7f97e"
+    },
+    {
+      "start_time": 1416.06,
+      "end_time": 1417.949,
+      "annotation": [
+        {
+          "text": "I think the question of"
+        }
+      ],
+      "tags": [],
+      "uuid": "a0240a1b-f719-4504-9431-e3ac34659c02"
+    },
+    {
+      "start_time": 1417.95,
+      "end_time": 1419.929,
+      "annotation": [
+        {
+          "text": "whether a 50/50"
+        }
+      ],
+      "tags": [],
+      "uuid": "36e0aaa3-98b4-4e88-b610-87acb25beec3"
+    },
+    {
+      "start_time": 1419.93,
+      "end_time": 1420.98,
+      "annotation": [
+        {
+          "text": "ratio or"
+        }
+      ],
+      "tags": [],
+      "uuid": "89a1d866-fabb-48dc-85df-b3bb8b4675f8"
+    },
+    {
+      "start_time": 1423.11,
+      "end_time": 1424.11,
+      "annotation": [
+        {
+          "text": "I call it a sex-blind admissions"
+        }
+      ],
+      "tags": [],
+      "uuid": "f39ee1ad-a001-4154-a7f0-8461dcecd4c2"
+    },
+    {
+      "start_time": 1425.35,
+      "end_time": 1427.099,
+      "annotation": [
+        {
+          "text": "policy would"
+        }
+      ],
+      "tags": [],
+      "uuid": "e818114f-4aac-4679-a8aa-2874108d9d20"
+    },
+    {
+      "start_time": 1428.27,
+      "end_time": 1429.27,
+      "annotation": [
+        {
+          "text": "be the best thing, is, is, is"
+        }
+      ],
+      "tags": [],
+      "uuid": "17a5c476-22be-49c1-b80c-4d150d85f0ad"
+    },
+    {
+      "start_time": 1430.61,
+      "end_time": 1431.989,
+      "annotation": [
+        {
+          "text": "a function of two other practical"
+        }
+      ],
+      "tags": [],
+      "uuid": "9886e961-61b0-410a-98e2-ffcedc61be44"
+    },
+    {
+      "start_time": 1431.99,
+      "end_time": 1434.209,
+      "annotation": [
+        {
+          "text": "considerations. One is what makes"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2d20e48-905b-4ddd-b8de-2e27445b6df6"
+    },
+    {
+      "start_time": 1434.21,
+      "end_time": 1436.069,
+      "annotation": [
+        {
+          "text": "the most productive and"
+        }
+      ],
+      "tags": [],
+      "uuid": "9eb9530f-e09a-4fa4-9f83-a422cb2a7f2f"
+    },
+    {
+      "start_time": 1436.07,
+      "end_time": 1438.019,
+      "annotation": [
+        {
+          "text": "relaxed environment for living"
+        }
+      ],
+      "tags": [],
+      "uuid": "90426079-d0ee-4e33-a0e1-2ffe1f5cf90b"
+    },
+    {
+      "start_time": 1438.02,
+      "end_time": 1439.999,
+      "annotation": [
+        {
+          "text": "on the part of both men"
+        }
+      ],
+      "tags": [],
+      "uuid": "70b1a7c7-ee59-4ec6-96f1-7468630ed0f2"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1441,
+      "annotation": [
+        {
+          "text": "and women."
+        }
+      ],
+      "tags": [],
+      "uuid": "f338ae71-a8b6-4d11-b41a-7fb3713d3245"
+    },
+    {
+      "start_time": 1441.59,
+      "end_time": 1442.59,
+      "annotation": [
+        {
+          "text": "Secondly,"
+        }
+      ],
+      "tags": [],
+      "uuid": "008bfc9a-3fc7-45aa-b080-e1064c7dcc9a"
+    },
+    {
+      "start_time": 1444.41,
+      "end_time": 1445.609,
+      "annotation": [
+        {
+          "text": "to what extent do we have an"
+        }
+      ],
+      "tags": [],
+      "uuid": "880bc01e-0a96-41d2-9990-68418c735ce6"
+    },
+    {
+      "start_time": 1445.61,
+      "end_time": 1447.14,
+      "annotation": [
+        {
+          "text": "obligation not to shrink"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf1efae0-db96-49a6-86b2-1492030e920c"
+    },
+    {
+      "start_time": 1448.48,
+      "end_time": 1449.865,
+      "annotation": [
+        {
+          "text": "the men's enrollment in Yale"
+        }
+      ],
+      "tags": [],
+      "uuid": "d9732323-d103-40de-90d3-33c7324c0e11"
+    },
+    {
+      "start_time": 1450.9,
+      "end_time": 1453.109,
+      "annotation": [
+        {
+          "text": "in order to maintain the loyalty"
+        }
+      ],
+      "tags": [],
+      "uuid": "694ed8e3-f07a-4bed-8eb5-173f916df2ec"
+    },
+    {
+      "start_time": 1453.11,
+      "end_time": 1454.254,
+      "annotation": [
+        {
+          "text": "and continuity of those"
+        }
+      ],
+      "tags": [],
+      "uuid": "67502add-5981-4406-a22a-64fa199a8c73"
+    },
+    {
+      "start_time": 1455.39,
+      "end_time": 1456.39,
+      "annotation": [
+        {
+          "text": "alumni who"
+        }
+      ],
+      "tags": [],
+      "uuid": "02238532-4d94-485b-bff4-2f88a7c58bec"
+    },
+    {
+      "start_time": 1457.82,
+      "end_time": 1459.349,
+      "annotation": [
+        {
+          "text": "have been loyal to us in terms of"
+        }
+      ],
+      "tags": [],
+      "uuid": "e68260f7-8e5d-4ebf-8af3-3b272aca6b05"
+    },
+    {
+      "start_time": 1459.35,
+      "end_time": 1461.449,
+      "annotation": [
+        {
+          "text": "support, all of whom were men"
+        }
+      ],
+      "tags": [],
+      "uuid": "61494af3-733d-4d8f-8771-77cceed8bf9e"
+    },
+    {
+      "start_time": 1461.45,
+      "end_time": 1462.45,
+      "annotation": [
+        {
+          "text": "up to now."
+        }
+      ],
+      "tags": [],
+      "uuid": "c1b5890c-4ab7-45e2-8462-46851980542a"
+    },
+    {
+      "start_time": 1463.28,
+      "end_time": 1464.719,
+      "annotation": [
+        {
+          "text": "And I don't think there's anything permanent"
+        }
+      ],
+      "tags": [],
+      "uuid": "94b80f7a-9e67-448a-8de1-7c7aef85068a"
+    },
+    {
+      "start_time": 1464.72,
+      "end_time": 1465.72,
+      "annotation": [
+        {
+          "text": "about this business."
+        }
+      ],
+      "tags": [],
+      "uuid": "80b180ce-b410-4c84-973d-abc761fd5b2e"
+    },
+    {
+      "start_time": 1466.759,
+      "end_time": 1468.049,
+      "annotation": [
+        {
+          "text": "Do you find that talk about"
+        }
+      ],
+      "tags": [],
+      "uuid": "0f57e3c4-6971-4beb-b23c-3fad052d6d97"
+    },
+    {
+      "start_time": 1468.05,
+      "end_time": 1469.319,
+      "annotation": [
+        {
+          "text": "education and concern about"
+        }
+      ],
+      "tags": [],
+      "uuid": "bbc24240-968e-415b-bd97-9fb1476d31a8"
+    },
+    {
+      "start_time": 1469.32,
+      "end_time": 1471.019,
+      "annotation": [
+        {
+          "text": "coeducation really took a back seat"
+        }
+      ],
+      "tags": [],
+      "uuid": "e59c6fdf-55ef-49dd-8678-4f85a37b9d20"
+    },
+    {
+      "start_time": 1471.02,
+      "end_time": 1472.02,
+      "annotation": [
+        {
+          "text": "to more"
+        }
+      ],
+      "tags": [],
+      "uuid": "35fa9f23-1054-48b5-903c-d2be9ec5e536"
+    },
+    {
+      "start_time": 1475.05,
+      "end_time": 1475.057,
+      "annotation": [
+        {
+          "text": " SPEAKER 30:",
+          "bold": true
+        },
+        {
+          "text": "  major events this year at Yale?"
+        }
+      ],
+      "tags": [],
+      "uuid": "36dbecf4-81e9-482e-97f8-4b90e1005b05"
+    },
+    {
+      "start_time": 1475.058,
+      "end_time": 1476.058,
+      "annotation": [
+        {
+          "text": "Serious about that, I guess."
+        }
+      ],
+      "tags": [],
+      "uuid": "7b03b9f4-5d38-4cfd-b7fd-856bcdb7b8f4"
+    },
+    {
+      "start_time": 1479.6,
+      "end_time": 1480.902,
+      "annotation": [
+        {
+          "text": "You know, the feeling is still that, you know, the whole thing"
+        }
+      ],
+      "tags": [],
+      "uuid": "13ad6822-e30b-4258-9fdc-12d5463c627a"
+    },
+    {
+      "start_time": 1482.3,
+      "end_time": 1483.8,
+      "annotation": [
+        {
+          "text": "about women, though, I mean, it's"
+        }
+      ],
+      "tags": [],
+      "uuid": "6dd0a897-afc8-40fd-a618-2889395064e6"
+    },
+    {
+      "start_time": 1483.801,
+      "end_time": 1484.801,
+      "annotation": [
+        {
+          "text": "just a lot bigger than just Yale."
+        }
+      ],
+      "tags": [],
+      "uuid": "7ede04ff-75d2-4cef-84c0-d08308a9c0e4"
+    },
+    {
+      "start_time": 1486.13,
+      "end_time": 1487.832,
+      "annotation": [
+        {
+          "text": "There was a girl on a panel, there"
+        }
+      ],
+      "tags": [],
+      "uuid": "881d1c7c-140a-4001-8526-980f6173d7fc"
+    },
+    {
+      "start_time": 1487.833,
+      "end_time": 1488.52,
+      "annotation": [
+        {
+          "text": "was a meeting at Sprague Hall the other day and there was a girl on the"
+        }
+      ],
+      "tags": [],
+      "uuid": "50525c9d-b803-4f7e-9536-99ab4f8a43b7"
+    },
+    {
+      "start_time": 1488.521,
+      "end_time": 1489.521,
+      "annotation": [
+        {
+          "text": "panel, and I think some of the"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd02d9d1-74c9-4299-97ff-132d1b505318"
+    },
+    {
+      "start_time": 1491.63,
+      "end_time": 1492.649,
+      "annotation": [
+        {
+          "text": "women are the worst offenders."
+        }
+      ],
+      "tags": [],
+      "uuid": "f7203567-be01-445f-b138-2f5d3be3cc92"
+    },
+    {
+      "start_time": 1492.65,
+      "end_time": 1493.519,
+      "annotation": [
+        {
+          "text": "You know what I mean?"
+        }
+      ],
+      "tags": [],
+      "uuid": "22883420-caf4-40f8-9847-253d36b40268"
+    },
+    {
+      "start_time": 1493.52,
+      "end_time": 1495.139,
+      "annotation": [
+        {
+          "text": "They don't take it seriously."
+        }
+      ],
+      "tags": [],
+      "uuid": "f6569b8f-0881-445e-9b0b-01d4e39d34d1"
+    },
+    {
+      "start_time": 1495.14,
+      "end_time": 1495.946,
+      "annotation": [
+        {
+          "text": "And they're, I mean, they should be"
+        }
+      ],
+      "tags": [],
+      "uuid": "55d7b271-633a-49bb-874f-49b1262b8f65"
+    },
+    {
+      "start_time": 1495.947,
+      "end_time": 1497.127,
+      "annotation": [
+        {
+          "text": "pretty angry about the way we're"
+        }
+      ],
+      "tags": [],
+      "uuid": "a7182690-8f03-43d1-a4db-26cef78744f7"
+    },
+    {
+      "start_time": 1497.128,
+      "end_time": 1498.722,
+      "annotation": [
+        {
+          "text": "treated here, and a lot of them just"
+        }
+      ],
+      "tags": [],
+      "uuid": "a50412d4-420c-4dd6-b86f-2e9f41992d70"
+    },
+    {
+      "start_time": 1498.723,
+      "end_time": 1499.723,
+      "annotation": [
+        {
+          "text": "aren't. And um, I'd like to see the"
+        }
+      ],
+      "tags": [],
+      "uuid": "f02460c8-3a14-4d3a-818d-f56a3b6e55f1"
+    },
+    {
+      "start_time": 1503.03,
+      "end_time": 1504.03,
+      "annotation": [
+        {
+          "text": "women more conscious about being women."
+        }
+      ],
+      "tags": [],
+      "uuid": "afdb8edf-187c-44c3-bf7d-f5726b5a524b"
+    },
+    {
+      "start_time": 1504.29,
+      "end_time": 1505.29,
+      "annotation": [
+        {
+          "text": " INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": "  Are you angry?"
+        }
+      ],
+      "tags": [],
+      "uuid": "53e35551-d5e9-4e6c-b3a1-af6cb9bdb71e"
+    },
+    {
+      "start_time": 1506.93,
+      "end_time": 1507.739,
+      "annotation": [
+        {
+          "text": " SPEAKER 30:",
+          "bold": true
+        },
+        {
+          "text": "  Yes, in a lot of ways. But I'm angry about being a"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee573b1d-d1b6-4fff-b4b8-08b7ba92a6bb"
+    },
+    {
+      "start_time": 1507.74,
+      "end_time": 1508.74,
+      "annotation": [
+        {
+          "text": "woman, I mean, I think that, um,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1d8bc1cc-4d7a-4f33-b48d-ac6a1773b4fb"
+    },
+    {
+      "start_time": 1511.01,
+      "end_time": 1512.01,
+      "annotation": [
+        {
+          "text": "like women's liberation is very important."
+        }
+      ],
+      "tags": [],
+      "uuid": "f487940d-a59d-4fdf-8aa2-16577ed091c7"
+    },
+    {
+      "start_time": 1512.97,
+      "end_time": 1513.97,
+      "annotation": [
+        {
+          "text": "They've been, you know, very"
+        }
+      ],
+      "tags": [],
+      "uuid": "5962f51b-c131-4c2a-bbd9-d1066f0f08e9"
+    },
+    {
+      "start_time": 1514.91,
+      "end_time": 1515.929,
+      "annotation": [
+        {
+          "text": "kind to us in sort of a"
+        }
+      ],
+      "tags": [],
+      "uuid": "15f88395-687c-4002-94e0-7c6258e60da8"
+    },
+    {
+      "start_time": 1515.93,
+      "end_time": 1518.059,
+      "annotation": [
+        {
+          "text": "grandfatherly way, but"
+        }
+      ],
+      "tags": [],
+      "uuid": "324cd187-c54d-4628-a83c-d3069cdfbcce"
+    },
+    {
+      "start_time": 1518.06,
+      "end_time": 1519.003,
+      "annotation": [
+        {
+          "text": "I don't think it's really hit them"
+        }
+      ],
+      "tags": [],
+      "uuid": "c525e5a6-871f-43f4-ab42-6c4e1a4f59b2"
+    },
+    {
+      "start_time": 1519.004,
+      "end_time": 1520.023,
+      "annotation": [
+        {
+          "text": "that I'm here on the same basis that"
+        }
+      ],
+      "tags": [],
+      "uuid": "31c5979c-50a2-470f-b953-a43c5858b194"
+    },
+    {
+      "start_time": 1520.024,
+      "end_time": 1521.024,
+      "annotation": [
+        {
+          "text": "he is, that I have"
+        }
+      ],
+      "tags": [],
+      "uuid": "5fda8d2e-2381-4a06-b4e3-8c63d28df6be"
+    },
+    {
+      "start_time": 1522.29,
+      "end_time": 1522.307,
+      "annotation": [
+        {
+          "text": "the same work to do as he does. But they don't care. They think it's"
+        }
+      ],
+      "tags": [],
+      "uuid": "f34b52cc-697b-4305-8945-b2094c454cb1"
+    },
+    {
+      "start_time": 1522.308,
+      "end_time": 1523.308,
+      "annotation": [
+        {
+          "text": "really cute to have girls around."
+        }
+      ],
+      "tags": [],
+      "uuid": "02415004-c4a9-4c7a-b74c-f6f44bba4e7a"
+    },
+    {
+      "start_time": 1533.63,
+      "end_time": 1536.149,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  I would hope that the university,"
+        }
+      ],
+      "tags": [],
+      "uuid": "6eabee38-b8c0-4239-97d0-01a70e5ab12c"
+    },
+    {
+      "start_time": 1536.15,
+      "end_time": 1537.529,
+      "annotation": [
+        {
+          "text": "I don't think just this one, but any"
+        }
+      ],
+      "tags": [],
+      "uuid": "9928c2ac-de1e-4355-8766-40d5d6551d33"
+    },
+    {
+      "start_time": 1537.53,
+      "end_time": 1540.039,
+      "annotation": [
+        {
+          "text": "university, felt an obligation to be"
+        }
+      ],
+      "tags": [],
+      "uuid": "96f60b25-a5d2-4b36-b739-102fbd92cf00"
+    },
+    {
+      "start_time": 1540.04,
+      "end_time": 1542.219,
+      "annotation": [
+        {
+          "text": "not only protective, but"
+        }
+      ],
+      "tags": [],
+      "uuid": "6ab24a7a-a770-4f46-a5b3-58f0cf6c56f3"
+    },
+    {
+      "start_time": 1542.22,
+      "end_time": 1543.919,
+      "annotation": [
+        {
+          "text": "encouraging the people who do want"
+        }
+      ],
+      "tags": [],
+      "uuid": "4ab78093-df88-425b-819c-3caa0724b923"
+    },
+    {
+      "start_time": 1543.92,
+      "end_time": 1545.059,
+      "annotation": [
+        {
+          "text": "to question the assumptions of"
+        }
+      ],
+      "tags": [],
+      "uuid": "32eb81fa-6099-468d-afbe-3cf9bacb91b6"
+    },
+    {
+      "start_time": 1545.06,
+      "end_time": 1546.06,
+      "annotation": [
+        {
+          "text": "society."
+        }
+      ],
+      "tags": [],
+      "uuid": "ae33c119-e102-4f3d-ba79-e16765849735"
+    },
+    {
+      "start_time": 1546.91,
+      "end_time": 1547.999,
+      "annotation": [
+        {
+          "text": "This is what all the talk about"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b995248-87f3-4e36-81f3-eebce689ee15"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1549.319,
+      "annotation": [
+        {
+          "text": "academic freedom is supposed to be"
+        }
+      ],
+      "tags": [],
+      "uuid": "52174fca-7bda-4d3a-8710-938b9248ffed"
+    },
+    {
+      "start_time": 1549.32,
+      "end_time": 1551.179,
+      "annotation": [
+        {
+          "text": "about. The real question is whether"
+        }
+      ],
+      "tags": [],
+      "uuid": "2059aac4-593d-425f-b28f-33c8967f52d9"
+    },
+    {
+      "start_time": 1552.77,
+      "end_time": 1555.17,
+      "annotation": [
+        {
+          "text": "the university tends"
+        }
+      ],
+      "tags": [],
+      "uuid": "92cae604-ef3c-4001-b51d-838cd4a71f56"
+    },
+    {
+      "start_time": 1556.25,
+      "end_time": 1558.259,
+      "annotation": [
+        {
+          "text": "to encourage people to"
+        }
+      ],
+      "tags": [],
+      "uuid": "663d9032-65cb-4ab6-97df-5d73ca6e3923"
+    },
+    {
+      "start_time": 1558.26,
+      "end_time": 1559.729,
+      "annotation": [
+        {
+          "text": "question the assumptions of whatever"
+        }
+      ],
+      "tags": [],
+      "uuid": "c9ad5a53-4ae1-45de-8cae-29a7ac2da9a4"
+    },
+    {
+      "start_time": 1559.73,
+      "end_time": 1560.73,
+      "annotation": [
+        {
+          "text": "they're talking about."
+        }
+      ],
+      "tags": [],
+      "uuid": "be260d16-7333-436a-a005-7dc8a8aa8809"
+    },
+    {
+      "start_time": 1562.25,
+      "end_time": 1563.149,
+      "annotation": [
+        {
+          "text": "And, uh, if it doesn't come to that"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6e3dbcc-0d09-43c0-bb2a-a5e57e79231e"
+    },
+    {
+      "start_time": 1563.15,
+      "end_time": 1564.64,
+      "annotation": [
+        {
+          "text": "extent, I think it's failed."
+        }
+      ],
+      "tags": [],
+      "uuid": "4451c27c-bfdb-4f92-9d11-e5bf75d8c933"
+    },
+    {
+      "start_time": 1570.55,
+      "end_time": 1571.809,
+      "annotation": [
+        {
+          "text": " Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": "  Maybe we should add some new"
+        }
+      ],
+      "tags": [],
+      "uuid": "1e1ce1f2-9cdf-49d2-851d-f52483232b88"
+    },
+    {
+      "start_time": 1571.81,
+      "end_time": 1573.049,
+      "annotation": [
+        {
+          "text": "categories to the political"
+        }
+      ],
+      "tags": [],
+      "uuid": "09960b7c-cb15-4565-8450-0dbd3240dcc6"
+    },
+    {
+      "start_time": 1573.05,
+      "end_time": 1574.05,
+      "annotation": [
+        {
+          "text": "spectrum,"
+        }
+      ],
+      "tags": [],
+      "uuid": "04db284d-2bce-4140-a1ac-1ba60a235be4"
+    },
+    {
+      "start_time": 1575.46,
+      "end_time": 1576.468,
+      "annotation": [
+        {
+          "text": "maybe we should follow the due-process radicals,"
+        }
+      ],
+      "tags": [],
+      "uuid": "02906c07-4a17-45ea-b354-0bdfe91e5aba"
+    },
+    {
+      "start_time": 1577.63,
+      "end_time": 1578.63,
+      "annotation": [
+        {
+          "text": "at least, at least"
+        }
+      ],
+      "tags": [],
+      "uuid": "3a8c65fb-3387-46ec-bc30-6726a5f71fb5"
+    },
+    {
+      "start_time": 1581.51,
+      "end_time": 1582.51,
+      "annotation": [
+        {
+          "text": "this would suggest"
+        }
+      ],
+      "tags": [],
+      "uuid": "3cf994fe-bd31-4168-853f-dfe8ad7b8db7"
+    },
+    {
+      "start_time": 1587.21,
+      "end_time": 1588.759,
+      "annotation": [
+        {
+          "text": "that the tactical acceptance of working for change of the system"
+        }
+      ],
+      "tags": [],
+      "uuid": "628080a1-f0fd-4c74-922d-8dce877614a8"
+    },
+    {
+      "start_time": 1588.76,
+      "end_time": 1591.519,
+      "annotation": [
+        {
+          "text": "does not imply an acceptance"
+        }
+      ],
+      "tags": [],
+      "uuid": "7b488268-74b7-4637-bc71-cd3438ae509a"
+    },
+    {
+      "start_time": 1591.52,
+      "end_time": 1593.344,
+      "annotation": [
+        {
+          "text": "of every aspect of"
+        }
+      ],
+      "tags": [],
+      "uuid": "734d838f-6469-47b4-a34e-11980a6f49d7"
+    },
+    {
+      "start_time": 1593.345,
+      "end_time": 1594.345,
+      "annotation": [
+        {
+          "text": "that system, such a contest of due-process"
+        }
+      ],
+      "tags": [],
+      "uuid": "87b0499c-c335-4da2-949c-9bf573373278"
+    },
+    {
+      "start_time": 1597.07,
+      "end_time": 1598.689,
+      "annotation": [
+        {
+          "text": "radicalism might help your elders to"
+        }
+      ],
+      "tags": [],
+      "uuid": "f49751d8-d2c3-48a8-a116-13460d33c38b"
+    },
+    {
+      "start_time": 1598.69,
+      "end_time": 1600.303,
+      "annotation": [
+        {
+          "text": "understand that forebarance to use"
+        }
+      ],
+      "tags": [],
+      "uuid": "ced92ff7-2190-4214-a18a-cf64f17e7149"
+    },
+    {
+      "start_time": 1600.304,
+      "end_time": 1601.304,
+      "annotation": [
+        {
+          "text": "violence have not constitute complacency."
+        }
+      ],
+      "tags": [],
+      "uuid": "6e209fb7-4e1b-432a-ac72-3335ec4a5924"
+    },
+    {
+      "start_time": 1604.87,
+      "end_time": 1606.849,
+      "annotation": [
+        {
+          "text": "Finally, during"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7628b0d-57d2-4aba-9efa-45523646c2d4"
+    },
+    {
+      "start_time": 1606.85,
+      "end_time": 1609.069,
+      "annotation": [
+        {
+          "text": "your time although I would not"
+        }
+      ],
+      "tags": [],
+      "uuid": "c7a108e3-e055-49a2-9088-580b65d7c9ae"
+    },
+    {
+      "start_time": 1609.07,
+      "end_time": 1610.817,
+      "annotation": [
+        {
+          "text": "conceed you all the credit, the"
+        }
+      ],
+      "tags": [],
+      "uuid": "3fc11df0-ad22-418a-abfa-3f8aaa273ab4"
+    },
+    {
+      "start_time": 1610.818,
+      "end_time": 1612.839,
+      "annotation": [
+        {
+          "text": "previous coeducation will be"
+        }
+      ],
+      "tags": [],
+      "uuid": "a56add37-32e4-4237-8796-4187ccb52498"
+    },
+    {
+      "start_time": 1612.84,
+      "end_time": 1614.089,
+      "annotation": [
+        {
+          "text": "accelerated because of your insistance,"
+        }
+      ],
+      "tags": [],
+      "uuid": "74f26092-2b93-459f-af4b-ca1368b15ed6"
+    },
+    {
+      "start_time": 1614.09,
+      "end_time": 1615.09,
+      "annotation": [
+        {
+          "text": "and while"
+        }
+      ],
+      "tags": [],
+      "uuid": "a02e2ce4-a120-412d-863c-d8829173ceb9"
+    },
+    {
+      "start_time": 1616.04,
+      "end_time": 1618.099,
+      "annotation": [
+        {
+          "text": "male chauvinism is not"
+        }
+      ],
+      "tags": [],
+      "uuid": "84f970e2-e4d5-44e2-89a8-12501bafb8dc"
+    },
+    {
+      "start_time": 1618.1,
+      "end_time": 1619.1,
+      "annotation": [
+        {
+          "text": "on the run, it is on the defensive."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd1a8924-1074-4639-98bc-ef0127001f99"
+    },
+    {
+      "start_time": 1700.14,
+      "end_time": 1701.14,
+      "annotation": [
+        {
+          "text": " SPEAKER 31:",
+          "bold": true
+        },
+        {
+          "text": "  It's"
+        }
+      ],
+      "tags": [],
+      "uuid": "437e8461-6270-4212-a1d9-dfc4a706669c"
+    },
+    {
+      "start_time": 1703.47,
+      "end_time": 1705.179,
+      "annotation": [
+        {
+          "text": "no mere graduation procession,"
+        }
+      ],
+      "tags": [],
+      "uuid": "fce38381-f8ff-4929-b46b-147e94e5453a"
+    },
+    {
+      "start_time": 1705.18,
+      "end_time": 1706.906,
+      "annotation": [
+        {
+          "text": "because no women were admitted to"
+        }
+      ],
+      "tags": [],
+      "uuid": "c97ddcec-8a13-4a9a-83e6-6c4d62e7235e"
+    },
+    {
+      "start_time": 1706.907,
+      "end_time": 1707.907,
+      "annotation": [
+        {
+          "text": "the senior class."
+        }
+      ],
+      "tags": [],
+      "uuid": "e0fdf370-b956-4f19-a7dd-6cb88207abe4"
+    },
+    {
+      "start_time": 1708.18,
+      "end_time": 1709.859,
+      "annotation": [
+        {
+          "text": "I bet that'll never happen again."
+        }
+      ],
+      "tags": [],
+      "uuid": "e78fd23a-4eef-4a1f-8a4d-805e5f2fe86e"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "event_id": "bbc7e93a-0ce5-4638-a2af-9e2243edd447",
+  "source_id": "197f4973-8c87-4d14-8295-44ad048a0cce",
+  "set": "Spanish [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/039/513/original/GoogleTranslateSpanish.vtt?1661439102"
+        }
+      ],
+      "tags": [],
+      "uuid": "91bdd2b5-7110-4835-b903-3b5b3b5fe5fc"
+    }
+  ]
+}

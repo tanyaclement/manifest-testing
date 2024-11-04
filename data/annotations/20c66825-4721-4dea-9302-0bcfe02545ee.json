@@ -1,0 +1,35 @@
+{
+  "event_id": "bbc7e93a-0ce5-4638-a2af-9e2243edd447",
+  "source_id": "197f4973-8c87-4d14-8295-44ad048a0cce",
+  "set": "Annotation [Transcript]",
+  "annotations": [
+    {
+      "start_time": 55.329,
+      "end_time": 76.617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1884, twelve members of the class of '86 penned the famous \"Long Cheer,\" an Ancient-Greek-and-English rallying cry inspired by Aristophanes' Frogs. See an article about the Long Cheer in the Yale Daily News: \""
+            },
+            {
+              "type": "link",
+              "url": "https://yaledailynews.com/blog/2008/11/14/yale-princeton-who-but-yale-cheers-in-ancient-greek/",
+              "children": [
+                {
+                  "text": "YALE-PRINCETON | Who but Yale cheers in ancient Greek?"
+                }
+              ]
+            },
+            {
+              "text": "\" Yale Daily News, November 14, 2008"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "192c853f-9a7b-4279-89d4-b0a59e9aa9ce"
+    }
+  ]
+}

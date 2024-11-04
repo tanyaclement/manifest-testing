@@ -1,0 +1,1477 @@
+{
+  "event_id": "bbc7e93a-0ce5-4638-a2af-9e2243edd447",
+  "source_id": "197f4973-8c87-4d14-8295-44ad048a0cce",
+  "set": "AUTO_TRINT_ru_0803_2001-a-103_b041.mp4 [Transcript]",
+  "annotations": [
+    {
+      "start_time": 3.71,
+      "end_time": 3.854,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Coeducation at Yale?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee3dba85-8e42-47cb-a4fd-250a8c8a595e"
+    },
+    {
+      "start_time": 5.19,
+      "end_time": 5.9,
+      "annotation": [
+        {
+          "text": "SPEAKER 1:",
+          "bold": true
+        },
+        {
+          "text": " Oh, I think it's a great idea."
+        }
+      ],
+      "tags": [],
+      "uuid": "2f42c08c-5e6f-4366-baa2-1b5d6d8a4a54"
+    },
+    {
+      "start_time": 24.89,
+      "end_time": 24.89,
+      "annotation": [
+        {
+          "text": "CHOIR:",
+          "bold": true
+        },
+        {
+          "text": " [singing]"
+        }
+      ],
+      "tags": [],
+      "uuid": "6c11eacb-3db3-43e1-8856-1af5993b4bea"
+    },
+    {
+      "start_time": 28.31,
+      "end_time": 36.5,
+      "annotation": [
+        {
+          "text": "SPEAKER 2:",
+          "bold": true
+        },
+        {
+          "text": " I think any, any time you have a bisexual situation. It is much better than monosexual situation."
+        }
+      ],
+      "tags": [],
+      "uuid": "f9c27158-58fb-419c-b9ac-b91bbd901d93"
+    },
+    {
+      "start_time": 48.32,
+      "end_time": 48.32,
+      "annotation": [
+        {
+          "text": "CHOIR:",
+          "bold": true
+        },
+        {
+          "text": " [singing]"
+        }
+      ],
+      "tags": [],
+      "uuid": "df1eaaea-6eb3-4e6c-851a-8eea79425585"
+    },
+    {
+      "start_time": 55.329,
+      "end_time": 76.617,
+      "annotation": [
+        {
+          "text": "SPEAKER 3:",
+          "bold": true
+        },
+        {
+          "text": " Let's have a long cheer for Yale, how many of you remember your Greek, it's not brek-addi-ak, it's brek-ek-ek-ek one two three! Brek-ek-ek-ek, ko-ax ko-ax, brek-ek-ek-ek ko-ax, koax, Ow, ow, ow, ow, ow, ow, ow. Rah, rah, rah, rah, rah. Yale! Yale!"
+        }
+      ],
+      "tags": [],
+      "uuid": "c5a25a9c-6d99-472e-b8ff-9e8f956370cb"
+    },
+    {
+      "start_time": 78.25,
+      "end_time": 78.79,
+      "annotation": [
+        {
+          "text": "SPEAKER 4:",
+          "bold": true
+        },
+        {
+          "text": " We're again it!"
+        }
+      ],
+      "tags": [],
+      "uuid": "28f5a24f-dafc-4a3c-a56d-f2358d0bb059"
+    },
+    {
+      "start_time": 79.569,
+      "end_time": 79.631,
+      "annotation": [
+        {
+          "text": "SPEAKER 5:",
+          "bold": true
+        },
+        {
+          "text": " Again it."
+        }
+      ],
+      "tags": [],
+      "uuid": "71082b18-c14e-4d5c-beda-f926bb392482"
+    },
+    {
+      "start_time": 79.79,
+      "end_time": 79.833,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Against what?"
+        }
+      ],
+      "tags": [],
+      "uuid": "64101f97-395c-4ef0-939b-4cd23ddadb41"
+    },
+    {
+      "start_time": 81.88,
+      "end_time": 81.88,
+      "annotation": [
+        {
+          "text": "SPEAKER 4:",
+          "bold": true
+        },
+        {
+          "text": " Coeducation."
+        }
+      ],
+      "tags": [],
+      "uuid": "6583da9b-0b6a-4144-896f-3aa888642f38"
+    },
+    {
+      "start_time": 83.06,
+      "end_time": 84.91,
+      "annotation": [
+        {
+          "text": "SPEAKER 6:",
+          "bold": true
+        },
+        {
+          "text": " Coeducation. Absolutely opposed."
+        }
+      ],
+      "tags": [],
+      "uuid": "a6fcc9d7-7ef9-45bf-950e-6f0f3fe9dc09"
+    },
+    {
+      "start_time": 87.68,
+      "end_time": 87.802,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " For any reason sir? You sir?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6f29038f-44de-4a4f-96fc-4a759e26186a"
+    },
+    {
+      "start_time": 91.85,
+      "end_time": 93.19,
+      "annotation": [
+        {
+          "text": "SPEAKER 4:",
+          "bold": true
+        },
+        {
+          "text": " Well, I just can't tell you why."
+        }
+      ],
+      "tags": [],
+      "uuid": "de279313-f740-4b48-b4fe-592681dae0da"
+    },
+    {
+      "start_time": 94.289,
+      "end_time": 95.56,
+      "annotation": [
+        {
+          "text": "SPEAKER 6:",
+          "bold": true
+        },
+        {
+          "text": " Why don't they let in a few more freshmen, boys?"
+        }
+      ],
+      "tags": [],
+      "uuid": "34ded264-2ffb-4548-8317-5991e5436da8"
+    },
+    {
+      "start_time": 101.379,
+      "end_time": 106.305,
+      "annotation": [
+        {
+          "text": "SPEAKER 5:",
+          "bold": true
+        },
+        {
+          "text": " There will be too many illegitimate children in the confines of New Haven."
+        }
+      ],
+      "tags": [],
+      "uuid": "96a63931-19dc-417b-90bb-049dc8907523"
+    },
+    {
+      "start_time": 106.79,
+      "end_time": 107.191,
+      "annotation": [
+        {
+          "text": "SPEAKER 4:",
+          "bold": true
+        },
+        {
+          "text": " That won't go on the air. [LAUGHS]"
+        }
+      ],
+      "tags": [],
+      "uuid": "dfa547f3-78f1-4c6a-a2ef-fd3b10d15509"
+    },
+    {
+      "start_time": 120.01,
+      "end_time": 134.516,
+      "annotation": [
+        {
+          "text": "SPEAKER 7:",
+          "bold": true
+        },
+        {
+          "text": " There used to be this old tradition at Yale which lasted for about two hundred and seventy years. The tradition was no women undergraduates allowed. That changed in the fall of 1969, the year they liberated Yale."
+        }
+      ],
+      "tags": [],
+      "uuid": "347031f0-bc71-4ae5-8ee9-0bd1aed66abd"
+    },
+    {
+      "start_time": 138.17,
+      "end_time": 155.47,
+      "annotation": [
+        {
+          "text": "SPEAKER 8:",
+          "bold": true
+        },
+        {
+          "text": " There's the idea of going to Yale, oh, ha ha, you know I'm going to Yale, when the letters of acceptance came most kids are hysterical and they know, you know, it's still kind of a dream."
+        }
+      ],
+      "tags": [],
+      "uuid": "849e9060-8cba-408d-96e9-062d52b3fe75"
+    },
+    {
+      "start_time": 156.79,
+      "end_time": 166.568,
+      "annotation": [
+        {
+          "text": "SPEAKER 9:",
+          "bold": true
+        },
+        {
+          "text": " After three years, you get to see everything, anyway. It should, it should add a lot to the social life, I think. I think probably the girls may be a little apprehensive about going to Yale at first."
+        }
+      ],
+      "tags": [],
+      "uuid": "79958efb-344d-4327-9a61-3fef172afde8"
+    },
+    {
+      "start_time": 167.5,
+      "end_time": 175.296,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " How do you feel about the health department saying that they'll give birth control pills to any girl who asks for them?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d65c5a22-9c5b-49c1-bd60-b645db3d2590"
+    },
+    {
+      "start_time": 177.22,
+      "end_time": 179.26,
+      "annotation": [
+        {
+          "text": "SPEAKER 8:",
+          "bold": true
+        },
+        {
+          "text": " I hadn't heard that. I think that's a good idea."
+        }
+      ],
+      "tags": [],
+      "uuid": "90961f64-2f11-4aa0-8e6c-5bcd94f152df"
+    },
+    {
+      "start_time": 183.208,
+      "end_time": 185.29,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " You do? How do you feel, how do you think the parents would feel?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8ef8f4d9-979b-4f13-a27c-8b726af32463"
+    },
+    {
+      "start_time": 188.919,
+      "end_time": 203.485,
+      "annotation": [
+        {
+          "text": "SPEAKER 8:",
+          "bold": true
+        },
+        {
+          "text": " [LAUGHS] They wouldn't think it would be such a good idea, I don't think. I don't think, they haven't heard anything about this. And I don't know, if they-- I don't know. Uh, well, I don't plan to write them a letter saying, hey mom, guess what, I'm going to get free birth control pills, you know."
+        }
+      ],
+      "tags": [],
+      "uuid": "e2470a32-44de-4be4-9e05-e35d0b431a6c"
+    },
+    {
+      "start_time": 203.8,
+      "end_time": 203.8,
+      "annotation": [
+        {
+          "text": "SPEAKER 9:",
+          "bold": true
+        },
+        {
+          "text": " Free?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5552b67b-5d6d-499c-8e94-5da15525ae20"
+    },
+    {
+      "start_time": 207.34,
+      "end_time": 217.708,
+      "annotation": [
+        {
+          "text": "SPEAKER 8:",
+          "bold": true
+        },
+        {
+          "text": " Get birth control pills, but, um, I don't know. They'll accept the fact, they'll probably figure it's safer than, you know, they won't figure that I'm gonna want them. But, you know, anyone else will. [LAUGHS]"
+        }
+      ],
+      "tags": [],
+      "uuid": "bb0e326c-6749-4f16-bd47-461ea8372ea0"
+    },
+    {
+      "start_time": 219.04,
+      "end_time": 219.79,
+      "annotation": [
+        {
+          "text": "SPEAKER 10:",
+          "bold": true
+        },
+        {
+          "text": " I think is quite wise."
+        }
+      ],
+      "tags": [],
+      "uuid": "4e43fde6-0209-4278-97da-38e51cdf83e1"
+    },
+    {
+      "start_time": 221.17,
+      "end_time": 223.54,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " You do. You as parents don't have any objections?"
+        }
+      ],
+      "tags": [],
+      "uuid": "bae02587-581c-4c42-a688-38c753b8a15f"
+    },
+    {
+      "start_time": 223.589,
+      "end_time": 226.87,
+      "annotation": [
+        {
+          "text": "SPEAKER 10:",
+          "bold": true
+        },
+        {
+          "text": " [CROSS-TALK] No, because I have faith in my daughter's intellect and morality."
+        }
+      ],
+      "tags": [],
+      "uuid": "c442f22c-ee58-4b64-a7ec-5dc76dce9bee"
+    },
+    {
+      "start_time": 228.91,
+      "end_time": 229.713,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " And how do you feel as a mother?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e519f84e-2414-42e5-8896-e2ae47a5154c"
+    },
+    {
+      "start_time": 231.19,
+      "end_time": 248.17,
+      "annotation": [
+        {
+          "text": "SPEAKER 11:",
+          "bold": true
+        },
+        {
+          "text": " Well, when I read that, it kind of shocked me a little bit. But we feel that Barbara is moral enough, and capable enough to do what she wants. And whether you, that they couldn't have it, they would get it if they wanted to do so. This is out in the open."
+        }
+      ],
+      "tags": [],
+      "uuid": "231295bd-98ba-4356-9a8b-c336eb3d31b3"
+    },
+    {
+      "start_time": 249.05,
+      "end_time": 282.759,
+      "annotation": [
+        {
+          "text": "SPEAKER 12:",
+          "bold": true
+        },
+        {
+          "text": " What do you think, right on the red line, turn your head straight towards me. Alright, smile for the movie. Whoops, you blinked, one more time. OK. Right on the red line. Feet exactly on those red lines. And, right here. Now just leave your white part of [INAUDIBLE]."
+        }
+      ],
+      "tags": [],
+      "uuid": "bdcfd9ff-b825-4d07-af16-2695256f23b5"
+    },
+    {
+      "start_time": 290.72,
+      "end_time": 290.721,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " How have you enjoyed your first week at Yale?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c88c4324-a712-4381-b30d-5d5a1a2215a6"
+    },
+    {
+      "start_time": 291.47,
+      "end_time": 306.48,
+      "annotation": [
+        {
+          "text": "SPEAKER 13:",
+          "bold": true
+        },
+        {
+          "text": " I, fantastic! I think it's great, I love it, of course this may change, but it's going well."
+        }
+      ],
+      "tags": [],
+      "uuid": "84c5485a-6179-49fb-ae8e-36914bdd7a6a"
+    },
+    {
+      "start_time": 315.039,
+      "end_time": 327.23,
+      "annotation": [
+        {
+          "text": "SPEAKER 14:",
+          "bold": true
+        },
+        {
+          "text": " Well the two other issues that SDS is going to be working on, one right now, which SDS is working on is supporting the welfare mothers in New Haven, which I would think the girls would be interested in."
+        }
+      ],
+      "tags": [],
+      "uuid": "23a7070a-4d24-47d2-97b9-4a177dbbc60d"
+    },
+    {
+      "start_time": 327.92,
+      "end_time": 328.708,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Are you going to try to actively recruit girls into SDS?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fdc60307-f076-4994-85fe-e81117685ba7"
+    },
+    {
+      "start_time": 329.352,
+      "end_time": 356.48,
+      "annotation": [
+        {
+          "text": "SPEAKER 14:",
+          "bold": true
+        },
+        {
+          "text": " We're actively recruiting everybody into SDS. And the other issue, which will be just as important, is the Campus Worker Student Alliance, which is people in SDS getting as many campus jobs as possible. And certainly the girls are, unless the university has more male chauvinism than I thought, will be just as willing to be hired as anybody else."
+        }
+      ],
+      "tags": [],
+      "uuid": "d37b8fe1-d195-4e21-b0bd-4741828c22c4"
+    },
+    {
+      "start_time": 357.14,
+      "end_time": 366.283,
+      "annotation": [
+        {
+          "text": "SPEAKER 15:",
+          "bold": true
+        },
+        {
+          "text": " I'm interested in getting involved in SDS. And also, I want to be in the [? chorus ?] I think."
+        }
+      ],
+      "tags": [],
+      "uuid": "102f25f4-9f05-4924-8081-b4ba3e6e63ab"
+    },
+    {
+      "start_time": 370.42,
+      "end_time": 370.443,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " What should a program be like that SDS is carrying on?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7f5ddce7-7efb-43ed-882a-e8edebf79105"
+    },
+    {
+      "start_time": 371.17,
+      "end_time": 379.342,
+      "annotation": [
+        {
+          "text": "SPEAKER 15:",
+          "bold": true
+        },
+        {
+          "text": " Well, I'm not sure, I'm, I'd like to see what, what the ideas people are brought to it already and I'd like to see some new things brought in."
+        }
+      ],
+      "tags": [],
+      "uuid": "7f77ccb1-16d4-46f4-b236-c947e2271126"
+    },
+    {
+      "start_time": 383.04,
+      "end_time": 384.812,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Do you think most of the girls will become politicized by the end of the--"
+        }
+      ],
+      "tags": [],
+      "uuid": "89795d71-07f7-42c3-9b29-deb20c8a8547"
+    },
+    {
+      "start_time": 385.13,
+      "end_time": 390.45,
+      "annotation": [
+        {
+          "text": "SPEAKER 15:",
+          "bold": true
+        },
+        {
+          "text": " Definitely. Just the, the whole atmosphere of Yale will have to politicize them and what's going on in New Haven."
+        }
+      ],
+      "tags": [],
+      "uuid": "d9ac8962-d945-416a-92a9-7b0f754cf221"
+    },
+    {
+      "start_time": 393.59,
+      "end_time": 398.75,
+      "annotation": [
+        {
+          "text": "SPEAKER 16:",
+          "bold": true
+        },
+        {
+          "text": " It was be a year when educationally, New Haven's public green often rivaled the old campus."
+        }
+      ],
+      "tags": [],
+      "uuid": "e3953c36-af44-40b4-8689-7482e71151fc"
+    },
+    {
+      "start_time": 409.58,
+      "end_time": 427.38,
+      "annotation": [
+        {
+          "text": "SPEAKER 17:",
+          "bold": true
+        },
+        {
+          "text": " And in a democracy, you do not ignore the wishes of the people. What began as an idea for what was called a moratorium has become the largest national town meeting in the history of the country, and it was called by the kids."
+        }
+      ],
+      "tags": [],
+      "uuid": "2b5fc66a-92a4-4324-9b4e-c500691da20f"
+    },
+    {
+      "start_time": 435.37,
+      "end_time": 491.72,
+      "annotation": [
+        {
+          "text": "Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": " Obviously, I can speak only for myself personally, not for Yale as an institution, nor for Yale as a community, but never has so much of Yale spoken with a single voice as this meeting speaks today. To me, this is, above all, a day for reflection, not rhetoric. Most of us are torn apart by sorrow for the dead and by anguish for the living. It is tempting, of course, to seek relief in blame and recrimination. It is hard to lower our voices when the president says he will not listen."
+        }
+      ],
+      "tags": [],
+      "uuid": "c484f21d-b805-4be7-911e-1597cdc3cda3"
+    },
+    {
+      "start_time": 509.31,
+      "end_time": 515.039,
+      "annotation": [
+        {
+          "text": "SPEAKER 18:",
+          "bold": true
+        },
+        {
+          "text": " Well, I think she is like most freshmen, she's lonely and it's very lonely time."
+        }
+      ],
+      "tags": [],
+      "uuid": "d1940ae9-14db-459f-ae6c-bea66c754b48"
+    },
+    {
+      "start_time": 518.94,
+      "end_time": 519.012,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Has she met many people here?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4d6babdc-031f-4a84-af99-6c92a6b3e355"
+    },
+    {
+      "start_time": 519.012,
+      "end_time": 524.25,
+      "annotation": [
+        {
+          "text": "SPEAKER 18:",
+          "bold": true
+        },
+        {
+          "text": " I don't think so. I don't think she's met as many as she would like to meet. I think she really anticipated meeting a lot more."
+        }
+      ],
+      "tags": [],
+      "uuid": "9b6d3761-6463-42c6-92bf-fbaad6d1a028"
+    },
+    {
+      "start_time": 525.376,
+      "end_time": 547.528,
+      "annotation": [
+        {
+          "text": "SPEAKER 19:",
+          "bold": true
+        },
+        {
+          "text": " The students coming to college very much smarter than we came into college 25 years ago. They are probably wiser than we when we graduated from college. And they, they um, have lots of additional intrests, and they should be altering the things that they see as relevant to themselves. I think they will alter it. I hope they do."
+        }
+      ],
+      "tags": [],
+      "uuid": "f03aea8f-c5fc-4c02-b53c-1df9ae717318"
+    },
+    {
+      "start_time": 548.07,
+      "end_time": 556.61,
+      "annotation": [
+        {
+          "text": "SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": " Every concern I have about Yale is a very subtle thing. I think if I named one, I think it would have to be male chauvinism at Yale. And I think it's something that's very blatant, very rampant."
+        }
+      ],
+      "tags": [],
+      "uuid": "2238438f-1a71-410c-a809-41b90eaa0b67"
+    },
+    {
+      "start_time": 585.749,
+      "end_time": 585.749,
+      "annotation": [
+        {
+          "text": "CHOIR:",
+          "bold": true
+        },
+        {
+          "text": " [singing]"
+        }
+      ],
+      "tags": [],
+      "uuid": "58f22840-a304-419d-a29c-acc5c0b7fde7"
+    },
+    {
+      "start_time": 585.874,
+      "end_time": 591.421,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " What do you understand by the term male chauvinism?"
+        }
+      ],
+      "tags": [],
+      "uuid": "399d9e61-1920-4452-b28c-258f72d48066"
+    },
+    {
+      "start_time": 593.75,
+      "end_time": 615.77,
+      "annotation": [
+        {
+          "text": "SPEAKER 21:",
+          "bold": true
+        },
+        {
+          "text": " I think it's the existance of a double standard, that women are sort of around for domestic reasons, to raise kids, and to, for sex and to be exploited. I'm not necessarily trying to say that women are grossly exploited or anything. I just think that that's what is meant by male chauvinism."
+        }
+      ],
+      "tags": [],
+      "uuid": "54d960d4-15da-431f-bd17-7f7916e9f74b"
+    },
+    {
+      "start_time": 616.61,
+      "end_time": 628.058,
+      "annotation": [
+        {
+          "text": "SPEAKER 22:",
+          "bold": true
+        },
+        {
+          "text": " And it doesn't really have much to do with Yale, either. So if it is part of our society to say that a man is a male chauvinist is, to say he's a man."
+        }
+      ],
+      "tags": [],
+      "uuid": "7f1838ec-3b7f-4ae6-bc80-e0aab88e3c6e"
+    },
+    {
+      "start_time": 629.33,
+      "end_time": 651.8,
+      "annotation": [
+        {
+          "text": "SPEAKER 23:",
+          "bold": true
+        },
+        {
+          "text": " Yeah, well, I disagree. I think there are some manifestations of it at Yale, that some some of the girls have pointed out just things like not being able to join Mory's, not being considered for secret societies, where, that may be an advantage these days. But, you know, Yale is steeped in male tradition."
+        }
+      ],
+      "tags": [],
+      "uuid": "2dbb54ee-98b7-442b-b4d5-95cbd248d4dc"
+    },
+    {
+      "start_time": 675.869,
+      "end_time": 690.811,
+      "annotation": [
+        {
+          "text": "SPEAKER 24:",
+          "bold": true
+        },
+        {
+          "text": " [INDISTINGUIDBLE CHATTER] Oh, welcome once again to the 1969 Bladderball game, here at Yale University."
+        }
+      ],
+      "tags": [],
+      "uuid": "c2ca3213-f8f7-4d5a-b7df-b45d964c05c5"
+    },
+    {
+      "start_time": 696.09,
+      "end_time": 765.09,
+      "annotation": [
+        {
+          "text": "SPEAKER 25:",
+          "bold": true
+        },
+        {
+          "text": " I spent some time up here last year, you know, days here and there, and what I felt, what I loved about the school was a sort of worn out blue jeans, work shirt, barefoot kind of atmosphere, you know, an unselfconscious, broken and kind of feeling where I would walk into rooms at random and find people talking to each other, know about anything in the world. And I also felt the kindness of, of gentility, a softness which I found to be pretty rare among 18 year old guys. And I sensed it here, but I was looking from the outside and I didn't expect any place in it. And I knew I was just an observer. I was there for one day. And I guess what I expected is that when I got here, I would become a part of that. That it would be reshaped to include all of us and the kind of unselfconsciousness and softness we would become a co-ed community. And it hasn't."
+        }
+      ],
+      "tags": [],
+      "uuid": "81c72d07-c193-4e06-9c39-a5288d7d0a4c"
+    },
+    {
+      "start_time": 773.49,
+      "end_time": 790.09,
+      "annotation": [
+        {
+          "text": "SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": " And, Yale, you definitely go away to school when you go to to Yale and it's very much of a womb, it's a very sheltered place. People forget what the real world is like and they're not faced with everyday problems in the world. They're faced with themselves. And so a lot of them, there was a tremendous identity crisis in coming here."
+        }
+      ],
+      "tags": [],
+      "uuid": "cace9c58-058c-46b4-8e9d-1c8a3d79071b"
+    },
+    {
+      "start_time": 790.41,
+      "end_time": 802.77,
+      "annotation": [
+        {
+          "text": "SPEAKER 25:",
+          "bold": true
+        },
+        {
+          "text": " It seems to me that it was, it was mostly the guys that I met that were just, didn't ever want to do anything except sit around and have introspective, philosophical discussions and sort of meaningful deep experiences."
+        }
+      ],
+      "tags": [],
+      "uuid": "570f3896-36a6-4c79-9914-05fb8c057043"
+    },
+    {
+      "start_time": 804.6,
+      "end_time": 830.13,
+      "annotation": [
+        {
+          "text": "SPEAKER 23:",
+          "bold": true
+        },
+        {
+          "text": " And I kind of do believe in a pre-marriage living together period. Well, I've heard some people say that's, that's, that's artificial, that's not really the way marriage would be because you know you're not married. You know, you can, you can back out at any time. So maybe there's a point to that. But I think in general, marriage should be pretty flexible. Although it's still I think are a valid institution."
+        }
+      ],
+      "tags": [],
+      "uuid": "ce424cf0-ce15-4fd3-a96f-3bbd2c245c89"
+    },
+    {
+      "start_time": 831.57,
+      "end_time": 838.14,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " I wonder, how flexible? What about domesticity? Would you expect to clean house, wash dishes?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce4e8d34-7ed7-40f8-b93d-0e7e80977d3e"
+    },
+    {
+      "start_time": 838.95,
+      "end_time": 838.95,
+      "annotation": [
+        {
+          "text": "SPEAKER 26:",
+          "bold": true
+        },
+        {
+          "text": " No."
+        }
+      ],
+      "tags": [],
+      "uuid": "5f409297-914a-48ba-9003-f1788207817e"
+    },
+    {
+      "start_time": 839.43,
+      "end_time": 840.42,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Floors, cook?"
+        }
+      ],
+      "tags": [],
+      "uuid": "94dc7542-2015-48dd-88fd-107a1ae89143"
+    },
+    {
+      "start_time": 841.26,
+      "end_time": 841.26,
+      "annotation": [
+        {
+          "text": "SPEAKER 26:",
+          "bold": true
+        },
+        {
+          "text": " No."
+        }
+      ],
+      "tags": [],
+      "uuid": "54b6bf34-59b9-41c2-8078-0849e0f74a20"
+    },
+    {
+      "start_time": 841.83,
+      "end_time": 842.16,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Change diapers?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d72f5275-fcaa-4225-acba-66a238410e6f"
+    },
+    {
+      "start_time": 842.94,
+      "end_time": 854.927,
+      "annotation": [
+        {
+          "text": "SPEAKER 26:",
+          "bold": true
+        },
+        {
+          "text": " No. Well, depends on what the wife is doing. You know, I, I really am not ready to say no because I don't know who I'm going to marry and I don't know what she's going to be doing, what I'm going to be doing."
+        }
+      ],
+      "tags": [],
+      "uuid": "470d95db-053a-41d2-9d77-feb77861ba27"
+    },
+    {
+      "start_time": 855.66,
+      "end_time": 865.68,
+      "annotation": [
+        {
+          "text": "SPEAKER 22:",
+          "bold": true
+        },
+        {
+          "text": " If she sees herself as a particularly domestic type that enjoys doing these things, that's fine. If she doesn't, then the load has to be shared."
+        }
+      ],
+      "tags": [],
+      "uuid": "c79bab5c-cade-4267-9768-46e8ab86162f"
+    },
+    {
+      "start_time": 867.12,
+      "end_time": 871.585,
+      "annotation": [
+        {
+          "text": "SPEAKER 21:",
+          "bold": true
+        },
+        {
+          "text": " I think a lot of women would rather give a baby a bath and put it into the crib."
+        }
+      ],
+      "tags": [],
+      "uuid": "2d9d00c4-e619-43a9-83a0-d93f717b5d78"
+    },
+    {
+      "start_time": 871.78,
+      "end_time": 873.991,
+      "annotation": [
+        {
+          "text": "SPEAKER 23:",
+          "bold": true
+        },
+        {
+          "text": " But see that's, that's very blatant male chauvinism [LAUGHS]."
+        }
+      ],
+      "tags": [],
+      "uuid": "c710d72f-da5e-461f-a795-43dcef3707f9"
+    },
+    {
+      "start_time": 877.32,
+      "end_time": 911.67,
+      "annotation": [
+        {
+          "text": "SPEAKER 27:",
+          "bold": true
+        },
+        {
+          "text": " I could stand here and watch Yale go by and people, it's very interesting. It's like, you know, kind of like a fishbowl where you can watch people act differently, I mean it's really interesting for me. I'm using it for a social study during the second semester. But aside from that, it's a very comfortable like, atmosphere. I can wait on tables. And so when I graduate from Yale, I'll be able to get a fine job somewhere. I'll be sure of a job, even if I am a philosophy major."
+        }
+      ],
+      "tags": [],
+      "uuid": "1a76b2af-36b1-49d9-89cf-e73fd7493857"
+    },
+    {
+      "start_time": 918.36,
+      "end_time": 927.53,
+      "annotation": [
+        {
+          "text": "SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": " I've felt that many of the men here felt a girl was something that was placed here to listen to them, to help work out their problems. I mean, I've been a shoulder to lean on for too many people already,"
+        }
+      ],
+      "tags": [],
+      "uuid": "537ca3fe-0ab9-4c6a-9517-a99360eaf219"
+    },
+    {
+      "start_time": 929.289,
+      "end_time": 961.11,
+      "annotation": [
+        {
+          "text": "SPEAKER 27:",
+          "bold": true
+        },
+        {
+          "text": " I have good friends here now, even though most of them are guys. It's something that I wish could be different, but the girls are just busy going every which way. One, one thing about Yale, that I really was surprised at, and it's really changed Yale for me, it's that you can be really good friends with guys, accepted as a person and not as a sex object or, you know, what it was before."
+        }
+      ],
+      "tags": [],
+      "uuid": "7bc0d12e-90bb-438d-84df-87b61bc3313d"
+    },
+    {
+      "start_time": 962.22,
+      "end_time": 978.42,
+      "annotation": [
+        {
+          "text": "SPEAKER 28:",
+          "bold": true
+        },
+        {
+          "text": " But the difference is like, as far as whites are concerned, the woman has to move out of second place where as far as blacks are concerned and the environment that I come from, a woman is tired of leading everything, and so that in itself makes a difference."
+        }
+      ],
+      "tags": [],
+      "uuid": "ec2d86c8-079b-4481-bb1e-f37e9036370f"
+    },
+    {
+      "start_time": 978.93,
+      "end_time": 1008.09,
+      "annotation": [
+        {
+          "text": "SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": " I think it's unfair that a girl applying to Yale has so much more competition than a man applying to Yale. It's just, why should she go through the extra hassle? Why shouldn't she be able to have an equivalent education? Plus the fact that when she graduates from Yale, she won't have an equal opportunity again. And she knows this, and these are the things she has to cope with and Yale is making no effort to change it. Through its alumni, which have a tremendous base of power in terms of the American economy and in terms of opening up opportunities for women."
+        }
+      ],
+      "tags": [],
+      "uuid": "47052f59-d6f8-4831-8ec3-019c024548a0"
+    },
+    {
+      "start_time": 1009.2,
+      "end_time": 1045.23,
+      "annotation": [
+        {
+          "text": "Ruth Day:",
+          "bold": true
+        },
+        {
+          "text": " One thing that I think is very interesting about all of this is the way the faculty have gotten some portion of education through the coeducation experience. My impression is that many of my colleagues were amused to have women in the classroom to begin with. They thought interesting theory on the horizon and so on. But of course, women weren't going to go on and be productive members of society. And I've seen changes in this view over the course of one year and male faculty who have been at an all-male institution all of their academic career, now seeing women as being good contributors in the classroom, good thinkers, and in fact, people."
+        }
+      ],
+      "tags": [],
+      "uuid": "aba2d347-a183-48e9-928a-b549051fffc3"
+    },
+    {
+      "start_time": 1046.309,
+      "end_time": 1058.55,
+      "annotation": [
+        {
+          "text": "SPEAKER 23:",
+          "bold": true
+        },
+        {
+          "text": " I think that the woman's point of view is, in some instances, different enough from the man's point of view so that they do have something educationally and obviously not just inside the classroom, but very much outside the classroom."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba0b1edf-0651-40c9-980b-03853018182b"
+    },
+    {
+      "start_time": 1059.39,
+      "end_time": 1088.111,
+      "annotation": [
+        {
+          "text": "Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": " To exclude half the the human race and its point of view, it seems to me, to deprive the class of the values it gets from the diversity of inputs, if you want to call it that, or diversity of participants. And I think that, uh, this itself is educationally impoverishing, and I think the faculty felt that, I think many students felt that."
+        }
+      ],
+      "tags": [],
+      "uuid": "7a3aaea7-be29-48f4-8758-8834c05f60fd"
+    },
+    {
+      "start_time": 1090.08,
+      "end_time": 1170.6,
+      "annotation": [
+        {
+          "text": "Ruth Day:",
+          "bold": true
+        },
+        {
+          "text": " I think the men have benefited from coeducation more than the women. Previously, women would come up for the weekend. And my understanding is they felt very much like objects that came up to be shown off and to be ushered around and so on. And then they went away and there was no good interpersonal interaction. And I think the men are coming to see women as people and interact with them on that basis. And I think that the relationships that are being formed are just much more healthy because of this. But I did notice changes in the men students even within the first term. In the autumn, I found that in a large lecture situation, say two or three hundred students, if a woman would comment on something in class or ask a question, the men were very surprised and they'd look around and sort of look and sort of think it over, hm, listen to all these nice things coming out of this, this, this woman. They seem to be very surprised. And I found this was particularly for the upper classmen, the people who had been here two or three years. And they seemed very struck. And just sort of musing about the whole situation. And as the term wore on, I felt the people began to be more comfortable with each other and indeed come to see each other as people. And I think that's the the main advantage to coeducation, as it's turned out here at Yale."
+        }
+      ],
+      "tags": [],
+      "uuid": "03445e2f-a0f8-436a-a881-ad7cab9a0786"
+    },
+    {
+      "start_time": 1171.17,
+      "end_time": 1188.69,
+      "annotation": [
+        {
+          "text": "Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": " Every student that I know who had any interesting ideas about himself or herself at any level of education have many times, not just hours and minutes, to days, weeks, months when they question why they are, where they are."
+        }
+      ],
+      "tags": [],
+      "uuid": "16132514-8d77-42e0-9bca-25f573ee21f0"
+    },
+    {
+      "start_time": 1189.59,
+      "end_time": 1276.462,
+      "annotation": [
+        {
+          "text": "SPEAKER 25:",
+          "bold": true
+        },
+        {
+          "text": " The times I have been happiest for the most part is when I was alone, when I was doing things alone, doing what I wanted to do alone, and that's OK. I mean, I'm not unhappy here most of the time, but it upsets me every once in a while very deeply that, that the times when I'm happiest are not times when I'm with other human beings, you know, it upsets me deeply that, that I would rather go to the library and work on many occasions than get together a group of people to be with. I mean, it is possible to do a lot of creative things and and be happy, but man, it's impossible to be a complete human being. It's impossible to be a woman if there are no men around who can who can make you feel that way in the way that you need to be made to feel that way, which is a complete way, I mean, it's impossible to be a complete human being if you're a woman without a man and vice versa. And, you know, you can sort of push the problem aside for a while and for a long while. But ultimately, it's, it's a source of unhappiness, it's a source of loneliness that there are not other human beings around to make you complete because you need them. I mean, it's not. You know, there's no such thing as a sovereign human being. End of tirade. [LAUGHTER]"
+        }
+      ],
+      "tags": [],
+      "uuid": "6d34cd8c-da99-414c-84af-3be126b0b4af"
+    },
+    {
+      "start_time": 1277.28,
+      "end_time": 1294.65,
+      "annotation": [
+        {
+          "text": "SPEAKER 23:",
+          "bold": true
+        },
+        {
+          "text": " A few of them are, a few of them are pretty radical about women's liberation, which is obviously pretty pertinent to them, and some of them are interested in, in expanding coeducation. I mean, that as a cause attracts a lot of girls."
+        }
+      ],
+      "tags": [],
+      "uuid": "d6e7a068-f65f-45c9-9bb7-208d0732583c"
+    },
+    {
+      "start_time": 1296.39,
+      "end_time": 1303.406,
+      "annotation": [
+        {
+          "text": "SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": " I think the first thing that Yale has to do if it's ever going to improve the situation, is change the admissions policy and have equal women and male admission."
+        }
+      ],
+      "tags": [],
+      "uuid": "6bb23b01-8e51-4598-98a6-3e9a933ecb56"
+    },
+    {
+      "start_time": 1304.43,
+      "end_time": 1318.62,
+      "annotation": [
+        {
+          "text": "Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": " Well, just to express a wholly untutored and uninformed hunch, I'm rather inclined to think that something less than 50/50 is, may turn out to be better than 50/50."
+        }
+      ],
+      "tags": [],
+      "uuid": "5e00c339-da03-4b56-93ca-f35bb5dfe140"
+    },
+    {
+      "start_time": 1320.216,
+      "end_time": 1325.7,
+      "annotation": [
+        {
+          "text": "SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": " It's still going to have this ambivalence, as to whether it's a weekend school or a coed school. And right now, it's neither one."
+        }
+      ],
+      "tags": [],
+      "uuid": "f8e390e8-7fb8-455c-9056-4e8b451b53e6"
+    },
+    {
+      "start_time": 1326.91,
+      "end_time": 1328.85,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " What exactly should Yale do, do you think?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d43c9c89-448b-4784-b932-020c8596ee66"
+    },
+    {
+      "start_time": 1330.72,
+      "end_time": 1330.803,
+      "annotation": [
+        {
+          "text": "SPEAKER 25:",
+          "bold": true
+        },
+        {
+          "text": " Make it 50/50. Immediately."
+        }
+      ],
+      "tags": [],
+      "uuid": "ebe05265-55b6-425f-8fcb-6ba0bac27272"
+    },
+    {
+      "start_time": 1331.09,
+      "end_time": 1332.15,
+      "annotation": [
+        {
+          "text": "SPEAKER 20:",
+          "bold": true
+        },
+        {
+          "text": " First of all change its admission policy, second of all open up a student center--"
+        }
+      ],
+      "tags": [],
+      "uuid": "004101d1-c1df-4a13-830b-fc4188f59348"
+    },
+    {
+      "start_time": 1333.56,
+      "end_time": 1335.21,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Well how, be a little more specific."
+        }
+      ],
+      "tags": [],
+      "uuid": "3dad5547-b44e-45ca-aebb-aa1d3edb9d7e"
+    },
+    {
+      "start_time": 1335.88,
+      "end_time": 1352.61,
+      "annotation": [
+        {
+          "text": "SPEAKER 25:",
+          "bold": true
+        },
+        {
+          "text": " 50/50. Immediately, this year. Why can't-- 1000 male leaders. I mean, that's what they've got to turn out. Women are made to be wives of leaders, not leaders themselves. And as long as Yale, the president of Yale University maintains an attitude like this, how can you expect Yale to be a fully coeducated university?"
+        }
+      ],
+      "tags": [],
+      "uuid": "be8e7889-f281-45d3-9de8-b32e82ef8642"
+    },
+    {
+      "start_time": 1354.02,
+      "end_time": 1369.35,
+      "annotation": [
+        {
+          "text": "Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": " You know, I'm an optimist and also a rationalizer and a wishful thinker. I think it's been great. I think the place is infinitely better, even though we couldn't do very much about it because of the small and lopsided ratio."
+        }
+      ],
+      "tags": [],
+      "uuid": "ccc0214b-8e77-4b10-836a-6b3c6896f8cc"
+    },
+    {
+      "start_time": 1371.18,
+      "end_time": 1396.327,
+      "annotation": [
+        {
+          "text": "SPEAKER 29:",
+          "bold": true
+        },
+        {
+          "text": " Given the feeling that maybe total coeducation is not what Yale needs. How do you equate the problem then that there aren't women, women in the profession and that you have stated that you feel that Yale should produce a thousand leaders a year now that somehow excludes women within that one thousand, by the way?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce07ccb5-c5a0-4a90-8a9f-7e355819124e"
+    },
+    {
+      "start_time": 1396.84,
+      "end_time": 1465.349,
+      "annotation": [
+        {
+          "text": "Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": " Well, let me, let me, let me say two things. First of all, I should be offering a reward to that person, to show me when I said a thousand male leaders, because it makes a great debating slogan, but I, I don't remember having said it. The, the, but my wife says I did, so maybe I did. [LAUGHTER] So I think the question of whether a 50/50 ratio or I call it a sex-blind admissions policy would be the best thing, is, is, is a function of two other practical considerations. One is what makes the most productive and relaxed environment for living on the part of both men and women. Secondly, to what extent do we have an obligation not to shrink the men's enrollment in Yale in order to maintain the loyalty and continuity of those alumni who have been loyal to us in terms of support, all of whom were men up to now. And I don't think there's anything permanent about this business."
+        }
+      ],
+      "tags": [],
+      "uuid": "6efb2929-175f-48ec-b6ec-1278690266f3"
+    },
+    {
+      "start_time": 1466.759,
+      "end_time": 1475.053,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Do you find that talk about education and concern about coeducation really took a back seat to more major events this year at Yale?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4b14405c-e683-47d9-935d-9340dd07b651"
+    },
+    {
+      "start_time": 1475.053,
+      "end_time": 1503.145,
+      "annotation": [
+        {
+          "text": "SPEAKER 30:",
+          "bold": true
+        },
+        {
+          "text": " Serious about that, I guess. You know, the feeling is still that, you know, the whole thing about women, though, I mean, it's just a lot bigger than just Yale. There was a girl on a panel, there was a meeting at Sprague Hall the other day and there was a girl on the panel, and I think some of the women are the worst offenders. You know what I mean? They don't take it seriously. And they're, I mean, they should be pretty angry about the way we're treated here, and a lot of them just aren't. And um, I'd like to see the women more conscious about being women."
+        }
+      ],
+      "tags": [],
+      "uuid": "f6a888f1-1cae-49f3-8a48-f1831d369870"
+    },
+    {
+      "start_time": 1504.29,
+      "end_time": 1504.53,
+      "annotation": [
+        {
+          "text": "INTERVIEWER:",
+          "bold": true
+        },
+        {
+          "text": " Are you angry?"
+        }
+      ],
+      "tags": [],
+      "uuid": "398acb73-eb79-4064-bf80-682dce0ca67b"
+    },
+    {
+      "start_time": 1506.93,
+      "end_time": 1522.294,
+      "annotation": [
+        {
+          "text": "SPEAKER 30:",
+          "bold": true
+        },
+        {
+          "text": " Yes, in a lot of ways. But I'm angry about being a woman, I mean, I think that, um, like women's liberation is very important. They've been, you know, very kind to us in sort of a grandfatherly way, but I don't think it's really hit them that I'm here on the same basis that he is, that I have the same work to do as he does. But they don't care. They think it's really cute to have girls around."
+        }
+      ],
+      "tags": [],
+      "uuid": "7b4deaf5-61aa-450d-b916-8ddf009970b5"
+    },
+    {
+      "start_time": 1533.63,
+      "end_time": 1564.59,
+      "annotation": [
+        {
+          "text": "Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": " I would hope that the university, I don't think just this one, but any university, felt an obligation to be not only protective, but encouraging the people who do want to question the assumptions of society. This is what all the talk about academic freedom is supposed to be about. The real question is whether the university tends to encourage people to question the assumptions of whatever they're talking about. And, uh, if it doesn't come to that extent, I think it's failed."
+        }
+      ],
+      "tags": [],
+      "uuid": "4d1146d9-9bcc-46c5-9e09-a07b7850d992"
+    },
+    {
+      "start_time": 1570.55,
+      "end_time": 1618.416,
+      "annotation": [
+        {
+          "text": "Kingman Brewster:",
+          "bold": true
+        },
+        {
+          "text": " Maybe we should add some new categories to the political spectrum, maybe we should follow the due-process radicals, at least, at least this would suggest that the tactical acceptance of working for change of the system does not imply an acceptance of every aspect of that system, such a contest of due-process radicalism might help your elders to understand that forebarance to use violence have not constitute complacency. Finally, during your time although I would not conceed you all the credit, the previous coeducation will be accelerated because of your insistance, and while male chauvinism is not on the run, it is on the defensive."
+        }
+      ],
+      "tags": [],
+      "uuid": "e43b1007-e53d-4e0e-b363-368173babc79"
+    },
+    {
+      "start_time": 1700.14,
+      "end_time": 1709.44,
+      "annotation": [
+        {
+          "text": "SPEAKER 31:",
+          "bold": true
+        },
+        {
+          "text": " It's no mere graduation procession, because no women were admitted to the senior class. I bet that'll never happen again."
+        }
+      ],
+      "tags": [],
+      "uuid": "b126d14f-d33c-4f36-8be8-09b3b4f0f78c"
+    }
+  ]
+}
