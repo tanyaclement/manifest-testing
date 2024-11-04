@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "9716c5ab-db89-4fe7-b732-bb15b532ad4d": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/227/450/original/SW182-cleaned-split.wav?1707430509",
+      "duration": 1483
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-11-04T15:59:46.645Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "Imported Event 1",
+  "updated_at": "2024-11-04T15:59:46.645Z",
+  "updated_by": "tanyaclement"
+}
